@@ -1,0 +1,5 @@
+id_plano,nome_plano,periodicidade,preco_mensal
+P1,Básico,Mensal,49.9
+P2,Padrão,Mensal,89.9
+P3,Premium,Mensal,149.9
+P4,Empresarial,Anual,299.9

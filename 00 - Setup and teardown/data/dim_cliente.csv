@@ -1,0 +1,2001 @@
+id_cliente,nome_cliente,segmento,cidade,uf,data_cadastro,canal_aquisicao,faixa_etaria
+C00000,Rafael Oliveira,PME,Rio de Janeiro,RJ,2021-01-09,Indicação,18-25
+C00001,Ana Cardoso,Consumidor,Brasília,DF,2021-03-26,Orgânico,60+
+C00002,Nuno Carvalho,Consumidor,Belo Horizonte,MG,2020-12-18,Orgânico,26-35
+C00003,Diego Gomes,Corporativo,Rio de Janeiro,RJ,2021-11-08,Mídia Paga,60+
+C00004,Rafael Ribeiro,Consumidor,Recife,PE,2022-09-13,Mídia Paga,60+
+C00005,Carla Souza,PME,Porto Alegre,RS,2020-12-11,Mídia Paga,36-45
+C00006,Lucas Lima,Corporativo,Fortaleza,CE,2021-02-20,Indicação,26-35
+C00007,Felipe Cardoso,PME,Rio de Janeiro,RJ,2021-03-19,Mídia Paga,26-35
+C00008,Karina Souza,Consumidor,Porto Alegre,RS,2020-12-31,Orgânico,18-25
+C00009,Sofia Carvalho,PME,Rio de Janeiro,RJ,2022-04-30,Orgânico,46-60
+C00010,Rafael Cardoso,Consumidor,Porto Alegre,RS,2020-10-31,Orgânico,60+
+C00011,Elaine Melo,Consumidor,Salvador,BA,2022-04-22,Indicação,18-25
+C00012,Marina Martins,PME,Manaus,AM,2022-09-28,Indicação,46-60
+C00013,Diego Cardoso,Consumidor,São Paulo,SP,2021-01-05,Mídia Paga,36-45
+C00014,Felipe Melo,Consumidor,Curitiba,PR,2021-07-08,Parceiro,36-45
+C00015,Lucas Lima,PME,Porto Alegre,RS,2022-06-29,Indicação,60+
+C00016,João Ferreira,Corporativo,Salvador,BA,2020-08-03,Orgânico,60+
+C00017,Carla Cardoso,Corporativo,Fortaleza,CE,2020-08-19,Mídia Paga,26-35
+C00018,Gabriela Cardoso,PME,Manaus,AM,2021-09-25,Mídia Paga,26-35
+C00019,Quezia Barbosa,PME,Salvador,BA,2021-09-10,Orgânico,26-35
+C00020,Bruno Ferreira,Consumidor,São Paulo,SP,2022-09-21,Orgânico,18-25
+C00021,Paulo Costa,PME,Porto Alegre,RS,2022-02-20,Indicação,60+
+C00022,Nuno Gomes,Consumidor,Rio de Janeiro,RJ,2022-08-25,Indicação,46-60
+C00023,Marina Carvalho,PME,Rio de Janeiro,RJ,2022-10-01,Mídia Paga,18-25
+C00024,Henrique Oliveira,Consumidor,Curitiba,PR,2021-08-16,Indicação,60+
+C00025,Ana Oliveira,Consumidor,Brasília,DF,2020-07-29,Parceiro,26-35
+C00026,Marina Silva,Consumidor,São Paulo,SP,2022-06-17,Parceiro,36-45
+C00027,Rafael Araújo,Corporativo,Curitiba,PR,2021-09-25,Orgânico,36-45
+C00028,Bruno Teixeira,Consumidor,Salvador,BA,2022-10-05,Indicação,60+
+C00029,Carla Moraes,Consumidor,Rio de Janeiro,RJ,2022-05-26,Orgânico,26-35
+C00030,Carla Rocha,Consumidor,São Paulo,SP,2021-03-08,Mídia Paga,60+
+C00031,Karina Ferreira,Consumidor,Porto Alegre,RS,2021-01-16,Orgânico,26-35
+C00032,Olívia Moraes,PME,Rio de Janeiro,RJ,2022-11-23,Parceiro,18-25
+C00033,Lucas Oliveira,Consumidor,Curitiba,PR,2022-07-20,Mídia Paga,36-45
+C00034,Rafael Ribeiro,Consumidor,Brasília,DF,2022-11-24,Parceiro,18-25
+C00035,Rafael Pereira,Corporativo,Rio de Janeiro,RJ,2022-08-15,Orgânico,60+
+C00036,Isabela Souza,Consumidor,Brasília,DF,2021-07-20,Orgânico,46-60
+C00037,Elaine Almeida,PME,Salvador,BA,2020-10-04,Orgânico,46-60
+C00038,Bruno Gomes,Consumidor,Belo Horizonte,MG,2021-05-23,Indicação,26-35
+C00039,Bruno Gomes,Consumidor,Salvador,BA,2020-09-08,Orgânico,26-35
+C00040,Elaine Ferreira,PME,Manaus,AM,2020-10-26,Mídia Paga,26-35
+C00041,Nuno Ferreira,PME,Salvador,BA,2020-09-22,Orgânico,18-25
+C00042,João Ferreira,Consumidor,Fortaleza,CE,2021-12-09,Orgânico,26-35
+C00043,Isabela Gomes,Consumidor,Rio de Janeiro,RJ,2020-10-02,Indicação,46-60
+C00044,Sofia Almeida,PME,Curitiba,PR,2022-06-03,Orgânico,60+
+C00045,Tiago Melo,Consumidor,Salvador,BA,2021-09-12,Orgânico,60+
+C00046,Gabriela Gomes,Consumidor,Brasília,DF,2020-12-29,Indicação,36-45
+C00047,João Melo,PME,Rio de Janeiro,RJ,2020-11-25,Orgânico,46-60
+C00048,Felipe Moraes,Consumidor,Recife,PE,2021-01-08,Indicação,46-60
+C00049,Nuno Teixeira,Consumidor,Curitiba,PR,2022-05-01,Indicação,36-45
+C00050,Carla Ribeiro,Consumidor,Belo Horizonte,MG,2021-01-27,Indicação,60+
+C00051,João Ferreira,Consumidor,Porto Alegre,RS,2021-01-13,Mídia Paga,26-35
+C00052,Nuno Teixeira,Consumidor,Rio de Janeiro,RJ,2021-08-23,Orgânico,46-60
+C00053,Diego Rocha,Consumidor,São Paulo,SP,2020-10-25,Orgânico,60+
+C00054,Olívia Melo,Consumidor,Belo Horizonte,MG,2020-09-03,Parceiro,60+
+C00055,Quezia Rocha,Consumidor,Fortaleza,CE,2021-03-15,Mídia Paga,60+
+C00056,Isabela Melo,Consumidor,Porto Alegre,RS,2020-07-25,Indicação,26-35
+C00057,Isabela Carvalho,Consumidor,Curitiba,PR,2022-04-06,Orgânico,60+
+C00058,Nuno Rocha,Consumidor,Porto Alegre,RS,2022-09-28,Orgânico,46-60
+C00059,Sofia Silva,Consumidor,Recife,PE,2021-10-30,Mídia Paga,60+
+C00060,Rafael Moraes,Consumidor,Recife,PE,2021-05-30,Mídia Paga,46-60
+C00061,Karina Martins,Consumidor,São Paulo,SP,2021-10-30,Mídia Paga,46-60
+C00062,Ana Oliveira,Corporativo,Manaus,AM,2021-05-04,Indicação,26-35
+C00063,Karina Costa,PME,Curitiba,PR,2021-11-09,Indicação,36-45
+C00064,Carla Araújo,PME,Curitiba,PR,2020-07-31,Orgânico,60+
+C00065,Carla Souza,Consumidor,Porto Alegre,RS,2021-02-05,Mídia Paga,26-35
+C00066,Gabriela Barbosa,Consumidor,Rio de Janeiro,RJ,2021-05-04,Mídia Paga,36-45
+C00067,Felipe Ribeiro,Consumidor,Rio de Janeiro,RJ,2020-09-27,Orgânico,18-25
+C00068,Sofia Ferreira,Corporativo,Porto Alegre,RS,2022-09-16,Orgânico,36-45
+C00069,Sofia Souza,PME,Rio de Janeiro,RJ,2020-09-08,Orgânico,46-60
+C00070,Paulo Santos,PME,Recife,PE,2020-08-12,Indicação,36-45
+C00071,Felipe Melo,PME,Belo Horizonte,MG,2021-09-13,Parceiro,36-45
+C00072,Karina Ferreira,PME,Manaus,AM,2022-03-03,Mídia Paga,18-25
+C00073,Tiago Martins,Consumidor,Fortaleza,CE,2021-04-28,Orgânico,46-60
+C00074,Tiago Almeida,PME,Salvador,BA,2022-02-19,Indicação,60+
+C00075,Rafael Ferreira,Corporativo,Recife,PE,2021-07-20,Mídia Paga,46-60
+C00076,Sofia Gomes,Consumidor,Porto Alegre,RS,2022-01-23,Indicação,60+
+C00077,Lucas Barbosa,Consumidor,Brasília,DF,2021-12-29,Orgânico,36-45
+C00078,Gabriela Araújo,Consumidor,Belo Horizonte,MG,2022-05-20,Orgânico,60+
+C00079,Gabriela Ribeiro,Corporativo,Curitiba,PR,2022-08-22,Orgânico,26-35
+C00080,João Pereira,Consumidor,São Paulo,SP,2021-05-15,Indicação,46-60
+C00081,Paulo Barbosa,Consumidor,Curitiba,PR,2021-08-09,Orgânico,18-25
+C00082,Sofia Souza,Consumidor,Fortaleza,CE,2022-09-18,Orgânico,60+
+C00083,Rafael Rocha,Corporativo,Porto Alegre,RS,2022-08-03,Indicação,60+
+C00084,João Teixeira,Consumidor,Manaus,AM,2021-09-19,Indicação,60+
+C00085,Gabriela Almeida,Corporativo,Porto Alegre,RS,2021-03-02,Mídia Paga,26-35
+C00086,João Souza,Consumidor,Manaus,AM,2021-08-08,Orgânico,36-45
+C00087,Sofia Costa,PME,Porto Alegre,RS,2022-03-07,Indicação,60+
+C00088,João Moraes,Consumidor,São Paulo,SP,2022-06-16,Mídia Paga,60+
+C00089,João Martins,Corporativo,Fortaleza,CE,2020-12-27,Parceiro,60+
+C00090,Isabela Silva,Consumidor,Salvador,BA,2021-03-24,Orgânico,60+
+C00091,Bruno Lima,Consumidor,Curitiba,PR,2021-04-21,Indicação,46-60
+C00092,Paulo Gomes,Corporativo,Fortaleza,CE,2022-08-31,Indicação,36-45
+C00093,Paulo Ribeiro,PME,Salvador,BA,2021-10-07,Mídia Paga,46-60
+C00094,Marina Melo,PME,Salvador,BA,2022-08-06,Mídia Paga,18-25
+C00095,Gabriela Melo,PME,Recife,PE,2022-10-08,Indicação,46-60
+C00096,Paulo Santos,PME,Curitiba,PR,2021-09-10,Orgânico,60+
+C00097,Ana Cardoso,PME,Curitiba,PR,2021-05-17,Indicação,26-35
+C00098,João Melo,Corporativo,Belo Horizonte,MG,2021-07-10,Mídia Paga,46-60
+C00099,Rafael Pereira,PME,Porto Alegre,RS,2021-08-22,Indicação,60+
+C00100,Quezia Almeida,Consumidor,Recife,PE,2021-12-19,Mídia Paga,36-45
+C00101,Paulo Pereira,PME,Manaus,AM,2021-01-26,Indicação,46-60
+C00102,Henrique Teixeira,Consumidor,Salvador,BA,2022-05-23,Indicação,46-60
+C00103,Elaine Araújo,Consumidor,Recife,PE,2021-11-02,Parceiro,26-35
+C00104,Quezia Barbosa,Consumidor,Fortaleza,CE,2022-08-22,Orgânico,26-35
+C00105,Paulo Almeida,Consumidor,Belo Horizonte,MG,2022-09-17,Orgânico,46-60
+C00106,Paulo Cardoso,PME,Recife,PE,2022-01-12,Orgânico,18-25
+C00107,Carla Rocha,Consumidor,Curitiba,PR,2022-04-14,Parceiro,18-25
+C00108,Lucas Gomes,Consumidor,São Paulo,SP,2022-02-05,Indicação,26-35
+C00109,Felipe Oliveira,Consumidor,Belo Horizonte,MG,2022-06-11,Indicação,46-60
+C00110,Isabela Barbosa,PME,Fortaleza,CE,2021-02-17,Orgânico,18-25
+C00111,Rafael Lima,PME,Curitiba,PR,2021-01-08,Orgânico,36-45
+C00112,João Costa,Corporativo,Fortaleza,CE,2020-07-20,Parceiro,46-60
+C00113,João Ribeiro,Consumidor,Salvador,BA,2021-04-23,Orgânico,46-60
+C00114,Paulo Ribeiro,Consumidor,São Paulo,SP,2021-03-22,Mídia Paga,26-35
+C00115,Isabela Pereira,PME,Porto Alegre,RS,2021-03-07,Indicação,18-25
+C00116,Karina Rocha,Consumidor,Rio de Janeiro,RJ,2022-02-03,Orgânico,26-35
+C00117,Quezia Almeida,PME,Salvador,BA,2021-06-07,Mídia Paga,36-45
+C00118,Diego Barbosa,Corporativo,Salvador,BA,2020-08-31,Parceiro,26-35
+C00119,Rafael Gomes,PME,Recife,PE,2020-07-19,Orgânico,46-60
+C00120,Marina Gomes,Consumidor,Curitiba,PR,2021-04-13,Orgânico,26-35
+C00121,Tiago Ferreira,Consumidor,Brasília,DF,2022-01-01,Indicação,46-60
+C00122,Paulo Santos,Corporativo,São Paulo,SP,2022-01-25,Orgânico,60+
+C00123,Sofia Pereira,Consumidor,Brasília,DF,2021-09-29,Mídia Paga,18-25
+C00124,Olívia Barbosa,PME,Salvador,BA,2022-04-24,Parceiro,36-45
+C00125,Lucas Souza,Consumidor,Brasília,DF,2021-02-10,Indicação,26-35
+C00126,Tiago Silva,Corporativo,Porto Alegre,RS,2021-02-13,Orgânico,36-45
+C00127,Carla Cardoso,Consumidor,Manaus,AM,2022-05-06,Orgânico,26-35
+C00128,Isabela Pereira,PME,Manaus,AM,2022-11-30,Parceiro,60+
+C00129,Ana Gomes,Consumidor,São Paulo,SP,2022-07-21,Mídia Paga,26-35
+C00130,Diego Oliveira,Consumidor,Recife,PE,2021-06-12,Indicação,36-45
+C00131,Tiago Souza,Consumidor,Brasília,DF,2022-04-20,Mídia Paga,60+
+C00132,Diego Araújo,Consumidor,Recife,PE,2021-09-22,Mídia Paga,46-60
+C00133,Carla Pereira,Consumidor,Manaus,AM,2022-07-04,Orgânico,60+
+C00134,Tiago Rocha,Consumidor,Fortaleza,CE,2021-07-03,Orgânico,18-25
+C00135,Gabriela Rocha,PME,Brasília,DF,2020-11-24,Indicação,26-35
+C00136,Karina Almeida,Consumidor,Salvador,BA,2021-09-21,Indicação,26-35
+C00137,Carla Oliveira,PME,Rio de Janeiro,RJ,2020-08-03,Indicação,36-45
+C00138,Diego Rocha,PME,Salvador,BA,2021-01-15,Indicação,46-60
+C00139,João Gomes,PME,Curitiba,PR,2021-03-28,Orgânico,60+
+C00140,Diego Almeida,Consumidor,Brasília,DF,2021-11-21,Indicação,46-60
+C00141,Rafael Silva,PME,Manaus,AM,2021-03-14,Indicação,36-45
+C00142,Felipe Pereira,Consumidor,Salvador,BA,2022-11-26,Indicação,46-60
+C00143,Quezia Costa,Consumidor,São Paulo,SP,2022-08-31,Indicação,46-60
+C00144,Carla Souza,Consumidor,Manaus,AM,2021-04-01,Orgânico,60+
+C00145,Nuno Araújo,Consumidor,Fortaleza,CE,2021-01-24,Indicação,46-60
+C00146,Sofia Araújo,Consumidor,Curitiba,PR,2021-01-07,Indicação,36-45
+C00147,Ana Costa,Consumidor,Manaus,AM,2022-10-07,Orgânico,26-35
+C00148,Nuno Lima,PME,Fortaleza,CE,2020-10-29,Orgânico,60+
+C00149,Marina Souza,PME,Salvador,BA,2022-09-20,Indicação,46-60
+C00150,Diego Martins,Corporativo,Recife,PE,2022-02-09,Orgânico,36-45
+C00151,Lucas Oliveira,Consumidor,Fortaleza,CE,2020-08-03,Indicação,18-25
+C00152,Karina Ferreira,Consumidor,Curitiba,PR,2020-10-30,Orgânico,26-35
+C00153,Gabriela Gomes,Consumidor,Brasília,DF,2021-06-28,Indicação,26-35
+C00154,Paulo Barbosa,Consumidor,Rio de Janeiro,RJ,2022-06-04,Mídia Paga,60+
+C00155,Tiago Carvalho,Consumidor,Manaus,AM,2021-02-12,Mídia Paga,36-45
+C00156,Bruno Gomes,Consumidor,Curitiba,PR,2021-04-06,Indicação,36-45
+C00157,João Oliveira,Consumidor,Salvador,BA,2020-08-03,Indicação,18-25
+C00158,Sofia Costa,PME,São Paulo,SP,2021-08-29,Orgânico,46-60
+C00159,Karina Oliveira,Consumidor,Fortaleza,CE,2022-08-19,Indicação,26-35
+C00160,Lucas Gomes,Consumidor,Manaus,AM,2022-06-23,Parceiro,46-60
+C00161,Karina Oliveira,Consumidor,Manaus,AM,2022-10-10,Orgânico,60+
+C00162,Karina Oliveira,PME,Manaus,AM,2022-07-02,Indicação,26-35
+C00163,Tiago Oliveira,Corporativo,Recife,PE,2022-07-23,Orgânico,46-60
+C00164,Nuno Melo,PME,Brasília,DF,2022-08-29,Indicação,36-45
+C00165,Paulo Costa,Consumidor,Salvador,BA,2020-10-09,Orgânico,26-35
+C00166,Quezia Souza,Consumidor,Brasília,DF,2020-07-30,Mídia Paga,60+
+C00167,Tiago Lima,Consumidor,Belo Horizonte,MG,2022-05-31,Mídia Paga,18-25
+C00168,Olívia Ferreira,Consumidor,Curitiba,PR,2020-10-23,Indicação,36-45
+C00169,Sofia Barbosa,Corporativo,Porto Alegre,RS,2021-11-21,Indicação,36-45
+C00170,Tiago Pereira,PME,Porto Alegre,RS,2020-09-03,Mídia Paga,18-25
+C00171,Quezia Santos,PME,Brasília,DF,2022-08-19,Orgânico,26-35
+C00172,Olívia Gomes,Consumidor,Porto Alegre,RS,2020-08-18,Parceiro,46-60
+C00173,Carla Gomes,Consumidor,Porto Alegre,RS,2021-11-02,Orgânico,36-45
+C00174,João Araújo,Corporativo,Belo Horizonte,MG,2022-10-24,Mídia Paga,26-35
+C00175,Carla Silva,PME,Manaus,AM,2022-11-27,Orgânico,26-35
+C00176,João Santos,Consumidor,Curitiba,PR,2022-04-03,Orgânico,46-60
+C00177,Paulo Moraes,PME,Rio de Janeiro,RJ,2022-08-11,Indicação,60+
+C00178,Sofia Rocha,Consumidor,Salvador,BA,2022-03-31,Orgânico,18-25
+C00179,Quezia Melo,Consumidor,Brasília,DF,2021-05-24,Indicação,46-60
+C00180,Carla Gomes,PME,São Paulo,SP,2021-12-02,Orgânico,18-25
+C00181,Bruno Gomes,PME,Salvador,BA,2022-07-19,Indicação,26-35
+C00182,Elaine Oliveira,PME,Belo Horizonte,MG,2020-08-24,Mídia Paga,46-60
+C00183,Karina Ribeiro,Consumidor,Porto Alegre,RS,2022-10-21,Indicação,60+
+C00184,Karina Almeida,Consumidor,São Paulo,SP,2021-01-30,Orgânico,36-45
+C00185,Karina Lima,Consumidor,Fortaleza,CE,2021-11-02,Indicação,46-60
+C00186,Nuno Moraes,Consumidor,Recife,PE,2022-09-13,Parceiro,26-35
+C00187,João Ribeiro,Consumidor,Rio de Janeiro,RJ,2022-01-01,Indicação,46-60
+C00188,Nuno Almeida,Consumidor,Salvador,BA,2021-03-13,Indicação,18-25
+C00189,Felipe Silva,Consumidor,Salvador,BA,2021-06-25,Orgânico,60+
+C00190,Marina Teixeira,PME,Salvador,BA,2021-11-27,Orgânico,26-35
+C00191,Carla Teixeira,PME,Salvador,BA,2021-09-04,Orgânico,36-45
+C00192,Quezia Martins,Consumidor,Belo Horizonte,MG,2021-07-09,Parceiro,18-25
+C00193,Tiago Ribeiro,Consumidor,Fortaleza,CE,2022-04-27,Mídia Paga,46-60
+C00194,Karina Gomes,Consumidor,Fortaleza,CE,2022-09-04,Mídia Paga,60+
+C00195,Felipe Gomes,Consumidor,Belo Horizonte,MG,2020-12-04,Indicação,18-25
+C00196,Sofia Gomes,Corporativo,Salvador,BA,2021-05-14,Indicação,60+
+C00197,Marina Araújo,Consumidor,Rio de Janeiro,RJ,2022-01-20,Indicação,46-60
+C00198,Quezia Gomes,PME,Fortaleza,CE,2021-08-12,Orgânico,60+
+C00199,Quezia Souza,PME,Belo Horizonte,MG,2021-09-15,Mídia Paga,60+
+C00200,João Oliveira,Consumidor,Salvador,BA,2021-06-19,Orgânico,60+
+C00201,Carla Melo,Consumidor,Manaus,AM,2021-06-04,Indicação,60+
+C00202,Sofia Souza,Corporativo,Manaus,AM,2021-12-22,Mídia Paga,18-25
+C00203,Gabriela Teixeira,Consumidor,Manaus,AM,2022-03-06,Indicação,18-25
+C00204,Marina Ribeiro,Consumidor,Fortaleza,CE,2022-03-27,Indicação,18-25
+C00205,Karina Moraes,Consumidor,Fortaleza,CE,2022-05-08,Orgânico,36-45
+C00206,Rafael Santos,PME,Salvador,BA,2021-06-23,Orgânico,46-60
+C00207,Bruno Ribeiro,Consumidor,Belo Horizonte,MG,2022-08-25,Parceiro,60+
+C00208,Karina Costa,Consumidor,Manaus,AM,2020-11-24,Mídia Paga,46-60
+C00209,Ana Oliveira,Corporativo,Curitiba,PR,2021-07-11,Parceiro,60+
+C00210,Tiago Araújo,Consumidor,Curitiba,PR,2021-07-14,Orgânico,18-25
+C00211,Lucas Martins,PME,Curitiba,PR,2020-11-18,Indicação,46-60
+C00212,Olívia Cardoso,Consumidor,Recife,PE,2021-07-04,Orgânico,60+
+C00213,Lucas Carvalho,PME,Rio de Janeiro,RJ,2021-10-25,Indicação,36-45
+C00214,Elaine Carvalho,PME,São Paulo,SP,2022-10-24,Mídia Paga,60+
+C00215,Karina Moraes,Consumidor,Brasília,DF,2022-07-12,Orgânico,46-60
+C00216,Paulo Teixeira,Corporativo,Brasília,DF,2021-06-05,Orgânico,18-25
+C00217,João Silva,Consumidor,Recife,PE,2021-04-14,Indicação,36-45
+C00218,Paulo Lima,Corporativo,São Paulo,SP,2021-04-14,Indicação,60+
+C00219,Sofia Santos,PME,Porto Alegre,RS,2022-10-31,Orgânico,46-60
+C00220,Bruno Pereira,Consumidor,Manaus,AM,2021-08-07,Indicação,60+
+C00221,Karina Lima,Consumidor,Brasília,DF,2021-11-12,Indicação,60+
+C00222,Paulo Costa,Consumidor,Curitiba,PR,2021-03-18,Parceiro,36-45
+C00223,João Costa,Consumidor,Curitiba,PR,2020-10-04,Mídia Paga,46-60
+C00224,Diego Teixeira,Consumidor,Curitiba,PR,2022-02-11,Mídia Paga,46-60
+C00225,Elaine Ribeiro,PME,Salvador,BA,2020-10-02,Orgânico,18-25
+C00226,Rafael Almeida,Consumidor,Porto Alegre,RS,2020-08-07,Parceiro,36-45
+C00227,Henrique Souza,Consumidor,Manaus,AM,2022-04-01,Mídia Paga,60+
+C00228,Elaine Silva,Consumidor,Fortaleza,CE,2022-08-22,Parceiro,26-35
+C00229,Gabriela Ribeiro,Consumidor,Fortaleza,CE,2021-08-01,Orgânico,18-25
+C00230,Nuno Lima,Corporativo,São Paulo,SP,2022-06-06,Parceiro,18-25
+C00231,João Souza,Corporativo,Fortaleza,CE,2022-05-26,Orgânico,60+
+C00232,Paulo Pereira,PME,Brasília,DF,2021-06-14,Mídia Paga,46-60
+C00233,Olívia Almeida,Consumidor,Salvador,BA,2022-06-19,Mídia Paga,18-25
+C00234,Marina Rocha,PME,Belo Horizonte,MG,2021-03-17,Indicação,18-25
+C00235,Karina Ferreira,Consumidor,Belo Horizonte,MG,2021-08-01,Orgânico,46-60
+C00236,Isabela Gomes,Consumidor,Manaus,AM,2022-11-21,Mídia Paga,18-25
+C00237,Quezia Ribeiro,PME,Belo Horizonte,MG,2021-10-13,Mídia Paga,36-45
+C00238,Tiago Gomes,Consumidor,Fortaleza,CE,2020-10-28,Indicação,60+
+C00239,Henrique Moraes,Corporativo,Porto Alegre,RS,2020-10-13,Mídia Paga,18-25
+C00240,Rafael Melo,Consumidor,Rio de Janeiro,RJ,2022-09-30,Orgânico,60+
+C00241,Diego Costa,Consumidor,Brasília,DF,2021-09-06,Mídia Paga,46-60
+C00242,Olívia Teixeira,Consumidor,Brasília,DF,2021-10-03,Orgânico,46-60
+C00243,Isabela Silva,PME,São Paulo,SP,2021-10-23,Mídia Paga,60+
+C00244,Paulo Souza,Consumidor,São Paulo,SP,2022-09-23,Orgânico,26-35
+C00245,Marina Barbosa,PME,Recife,PE,2021-11-14,Mídia Paga,46-60
+C00246,Felipe Cardoso,Consumidor,Salvador,BA,2022-08-03,Indicação,26-35
+C00247,Ana Ribeiro,PME,São Paulo,SP,2020-10-19,Indicação,60+
+C00248,Gabriela Santos,Consumidor,Belo Horizonte,MG,2022-02-23,Orgânico,46-60
+C00249,Gabriela Oliveira,PME,São Paulo,SP,2022-03-31,Orgânico,18-25
+C00250,Olívia Ferreira,Consumidor,São Paulo,SP,2021-10-17,Indicação,18-25
+C00251,Sofia Carvalho,Consumidor,Porto Alegre,RS,2020-08-19,Indicação,36-45
+C00252,Isabela Souza,Consumidor,Recife,PE,2022-01-29,Indicação,60+
+C00253,Paulo Souza,PME,Recife,PE,2021-05-12,Parceiro,46-60
+C00254,Rafael Araújo,PME,Recife,PE,2022-05-28,Orgânico,26-35
+C00255,Rafael Rocha,Consumidor,Fortaleza,CE,2022-10-04,Parceiro,60+
+C00256,Lucas Oliveira,Consumidor,Rio de Janeiro,RJ,2021-08-29,Indicação,26-35
+C00257,Bruno Oliveira,Consumidor,Manaus,AM,2021-03-25,Orgânico,60+
+C00258,Ana Costa,PME,Salvador,BA,2022-01-26,Parceiro,18-25
+C00259,Tiago Costa,PME,Porto Alegre,RS,2020-12-20,Indicação,26-35
+C00260,Isabela Gomes,Consumidor,Salvador,BA,2022-01-21,Indicação,46-60
+C00261,Karina Costa,Consumidor,Fortaleza,CE,2020-10-14,Indicação,46-60
+C00262,Sofia Rocha,Consumidor,Brasília,DF,2021-04-13,Orgânico,26-35
+C00263,Rafael Carvalho,Consumidor,Porto Alegre,RS,2021-07-09,Orgânico,46-60
+C00264,Elaine Cardoso,Corporativo,Salvador,BA,2022-06-12,Indicação,60+
+C00265,Carla Souza,Corporativo,Brasília,DF,2022-10-29,Mídia Paga,46-60
+C00266,Olívia Gomes,Consumidor,Porto Alegre,RS,2021-07-03,Orgânico,60+
+C00267,Rafael Cardoso,Corporativo,São Paulo,SP,2022-11-26,Indicação,18-25
+C00268,Felipe Santos,Consumidor,Recife,PE,2020-08-29,Parceiro,60+
+C00269,Lucas Almeida,Consumidor,Brasília,DF,2022-03-19,Mídia Paga,18-25
+C00270,Carla Souza,Consumidor,Porto Alegre,RS,2022-01-29,Orgânico,46-60
+C00271,Felipe Oliveira,Consumidor,São Paulo,SP,2020-12-13,Indicação,46-60
+C00272,Henrique Costa,PME,Brasília,DF,2022-10-20,Parceiro,60+
+C00273,Isabela Cardoso,Consumidor,Rio de Janeiro,RJ,2021-01-01,Indicação,18-25
+C00274,Marina Oliveira,Consumidor,Belo Horizonte,MG,2020-10-23,Orgânico,60+
+C00275,Rafael Carvalho,Consumidor,Recife,PE,2021-01-08,Indicação,26-35
+C00276,Diego Rocha,PME,Salvador,BA,2022-10-09,Orgânico,18-25
+C00277,Karina Silva,Consumidor,Manaus,AM,2021-10-22,Indicação,46-60
+C00278,Marina Oliveira,Consumidor,Manaus,AM,2021-01-25,Mídia Paga,36-45
+C00279,Elaine Martins,PME,Rio de Janeiro,RJ,2022-03-03,Mídia Paga,26-35
+C00280,Lucas Almeida,PME,Curitiba,PR,2021-09-03,Orgânico,18-25
+C00281,Nuno Santos,Consumidor,Brasília,DF,2021-06-26,Orgânico,36-45
+C00282,Nuno Martins,Consumidor,São Paulo,SP,2022-02-07,Mídia Paga,60+
+C00283,Felipe Martins,Corporativo,Manaus,AM,2021-06-17,Orgânico,36-45
+C00284,Paulo Oliveira,Consumidor,Recife,PE,2022-01-30,Indicação,26-35
+C00285,Olívia Santos,PME,Manaus,AM,2022-05-16,Orgânico,18-25
+C00286,Karina Rocha,Corporativo,Salvador,BA,2021-09-08,Mídia Paga,60+
+C00287,Karina Lima,Consumidor,Porto Alegre,RS,2021-07-30,Parceiro,36-45
+C00288,Marina Almeida,Consumidor,Porto Alegre,RS,2022-01-03,Mídia Paga,46-60
+C00289,Rafael Lima,Consumidor,Porto Alegre,RS,2021-04-05,Mídia Paga,60+
+C00290,Carla Rocha,Consumidor,Curitiba,PR,2020-08-03,Mídia Paga,26-35
+C00291,Nuno Martins,PME,Belo Horizonte,MG,2020-11-30,Orgânico,60+
+C00292,Bruno Gomes,Consumidor,Recife,PE,2021-05-25,Mídia Paga,60+
+C00293,Henrique Gomes,Consumidor,Rio de Janeiro,RJ,2020-10-06,Orgânico,60+
+C00294,Nuno Santos,Consumidor,Salvador,BA,2020-09-08,Orgânico,36-45
+C00295,Sofia Ferreira,Consumidor,Brasília,DF,2021-04-17,Indicação,46-60
+C00296,Diego Ribeiro,Consumidor,São Paulo,SP,2021-07-26,Indicação,18-25
+C00297,João Carvalho,Consumidor,Belo Horizonte,MG,2021-12-11,Indicação,26-35
+C00298,Carla Ribeiro,Consumidor,Fortaleza,CE,2022-01-10,Orgânico,18-25
+C00299,Felipe Ferreira,Consumidor,Rio de Janeiro,RJ,2021-01-08,Indicação,60+
+C00300,Felipe Lima,Consumidor,Recife,PE,2021-02-26,Indicação,46-60
+C00301,Sofia Rocha,Consumidor,Porto Alegre,RS,2021-08-29,Indicação,26-35
+C00302,Rafael Lima,Consumidor,Rio de Janeiro,RJ,2020-09-05,Indicação,26-35
+C00303,Karina Moraes,Consumidor,Fortaleza,CE,2021-06-10,Indicação,46-60
+C00304,Sofia Oliveira,Consumidor,Curitiba,PR,2021-03-13,Mídia Paga,36-45
+C00305,Elaine Melo,Consumidor,Belo Horizonte,MG,2021-11-15,Indicação,60+
+C00306,Felipe Araújo,Consumidor,Belo Horizonte,MG,2021-05-13,Orgânico,26-35
+C00307,Ana Araújo,Consumidor,São Paulo,SP,2021-11-30,Orgânico,46-60
+C00308,Olívia Araújo,Corporativo,Recife,PE,2020-12-05,Orgânico,60+
+C00309,Isabela Ferreira,Consumidor,Curitiba,PR,2022-10-30,Indicação,26-35
+C00310,Sofia Santos,PME,Brasília,DF,2022-08-09,Orgânico,60+
+C00311,Olívia Cardoso,PME,São Paulo,SP,2020-10-15,Orgânico,46-60
+C00312,Isabela Gomes,Consumidor,São Paulo,SP,2021-08-29,Mídia Paga,18-25
+C00313,Sofia Gomes,Consumidor,Porto Alegre,RS,2022-05-02,Mídia Paga,60+
+C00314,Bruno Teixeira,PME,Porto Alegre,RS,2020-08-30,Indicação,36-45
+C00315,Sofia Almeida,Consumidor,Curitiba,PR,2022-02-09,Parceiro,60+
+C00316,Isabela Pereira,Corporativo,Recife,PE,2022-10-03,Mídia Paga,26-35
+C00317,Marina Araújo,Consumidor,Porto Alegre,RS,2020-10-14,Orgânico,36-45
+C00318,Quezia Almeida,PME,Rio de Janeiro,RJ,2021-10-16,Mídia Paga,36-45
+C00319,Carla Barbosa,Consumidor,Manaus,AM,2022-11-30,Indicação,36-45
+C00320,Isabela Carvalho,PME,Porto Alegre,RS,2021-07-14,Mídia Paga,36-45
+C00321,Karina Souza,Consumidor,Fortaleza,CE,2020-09-16,Orgânico,46-60
+C00322,Elaine Ribeiro,Consumidor,Recife,PE,2022-05-09,Orgânico,36-45
+C00323,Felipe Souza,Consumidor,Rio de Janeiro,RJ,2021-11-17,Indicação,36-45
+C00324,Gabriela Araújo,PME,Rio de Janeiro,RJ,2022-12-01,Orgânico,60+
+C00325,Karina Santos,Consumidor,São Paulo,SP,2022-11-24,Parceiro,46-60
+C00326,Karina Gomes,PME,Rio de Janeiro,RJ,2022-08-19,Mídia Paga,26-35
+C00327,Elaine Oliveira,Consumidor,Belo Horizonte,MG,2021-02-14,Indicação,18-25
+C00328,Tiago Barbosa,PME,Belo Horizonte,MG,2021-10-07,Mídia Paga,18-25
+C00329,Marina Gomes,PME,Rio de Janeiro,RJ,2021-04-08,Parceiro,36-45
+C00330,Tiago Ribeiro,PME,Manaus,AM,2021-03-28,Mídia Paga,18-25
+C00331,Quezia Moraes,PME,Curitiba,PR,2022-05-06,Indicação,46-60
+C00332,Diego Ferreira,Consumidor,Fortaleza,CE,2021-11-02,Indicação,60+
+C00333,Karina Pereira,Consumidor,São Paulo,SP,2021-11-28,Indicação,60+
+C00334,Sofia Oliveira,Consumidor,Rio de Janeiro,RJ,2022-11-15,Orgânico,26-35
+C00335,João Melo,Consumidor,Recife,PE,2021-07-02,Mídia Paga,46-60
+C00336,João Oliveira,PME,Curitiba,PR,2022-09-08,Indicação,26-35
+C00337,Sofia Oliveira,Corporativo,Salvador,BA,2021-10-28,Orgânico,46-60
+C00338,Olívia Moraes,PME,Recife,PE,2022-08-06,Indicação,36-45
+C00339,Ana Pereira,PME,Belo Horizonte,MG,2022-08-02,Mídia Paga,26-35
+C00340,Lucas Pereira,Consumidor,Curitiba,PR,2022-06-15,Mídia Paga,36-45
+C00341,Nuno Almeida,PME,São Paulo,SP,2021-12-24,Indicação,36-45
+C00342,Paulo Teixeira,PME,Salvador,BA,2022-10-07,Orgânico,26-35
+C00343,Diego Ferreira,Consumidor,Manaus,AM,2021-01-11,Mídia Paga,18-25
+C00344,Felipe Souza,Consumidor,Recife,PE,2022-07-02,Indicação,46-60
+C00345,Carla Teixeira,Consumidor,Salvador,BA,2022-02-28,Indicação,60+
+C00346,Carla Barbosa,PME,São Paulo,SP,2021-10-18,Mídia Paga,36-45
+C00347,Gabriela Ribeiro,Consumidor,São Paulo,SP,2021-11-20,Indicação,36-45
+C00348,Rafael Ferreira,PME,Porto Alegre,RS,2020-11-12,Orgânico,46-60
+C00349,Ana Martins,Consumidor,São Paulo,SP,2021-12-24,Mídia Paga,36-45
+C00350,Isabela Oliveira,Consumidor,São Paulo,SP,2022-07-10,Orgânico,26-35
+C00351,Carla Teixeira,PME,Salvador,BA,2021-08-20,Orgânico,26-35
+C00352,João Almeida,PME,Belo Horizonte,MG,2022-04-04,Mídia Paga,46-60
+C00353,Isabela Ferreira,PME,Salvador,BA,2021-08-26,Orgânico,26-35
+C00354,Karina Rocha,Consumidor,Fortaleza,CE,2021-08-12,Orgânico,36-45
+C00355,Isabela Santos,Corporativo,Curitiba,PR,2021-08-15,Orgânico,36-45
+C00356,Carla Ferreira,PME,Salvador,BA,2022-07-04,Parceiro,46-60
+C00357,Felipe Silva,Consumidor,Curitiba,PR,2020-08-15,Parceiro,46-60
+C00358,Ana Souza,Consumidor,Belo Horizonte,MG,2022-07-31,Mídia Paga,26-35
+C00359,Carla Teixeira,Consumidor,Salvador,BA,2020-12-30,Indicação,18-25
+C00360,Karina Santos,Consumidor,Belo Horizonte,MG,2022-08-30,Orgânico,46-60
+C00361,Marina Araújo,Consumidor,Recife,PE,2020-08-13,Orgânico,46-60
+C00362,Tiago Moraes,Consumidor,Belo Horizonte,MG,2022-10-28,Indicação,36-45
+C00363,Carla Almeida,Consumidor,Fortaleza,CE,2022-10-01,Indicação,46-60
+C00364,Ana Martins,Consumidor,Brasília,DF,2020-09-10,Mídia Paga,36-45
+C00365,Quezia Carvalho,Consumidor,Salvador,BA,2021-05-02,Indicação,26-35
+C00366,Paulo Melo,Consumidor,Curitiba,PR,2022-10-04,Indicação,60+
+C00367,Henrique Almeida,Corporativo,Rio de Janeiro,RJ,2022-03-24,Indicação,18-25
+C00368,Felipe Lima,PME,Recife,PE,2021-12-04,Orgânico,36-45
+C00369,Lucas Teixeira,PME,Manaus,AM,2022-11-04,Indicação,60+
+C00370,Felipe Araújo,Corporativo,Brasília,DF,2022-01-20,Orgânico,18-25
+C00371,Ana Carvalho,Consumidor,Brasília,DF,2021-07-31,Parceiro,26-35
+C00372,Ana Pereira,PME,Salvador,BA,2022-10-03,Indicação,26-35
+C00373,Lucas Martins,PME,Salvador,BA,2022-09-19,Indicação,36-45
+C00374,Karina Lima,Consumidor,Fortaleza,CE,2021-02-06,Mídia Paga,60+
+C00375,Sofia Lima,PME,Salvador,BA,2022-04-18,Indicação,36-45
+C00376,Sofia Souza,Consumidor,Recife,PE,2020-10-04,Orgânico,36-45
+C00377,Sofia Santos,Corporativo,Porto Alegre,RS,2021-02-16,Parceiro,26-35
+C00378,Karina Barbosa,Consumidor,Rio de Janeiro,RJ,2020-08-13,Orgânico,26-35
+C00379,Diego Silva,Consumidor,Curitiba,PR,2020-09-18,Orgânico,46-60
+C00380,Rafael Martins,PME,Recife,PE,2021-12-08,Orgânico,46-60
+C00381,Olívia Oliveira,PME,Porto Alegre,RS,2022-06-19,Mídia Paga,18-25
+C00382,Felipe Oliveira,Consumidor,Belo Horizonte,MG,2021-11-13,Indicação,18-25
+C00383,Ana Rocha,Consumidor,Fortaleza,CE,2020-12-11,Parceiro,26-35
+C00384,Rafael Cardoso,PME,Porto Alegre,RS,2021-10-09,Orgânico,36-45
+C00385,Rafael Araújo,Consumidor,Recife,PE,2021-04-26,Orgânico,36-45
+C00386,Diego Silva,Consumidor,Fortaleza,CE,2022-05-12,Orgânico,36-45
+C00387,Marina Araújo,Corporativo,Rio de Janeiro,RJ,2022-01-21,Indicação,36-45
+C00388,Olívia Souza,Consumidor,Salvador,BA,2022-05-25,Orgânico,46-60
+C00389,Elaine Santos,Consumidor,Manaus,AM,2022-09-30,Orgânico,36-45
+C00390,Marina Melo,PME,São Paulo,SP,2020-07-25,Indicação,60+
+C00391,Paulo Ribeiro,PME,Manaus,AM,2022-04-05,Orgânico,18-25
+C00392,Diego Barbosa,Consumidor,Manaus,AM,2022-07-05,Orgânico,26-35
+C00393,Nuno Oliveira,Corporativo,Belo Horizonte,MG,2022-10-20,Parceiro,46-60
+C00394,Carla Oliveira,Consumidor,Salvador,BA,2020-11-18,Indicação,46-60
+C00395,Ana Moraes,Consumidor,Brasília,DF,2021-08-20,Indicação,46-60
+C00396,Sofia Santos,Consumidor,Rio de Janeiro,RJ,2022-08-16,Mídia Paga,60+
+C00397,Paulo Teixeira,PME,Curitiba,PR,2021-11-05,Indicação,18-25
+C00398,Marina Carvalho,Consumidor,Recife,PE,2022-10-24,Mídia Paga,18-25
+C00399,Karina Ribeiro,PME,Salvador,BA,2022-11-12,Orgânico,46-60
+C00400,Olívia Carvalho,PME,Curitiba,PR,2020-11-01,Orgânico,46-60
+C00401,Nuno Araújo,PME,Fortaleza,CE,2022-04-30,Mídia Paga,36-45
+C00402,Elaine Melo,PME,Brasília,DF,2021-10-15,Mídia Paga,18-25
+C00403,Bruno Ferreira,Consumidor,Porto Alegre,RS,2020-07-28,Orgânico,18-25
+C00404,Diego Silva,Corporativo,Brasília,DF,2021-10-22,Orgânico,46-60
+C00405,Rafael Gomes,Consumidor,Fortaleza,CE,2021-04-11,Orgânico,36-45
+C00406,Gabriela Ferreira,PME,Belo Horizonte,MG,2021-04-26,Indicação,26-35
+C00407,Ana Araújo,Consumidor,São Paulo,SP,2020-09-24,Parceiro,26-35
+C00408,Isabela Rocha,PME,Curitiba,PR,2020-12-03,Mídia Paga,36-45
+C00409,Quezia Moraes,Consumidor,Curitiba,PR,2021-01-08,Indicação,18-25
+C00410,Tiago Moraes,Consumidor,Brasília,DF,2021-02-08,Orgânico,18-25
+C00411,Karina Almeida,Consumidor,Curitiba,PR,2021-02-15,Orgânico,36-45
+C00412,Karina Pereira,Consumidor,Manaus,AM,2021-10-15,Mídia Paga,46-60
+C00413,Marina Souza,Corporativo,Recife,PE,2021-10-14,Indicação,60+
+C00414,Lucas Melo,PME,Fortaleza,CE,2021-01-14,Orgânico,26-35
+C00415,Diego Araújo,PME,Belo Horizonte,MG,2022-02-05,Orgânico,36-45
+C00416,Carla Ferreira,PME,Salvador,BA,2021-01-31,Indicação,36-45
+C00417,Sofia Ribeiro,Consumidor,Salvador,BA,2022-03-11,Indicação,18-25
+C00418,Gabriela Melo,Consumidor,Rio de Janeiro,RJ,2021-08-06,Orgânico,46-60
+C00419,Gabriela Carvalho,Consumidor,Belo Horizonte,MG,2022-07-15,Indicação,60+
+C00420,Carla Araújo,PME,Belo Horizonte,MG,2020-09-26,Orgânico,26-35
+C00421,Gabriela Lima,Consumidor,Fortaleza,CE,2022-02-25,Indicação,26-35
+C00422,Nuno Araújo,Consumidor,Recife,PE,2021-10-15,Indicação,18-25
+C00423,Quezia Costa,Consumidor,São Paulo,SP,2022-01-07,Orgânico,18-25
+C00424,Marina Melo,PME,Belo Horizonte,MG,2022-08-19,Indicação,26-35
+C00425,Quezia Moraes,Consumidor,Curitiba,PR,2021-08-23,Indicação,46-60
+C00426,Gabriela Lima,PME,Salvador,BA,2020-10-25,Parceiro,46-60
+C00427,Ana Teixeira,Consumidor,Belo Horizonte,MG,2022-04-30,Indicação,18-25
+C00428,Rafael Moraes,Consumidor,Curitiba,PR,2020-10-04,Orgânico,18-25
+C00429,Diego Rocha,PME,São Paulo,SP,2022-10-14,Indicação,18-25
+C00430,Nuno Santos,Consumidor,São Paulo,SP,2022-01-28,Mídia Paga,36-45
+C00431,Diego Melo,PME,Recife,PE,2020-08-04,Mídia Paga,18-25
+C00432,Quezia Costa,Consumidor,Curitiba,PR,2020-08-03,Indicação,46-60
+C00433,Paulo Carvalho,Consumidor,Fortaleza,CE,2022-05-04,Orgânico,18-25
+C00434,Quezia Oliveira,PME,Belo Horizonte,MG,2022-09-01,Mídia Paga,18-25
+C00435,Isabela Barbosa,Corporativo,Fortaleza,CE,2022-02-02,Orgânico,26-35
+C00436,Diego Santos,PME,Recife,PE,2020-11-06,Mídia Paga,18-25
+C00437,Lucas Barbosa,Consumidor,Belo Horizonte,MG,2021-12-31,Parceiro,36-45
+C00438,Olívia Almeida,PME,Recife,PE,2021-10-19,Mídia Paga,46-60
+C00439,Elaine Souza,PME,Belo Horizonte,MG,2022-08-09,Parceiro,26-35
+C00440,Tiago Martins,Consumidor,Fortaleza,CE,2022-05-31,Mídia Paga,60+
+C00441,Paulo Santos,Consumidor,Belo Horizonte,MG,2021-07-26,Mídia Paga,46-60
+C00442,Sofia Teixeira,Consumidor,Brasília,DF,2020-10-08,Orgânico,36-45
+C00443,Nuno Ferreira,Consumidor,Manaus,AM,2022-08-27,Indicação,46-60
+C00444,Felipe Melo,Consumidor,São Paulo,SP,2021-02-12,Mídia Paga,46-60
+C00445,Henrique Carvalho,PME,Fortaleza,CE,2022-01-08,Parceiro,18-25
+C00446,Olívia Teixeira,Consumidor,Rio de Janeiro,RJ,2021-08-19,Indicação,46-60
+C00447,Ana Santos,Consumidor,Fortaleza,CE,2020-10-30,Indicação,18-25
+C00448,João Melo,Consumidor,Manaus,AM,2021-02-18,Indicação,46-60
+C00449,Henrique Barbosa,Corporativo,São Paulo,SP,2020-08-18,Orgânico,60+
+C00450,Henrique Silva,Consumidor,Rio de Janeiro,RJ,2020-10-16,Orgânico,36-45
+C00451,Felipe Araújo,Consumidor,Rio de Janeiro,RJ,2022-10-17,Orgânico,46-60
+C00452,Olívia Costa,Consumidor,Recife,PE,2022-04-26,Mídia Paga,18-25
+C00453,Olívia Barbosa,PME,Manaus,AM,2022-07-29,Mídia Paga,60+
+C00454,Sofia Araújo,Consumidor,Recife,PE,2020-07-27,Parceiro,26-35
+C00455,Marina Moraes,PME,Belo Horizonte,MG,2022-08-18,Indicação,36-45
+C00456,Marina Carvalho,Consumidor,Porto Alegre,RS,2022-02-25,Parceiro,46-60
+C00457,Quezia Ribeiro,PME,Manaus,AM,2020-12-16,Mídia Paga,60+
+C00458,Tiago Ribeiro,PME,Porto Alegre,RS,2022-05-02,Mídia Paga,26-35
+C00459,Rafael Carvalho,Corporativo,Belo Horizonte,MG,2021-07-05,Mídia Paga,36-45
+C00460,Nuno Silva,Consumidor,Brasília,DF,2022-02-13,Indicação,18-25
+C00461,Isabela Lima,Consumidor,São Paulo,SP,2022-05-12,Parceiro,36-45
+C00462,Lucas Barbosa,Consumidor,Brasília,DF,2022-10-30,Orgânico,60+
+C00463,Henrique Melo,PME,Brasília,DF,2021-10-30,Mídia Paga,36-45
+C00464,Bruno Silva,PME,Salvador,BA,2021-05-16,Mídia Paga,26-35
+C00465,Henrique Gomes,PME,Fortaleza,CE,2020-08-05,Mídia Paga,60+
+C00466,Carla Lima,PME,Fortaleza,CE,2022-06-04,Parceiro,60+
+C00467,Isabela Pereira,Consumidor,Curitiba,PR,2021-05-12,Orgânico,36-45
+C00468,Bruno Moraes,Consumidor,Salvador,BA,2021-03-31,Mídia Paga,36-45
+C00469,Karina Melo,Consumidor,Salvador,BA,2022-09-19,Orgânico,26-35
+C00470,Lucas Ferreira,Consumidor,Recife,PE,2022-08-30,Mídia Paga,36-45
+C00471,Paulo Cardoso,Consumidor,Manaus,AM,2021-06-07,Mídia Paga,18-25
+C00472,Bruno Carvalho,Consumidor,Manaus,AM,2022-03-28,Indicação,18-25
+C00473,Quezia Gomes,Consumidor,Curitiba,PR,2022-11-07,Indicação,60+
+C00474,Diego Lima,Consumidor,Brasília,DF,2022-09-09,Parceiro,60+
+C00475,Gabriela Rocha,Consumidor,Porto Alegre,RS,2021-01-15,Mídia Paga,26-35
+C00476,Elaine Silva,Consumidor,Rio de Janeiro,RJ,2020-10-29,Indicação,36-45
+C00477,Isabela Cardoso,Consumidor,Belo Horizonte,MG,2020-09-10,Orgânico,26-35
+C00478,Marina Santos,Corporativo,Salvador,BA,2022-11-15,Indicação,60+
+C00479,Carla Gomes,Consumidor,São Paulo,SP,2020-12-15,Parceiro,18-25
+C00480,Marina Silva,Consumidor,Fortaleza,CE,2021-11-07,Indicação,60+
+C00481,Elaine Ribeiro,Consumidor,Brasília,DF,2022-02-03,Mídia Paga,36-45
+C00482,Sofia Moraes,Corporativo,São Paulo,SP,2022-11-27,Indicação,60+
+C00483,Nuno Melo,Corporativo,Salvador,BA,2022-04-30,Orgânico,26-35
+C00484,Rafael Barbosa,Consumidor,Manaus,AM,2022-10-08,Indicação,18-25
+C00485,Sofia Araújo,Consumidor,Rio de Janeiro,RJ,2022-05-14,Parceiro,36-45
+C00486,Paulo Barbosa,Consumidor,Porto Alegre,RS,2022-01-11,Orgânico,36-45
+C00487,Karina Rocha,PME,Manaus,AM,2021-11-24,Orgânico,36-45
+C00488,Karina Araújo,Consumidor,Salvador,BA,2022-07-18,Indicação,36-45
+C00489,Tiago Oliveira,PME,Rio de Janeiro,RJ,2022-06-06,Mídia Paga,26-35
+C00490,Quezia Silva,PME,Rio de Janeiro,RJ,2022-11-13,Mídia Paga,60+
+C00491,Isabela Cardoso,Consumidor,São Paulo,SP,2021-05-17,Mídia Paga,60+
+C00492,João Pereira,Consumidor,Manaus,AM,2020-11-12,Indicação,60+
+C00493,Henrique Moraes,Consumidor,São Paulo,SP,2021-01-23,Mídia Paga,60+
+C00494,Paulo Gomes,Consumidor,Belo Horizonte,MG,2020-11-09,Orgânico,46-60
+C00495,Gabriela Melo,Consumidor,Porto Alegre,RS,2022-10-20,Parceiro,36-45
+C00496,Quezia Almeida,Consumidor,Salvador,BA,2022-08-19,Mídia Paga,36-45
+C00497,Marina Gomes,Consumidor,Recife,PE,2021-02-01,Indicação,18-25
+C00498,Lucas Araújo,Consumidor,Salvador,BA,2020-08-18,Mídia Paga,60+
+C00499,Henrique Oliveira,Consumidor,Fortaleza,CE,2022-06-16,Indicação,36-45
+C00500,Henrique Rocha,Consumidor,Rio de Janeiro,RJ,2021-01-25,Mídia Paga,18-25
+C00501,Felipe Rocha,Consumidor,Porto Alegre,RS,2021-04-07,Orgânico,18-25
+C00502,Bruno Lima,Consumidor,Manaus,AM,2022-07-05,Orgânico,26-35
+C00503,Ana Ribeiro,Consumidor,Manaus,AM,2021-02-18,Parceiro,26-35
+C00504,Elaine Teixeira,Consumidor,Recife,PE,2021-03-27,Mídia Paga,26-35
+C00505,Karina Barbosa,PME,Belo Horizonte,MG,2020-11-21,Indicação,18-25
+C00506,Nuno Pereira,Consumidor,Brasília,DF,2021-01-01,Indicação,26-35
+C00507,Rafael Melo,Consumidor,São Paulo,SP,2020-09-21,Mídia Paga,18-25
+C00508,Nuno Gomes,Consumidor,Recife,PE,2021-06-16,Mídia Paga,60+
+C00509,Marina Gomes,Consumidor,Fortaleza,CE,2020-09-15,Indicação,60+
+C00510,Tiago Cardoso,Consumidor,Rio de Janeiro,RJ,2022-02-15,Indicação,26-35
+C00511,Quezia Santos,Consumidor,São Paulo,SP,2021-04-20,Indicação,46-60
+C00512,Sofia Almeida,PME,Belo Horizonte,MG,2021-09-22,Orgânico,60+
+C00513,Marina Costa,Consumidor,Curitiba,PR,2021-01-05,Indicação,60+
+C00514,Lucas Martins,Consumidor,Curitiba,PR,2021-04-20,Mídia Paga,18-25
+C00515,Gabriela Melo,PME,Belo Horizonte,MG,2022-08-22,Indicação,36-45
+C00516,Ana Oliveira,PME,Recife,PE,2021-02-19,Mídia Paga,46-60
+C00517,Henrique Gomes,Corporativo,Rio de Janeiro,RJ,2022-03-08,Orgânico,18-25
+C00518,Tiago Souza,PME,Curitiba,PR,2020-12-04,Parceiro,26-35
+C00519,Quezia Ribeiro,PME,Porto Alegre,RS,2020-07-15,Orgânico,60+
+C00520,Ana Lima,Consumidor,Salvador,BA,2022-04-02,Orgânico,36-45
+C00521,Sofia Costa,PME,Recife,PE,2021-10-13,Indicação,18-25
+C00522,Lucas Almeida,Corporativo,Manaus,AM,2021-12-11,Orgânico,26-35
+C00523,Felipe Rocha,Consumidor,São Paulo,SP,2022-03-10,Indicação,60+
+C00524,Sofia Almeida,Consumidor,Curitiba,PR,2021-05-31,Mídia Paga,46-60
+C00525,Olívia Barbosa,Consumidor,Salvador,BA,2020-09-29,Mídia Paga,18-25
+C00526,Henrique Carvalho,Consumidor,Porto Alegre,RS,2021-01-08,Indicação,36-45
+C00527,João Oliveira,Consumidor,Curitiba,PR,2022-03-23,Indicação,36-45
+C00528,Felipe Costa,Consumidor,Manaus,AM,2022-03-02,Indicação,26-35
+C00529,Henrique Costa,Consumidor,Curitiba,PR,2022-05-05,Mídia Paga,60+
+C00530,Ana Cardoso,Consumidor,Fortaleza,CE,2021-03-14,Parceiro,46-60
+C00531,Paulo Lima,Consumidor,Manaus,AM,2022-02-24,Parceiro,60+
+C00532,Rafael Souza,Consumidor,Recife,PE,2021-07-31,Indicação,46-60
+C00533,Quezia Barbosa,PME,Fortaleza,CE,2022-08-01,Orgânico,18-25
+C00534,Felipe Cardoso,Consumidor,Manaus,AM,2022-03-12,Orgânico,36-45
+C00535,Paulo Rocha,Consumidor,Salvador,BA,2022-05-28,Orgânico,36-45
+C00536,Henrique Santos,Consumidor,Manaus,AM,2020-12-30,Mídia Paga,26-35
+C00537,Elaine Araújo,Consumidor,Porto Alegre,RS,2022-07-06,Mídia Paga,26-35
+C00538,Karina Araújo,Consumidor,Brasília,DF,2020-11-25,Orgânico,60+
+C00539,Felipe Souza,PME,Rio de Janeiro,RJ,2020-12-25,Orgânico,36-45
+C00540,Rafael Cardoso,Consumidor,Salvador,BA,2021-11-29,Parceiro,36-45
+C00541,Tiago Costa,Consumidor,Salvador,BA,2021-01-06,Indicação,60+
+C00542,Olívia Oliveira,Consumidor,Fortaleza,CE,2020-09-30,Indicação,36-45
+C00543,Karina Rocha,Consumidor,Belo Horizonte,MG,2021-02-15,Indicação,60+
+C00544,João Almeida,Consumidor,Salvador,BA,2022-01-12,Indicação,46-60
+C00545,Sofia Melo,Consumidor,Salvador,BA,2020-10-28,Parceiro,46-60
+C00546,Carla Costa,Consumidor,Curitiba,PR,2020-11-01,Orgânico,18-25
+C00547,Bruno Silva,Consumidor,Fortaleza,CE,2021-05-20,Mídia Paga,60+
+C00548,Henrique Ferreira,PME,Recife,PE,2022-01-20,Mídia Paga,46-60
+C00549,Bruno Gomes,PME,Belo Horizonte,MG,2022-11-03,Mídia Paga,36-45
+C00550,Elaine Cardoso,PME,Brasília,DF,2021-09-03,Orgânico,60+
+C00551,Quezia Cardoso,Consumidor,Manaus,AM,2021-09-13,Orgânico,36-45
+C00552,Elaine Ribeiro,Consumidor,Recife,PE,2022-03-11,Orgânico,60+
+C00553,Paulo Cardoso,PME,Salvador,BA,2022-02-12,Orgânico,46-60
+C00554,Henrique Silva,Corporativo,Curitiba,PR,2021-03-31,Indicação,26-35
+C00555,Felipe Martins,Consumidor,Recife,PE,2022-03-22,Mídia Paga,26-35
+C00556,Isabela Ribeiro,Consumidor,Manaus,AM,2020-08-28,Indicação,60+
+C00557,Elaine Ribeiro,PME,Rio de Janeiro,RJ,2022-05-30,Orgânico,46-60
+C00558,Bruno Cardoso,PME,São Paulo,SP,2022-06-30,Orgânico,18-25
+C00559,Ana Ferreira,Consumidor,Fortaleza,CE,2020-11-18,Orgânico,18-25
+C00560,Bruno Carvalho,Consumidor,Salvador,BA,2021-08-15,Orgânico,26-35
+C00561,Paulo Lima,Consumidor,Rio de Janeiro,RJ,2021-05-25,Orgânico,36-45
+C00562,Olívia Ferreira,PME,Porto Alegre,RS,2021-11-03,Mídia Paga,18-25
+C00563,Gabriela Araújo,Consumidor,Rio de Janeiro,RJ,2021-06-17,Indicação,36-45
+C00564,Diego Almeida,Corporativo,Brasília,DF,2021-06-17,Indicação,36-45
+C00565,Henrique Rocha,Consumidor,Porto Alegre,RS,2022-08-09,Orgânico,26-35
+C00566,Paulo Moraes,PME,São Paulo,SP,2021-04-16,Orgânico,18-25
+C00567,Bruno Souza,Consumidor,Manaus,AM,2021-12-21,Indicação,26-35
+C00568,Lucas Barbosa,PME,Brasília,DF,2020-09-16,Mídia Paga,18-25
+C00569,Bruno Araújo,PME,Belo Horizonte,MG,2022-03-21,Mídia Paga,60+
+C00570,Olívia Almeida,Consumidor,Salvador,BA,2022-01-05,Mídia Paga,60+
+C00571,Elaine Barbosa,Corporativo,Rio de Janeiro,RJ,2021-06-07,Orgânico,36-45
+C00572,Tiago Gomes,Consumidor,Belo Horizonte,MG,2022-11-13,Mídia Paga,26-35
+C00573,Marina Costa,Consumidor,Brasília,DF,2020-08-16,Indicação,46-60
+C00574,Diego Melo,PME,Salvador,BA,2022-08-11,Mídia Paga,18-25
+C00575,Diego Araújo,PME,São Paulo,SP,2022-05-10,Orgânico,18-25
+C00576,Bruno Gomes,Consumidor,Manaus,AM,2022-03-15,Orgânico,18-25
+C00577,Carla Barbosa,Consumidor,Fortaleza,CE,2020-08-02,Mídia Paga,18-25
+C00578,Tiago Almeida,Consumidor,São Paulo,SP,2020-08-11,Indicação,18-25
+C00579,Diego Santos,PME,Porto Alegre,RS,2021-06-19,Mídia Paga,60+
+C00580,Rafael Rocha,Consumidor,Belo Horizonte,MG,2021-05-10,Mídia Paga,60+
+C00581,Felipe Lima,Consumidor,Recife,PE,2022-08-18,Indicação,60+
+C00582,Rafael Carvalho,Consumidor,Salvador,BA,2022-01-14,Mídia Paga,46-60
+C00583,Henrique Teixeira,PME,Salvador,BA,2021-03-19,Indicação,46-60
+C00584,Ana Souza,PME,Fortaleza,CE,2021-10-22,Parceiro,60+
+C00585,João Ferreira,Consumidor,Curitiba,PR,2022-11-26,Orgânico,36-45
+C00586,Rafael Teixeira,Consumidor,Brasília,DF,2021-06-27,Parceiro,26-35
+C00587,Isabela Gomes,Consumidor,Belo Horizonte,MG,2022-07-14,Mídia Paga,26-35
+C00588,Carla Carvalho,Consumidor,Porto Alegre,RS,2020-11-11,Mídia Paga,26-35
+C00589,Diego Moraes,Consumidor,Manaus,AM,2020-08-15,Indicação,18-25
+C00590,Nuno Rocha,PME,Salvador,BA,2021-12-11,Parceiro,18-25
+C00591,Marina Souza,PME,Manaus,AM,2022-11-21,Orgânico,18-25
+C00592,Marina Barbosa,Consumidor,Belo Horizonte,MG,2022-10-12,Mídia Paga,60+
+C00593,Marina Pereira,Consumidor,Curitiba,PR,2020-09-18,Orgânico,18-25
+C00594,Nuno Pereira,Consumidor,Recife,PE,2021-07-07,Mídia Paga,46-60
+C00595,Rafael Moraes,Consumidor,Manaus,AM,2022-05-16,Parceiro,60+
+C00596,Diego Rocha,Consumidor,Manaus,AM,2022-09-02,Indicação,36-45
+C00597,João Lima,Consumidor,São Paulo,SP,2020-10-05,Parceiro,60+
+C00598,Lucas Pereira,PME,Porto Alegre,RS,2022-05-12,Mídia Paga,18-25
+C00599,João Silva,Consumidor,Manaus,AM,2022-07-04,Orgânico,18-25
+C00600,Rafael Melo,Consumidor,Porto Alegre,RS,2022-05-08,Mídia Paga,60+
+C00601,Ana Martins,Consumidor,Belo Horizonte,MG,2020-12-21,Indicação,60+
+C00602,Bruno Barbosa,Consumidor,Manaus,AM,2022-02-28,Mídia Paga,18-25
+C00603,Ana Ribeiro,Consumidor,Salvador,BA,2022-08-14,Mídia Paga,46-60
+C00604,Tiago Cardoso,Consumidor,Salvador,BA,2021-07-24,Orgânico,26-35
+C00605,Henrique Melo,Consumidor,São Paulo,SP,2022-10-23,Orgânico,46-60
+C00606,Quezia Almeida,Consumidor,Curitiba,PR,2022-04-05,Mídia Paga,36-45
+C00607,Isabela Ferreira,PME,São Paulo,SP,2021-05-13,Orgânico,46-60
+C00608,Henrique Rocha,PME,Manaus,AM,2021-03-02,Orgânico,26-35
+C00609,Olívia Cardoso,Consumidor,Manaus,AM,2021-12-30,Orgânico,26-35
+C00610,Nuno Pereira,Consumidor,Brasília,DF,2022-07-17,Mídia Paga,60+
+C00611,Diego Lima,Corporativo,Brasília,DF,2021-06-05,Orgânico,26-35
+C00612,Olívia Almeida,PME,Recife,PE,2022-01-26,Orgânico,26-35
+C00613,Isabela Moraes,Consumidor,Manaus,AM,2021-03-11,Indicação,26-35
+C00614,Quezia Moraes,Consumidor,Fortaleza,CE,2022-07-18,Indicação,36-45
+C00615,Felipe Costa,Consumidor,Fortaleza,CE,2022-07-15,Orgânico,46-60
+C00616,Gabriela Oliveira,PME,Porto Alegre,RS,2020-10-18,Orgânico,46-60
+C00617,Henrique Rocha,PME,Salvador,BA,2021-08-21,Indicação,18-25
+C00618,Rafael Melo,PME,Manaus,AM,2021-04-03,Indicação,18-25
+C00619,Quezia Cardoso,Consumidor,São Paulo,SP,2022-03-26,Indicação,18-25
+C00620,Marina Ribeiro,Consumidor,Curitiba,PR,2021-09-08,Mídia Paga,36-45
+C00621,Quezia Pereira,Consumidor,Manaus,AM,2022-10-08,Indicação,46-60
+C00622,Marina Rocha,Consumidor,Brasília,DF,2022-07-17,Orgânico,18-25
+C00623,Carla Almeida,Consumidor,Porto Alegre,RS,2021-08-24,Orgânico,26-35
+C00624,Quezia Martins,PME,Salvador,BA,2022-09-06,Mídia Paga,60+
+C00625,Bruno Lima,PME,Brasília,DF,2021-11-08,Parceiro,60+
+C00626,João Ribeiro,PME,São Paulo,SP,2021-09-29,Mídia Paga,46-60
+C00627,Ana Moraes,Consumidor,Belo Horizonte,MG,2022-05-09,Mídia Paga,18-25
+C00628,Gabriela Teixeira,Consumidor,Fortaleza,CE,2022-04-03,Mídia Paga,46-60
+C00629,Henrique Cardoso,Consumidor,Manaus,AM,2022-11-26,Orgânico,60+
+C00630,Elaine Souza,PME,Salvador,BA,2022-10-26,Mídia Paga,60+
+C00631,Nuno Lima,Consumidor,São Paulo,SP,2022-08-13,Orgânico,36-45
+C00632,Sofia Gomes,PME,Belo Horizonte,MG,2021-08-23,Parceiro,18-25
+C00633,Carla Rocha,PME,Recife,PE,2020-08-15,Mídia Paga,18-25
+C00634,Quezia Costa,Consumidor,Brasília,DF,2021-10-05,Mídia Paga,60+
+C00635,Paulo Moraes,Consumidor,Brasília,DF,2022-09-04,Parceiro,36-45
+C00636,Elaine Moraes,Consumidor,Manaus,AM,2021-12-05,Indicação,60+
+C00637,Henrique Ribeiro,PME,Belo Horizonte,MG,2021-03-18,Parceiro,18-25
+C00638,Tiago Rocha,Consumidor,Porto Alegre,RS,2020-09-05,Indicação,36-45
+C00639,Gabriela Ribeiro,Consumidor,Porto Alegre,RS,2022-11-21,Orgânico,18-25
+C00640,Marina Teixeira,Consumidor,Salvador,BA,2021-12-18,Indicação,18-25
+C00641,Paulo Araújo,PME,Salvador,BA,2021-01-13,Mídia Paga,26-35
+C00642,Nuno Souza,Consumidor,Salvador,BA,2021-08-16,Mídia Paga,36-45
+C00643,Ana Costa,Consumidor,Brasília,DF,2021-06-02,Indicação,36-45
+C00644,Ana Carvalho,PME,Curitiba,PR,2020-07-25,Parceiro,60+
+C00645,Tiago Santos,PME,Recife,PE,2022-05-25,Mídia Paga,36-45
+C00646,Lucas Barbosa,PME,Fortaleza,CE,2022-04-03,Mídia Paga,36-45
+C00647,Bruno Costa,Consumidor,Rio de Janeiro,RJ,2021-11-14,Parceiro,46-60
+C00648,Quezia Ribeiro,Consumidor,Salvador,BA,2021-07-25,Mídia Paga,26-35
+C00649,Elaine Costa,PME,Brasília,DF,2021-01-09,Mídia Paga,46-60
+C00650,Tiago Oliveira,Consumidor,São Paulo,SP,2020-12-29,Orgânico,18-25
+C00651,Sofia Ribeiro,Consumidor,Curitiba,PR,2022-11-09,Indicação,26-35
+C00652,Diego Almeida,Consumidor,Fortaleza,CE,2021-01-14,Orgânico,36-45
+C00653,Diego Costa,Consumidor,Brasília,DF,2021-06-24,Indicação,60+
+C00654,Carla Ribeiro,Consumidor,Porto Alegre,RS,2022-06-10,Indicação,36-45
+C00655,Bruno Santos,Consumidor,São Paulo,SP,2021-08-07,Indicação,18-25
+C00656,Lucas Ribeiro,Consumidor,Fortaleza,CE,2021-03-11,Orgânico,26-35
+C00657,Olívia Teixeira,PME,Brasília,DF,2022-09-13,Orgânico,46-60
+C00658,Henrique Pereira,Consumidor,Fortaleza,CE,2022-04-09,Mídia Paga,60+
+C00659,Karina Carvalho,Consumidor,Belo Horizonte,MG,2020-12-16,Indicação,18-25
+C00660,Lucas Moraes,Consumidor,Curitiba,PR,2020-10-07,Indicação,60+
+C00661,Rafael Oliveira,Consumidor,Rio de Janeiro,RJ,2022-01-03,Mídia Paga,60+
+C00662,Marina Oliveira,Consumidor,Belo Horizonte,MG,2021-07-27,Orgânico,60+
+C00663,Karina Cardoso,Consumidor,Manaus,AM,2020-09-17,Mídia Paga,26-35
+C00664,Sofia Moraes,PME,Fortaleza,CE,2022-08-07,Indicação,60+
+C00665,Carla Moraes,Consumidor,Curitiba,PR,2021-10-13,Orgânico,60+
+C00666,Elaine Teixeira,PME,Rio de Janeiro,RJ,2022-04-24,Parceiro,18-25
+C00667,João Martins,PME,Fortaleza,CE,2021-06-06,Indicação,46-60
+C00668,Lucas Oliveira,Consumidor,Curitiba,PR,2021-09-13,Indicação,60+
+C00669,Bruno Gomes,Corporativo,Belo Horizonte,MG,2022-02-04,Parceiro,18-25
+C00670,Henrique Rocha,Consumidor,Curitiba,PR,2022-11-01,Mídia Paga,46-60
+C00671,Nuno Cardoso,PME,Recife,PE,2021-11-07,Orgânico,26-35
+C00672,João Pereira,Consumidor,Recife,PE,2022-06-28,Orgânico,18-25
+C00673,Nuno Pereira,PME,Fortaleza,CE,2021-01-28,Orgânico,46-60
+C00674,Olívia Melo,PME,Manaus,AM,2022-06-01,Indicação,46-60
+C00675,Ana Teixeira,Consumidor,Recife,PE,2021-03-23,Indicação,26-35
+C00676,Sofia Araújo,PME,São Paulo,SP,2022-10-25,Mídia Paga,18-25
+C00677,Quezia Almeida,Consumidor,Rio de Janeiro,RJ,2022-07-10,Indicação,18-25
+C00678,Rafael Teixeira,Consumidor,Rio de Janeiro,RJ,2021-01-01,Orgânico,18-25
+C00679,Olívia Melo,Corporativo,São Paulo,SP,2021-08-09,Parceiro,60+
+C00680,Bruno Moraes,PME,Curitiba,PR,2022-06-14,Mídia Paga,60+
+C00681,Sofia Souza,Consumidor,Manaus,AM,2022-06-12,Mídia Paga,36-45
+C00682,Isabela Almeida,PME,Brasília,DF,2022-09-15,Orgânico,36-45
+C00683,Felipe Teixeira,Consumidor,Rio de Janeiro,RJ,2021-03-24,Mídia Paga,46-60
+C00684,Quezia Souza,Consumidor,Belo Horizonte,MG,2020-09-05,Orgânico,18-25
+C00685,Paulo Rocha,Corporativo,Belo Horizonte,MG,2020-07-28,Mídia Paga,26-35
+C00686,Isabela Santos,PME,Salvador,BA,2022-10-08,Orgânico,46-60
+C00687,Marina Martins,Consumidor,Brasília,DF,2022-04-07,Indicação,26-35
+C00688,Karina Melo,Consumidor,Recife,PE,2021-01-07,Mídia Paga,18-25
+C00689,Nuno Moraes,Consumidor,Salvador,BA,2020-07-21,Parceiro,36-45
+C00690,Henrique Teixeira,Consumidor,Recife,PE,2021-08-17,Mídia Paga,60+
+C00691,Rafael Silva,Consumidor,Belo Horizonte,MG,2022-01-16,Mídia Paga,18-25
+C00692,João Almeida,Consumidor,Porto Alegre,RS,2020-11-20,Orgânico,18-25
+C00693,Gabriela Moraes,PME,Manaus,AM,2021-01-29,Indicação,18-25
+C00694,Felipe Santos,Consumidor,Manaus,AM,2020-09-01,Mídia Paga,36-45
+C00695,Olívia Almeida,Consumidor,Rio de Janeiro,RJ,2021-02-16,Mídia Paga,36-45
+C00696,Bruno Almeida,Consumidor,Recife,PE,2021-12-27,Parceiro,36-45
+C00697,Marina Lima,Consumidor,Porto Alegre,RS,2021-03-18,Indicação,18-25
+C00698,Isabela Santos,Consumidor,Fortaleza,CE,2020-11-30,Orgânico,18-25
+C00699,Paulo Pereira,Consumidor,Fortaleza,CE,2022-11-13,Mídia Paga,18-25
+C00700,Ana Melo,Corporativo,Recife,PE,2021-04-23,Mídia Paga,46-60
+C00701,Henrique Silva,Consumidor,Rio de Janeiro,RJ,2021-05-28,Indicação,46-60
+C00702,Bruno Oliveira,Consumidor,Curitiba,PR,2021-10-18,Indicação,36-45
+C00703,Gabriela Lima,Consumidor,Curitiba,PR,2021-02-07,Indicação,46-60
+C00704,Carla Barbosa,PME,Salvador,BA,2021-07-22,Mídia Paga,26-35
+C00705,Paulo Martins,Consumidor,Manaus,AM,2022-04-02,Orgânico,60+
+C00706,Karina Souza,PME,São Paulo,SP,2022-10-26,Orgânico,18-25
+C00707,Rafael Pereira,Consumidor,Brasília,DF,2021-08-20,Mídia Paga,26-35
+C00708,Bruno Ferreira,Corporativo,Fortaleza,CE,2021-03-09,Mídia Paga,26-35
+C00709,Diego Barbosa,Consumidor,Curitiba,PR,2020-08-14,Indicação,60+
+C00710,Carla Costa,Consumidor,Manaus,AM,2022-04-21,Indicação,46-60
+C00711,Elaine Carvalho,Consumidor,Manaus,AM,2021-05-23,Mídia Paga,26-35
+C00712,Nuno Lima,PME,Belo Horizonte,MG,2020-10-18,Mídia Paga,60+
+C00713,Elaine Santos,Consumidor,Manaus,AM,2022-10-22,Mídia Paga,60+
+C00714,Carla Teixeira,Consumidor,São Paulo,SP,2022-06-02,Mídia Paga,46-60
+C00715,Elaine Costa,PME,Fortaleza,CE,2020-12-24,Orgânico,36-45
+C00716,Felipe Araújo,Consumidor,São Paulo,SP,2021-04-01,Indicação,18-25
+C00717,Ana Cardoso,PME,Salvador,BA,2021-09-30,Orgânico,18-25
+C00718,Henrique Barbosa,Corporativo,Brasília,DF,2021-07-01,Mídia Paga,26-35
+C00719,Paulo Araújo,Consumidor,Belo Horizonte,MG,2020-12-31,Orgânico,18-25
+C00720,Olívia Souza,Consumidor,Manaus,AM,2020-08-30,Orgânico,18-25
+C00721,Quezia Santos,Corporativo,São Paulo,SP,2021-07-24,Orgânico,26-35
+C00722,Diego Carvalho,PME,Salvador,BA,2022-04-11,Orgânico,26-35
+C00723,Carla Araújo,PME,Recife,PE,2022-04-21,Indicação,18-25
+C00724,Elaine Barbosa,PME,Recife,PE,2021-11-15,Mídia Paga,36-45
+C00725,Sofia Souza,Corporativo,Belo Horizonte,MG,2022-10-31,Orgânico,18-25
+C00726,Felipe Moraes,PME,Curitiba,PR,2021-03-24,Parceiro,60+
+C00727,Quezia Araújo,Corporativo,Rio de Janeiro,RJ,2021-10-07,Mídia Paga,26-35
+C00728,Karina Rocha,Consumidor,Porto Alegre,RS,2022-03-24,Indicação,60+
+C00729,Bruno Souza,Corporativo,São Paulo,SP,2021-10-01,Parceiro,60+
+C00730,Paulo Ferreira,Consumidor,Rio de Janeiro,RJ,2021-08-26,Orgânico,18-25
+C00731,Lucas Ribeiro,PME,Porto Alegre,RS,2022-07-20,Orgânico,18-25
+C00732,Sofia Silva,Consumidor,Manaus,AM,2020-10-28,Parceiro,46-60
+C00733,Lucas Barbosa,PME,Recife,PE,2022-05-27,Mídia Paga,18-25
+C00734,Nuno Almeida,PME,São Paulo,SP,2022-02-02,Mídia Paga,60+
+C00735,Karina Souza,Consumidor,Rio de Janeiro,RJ,2021-03-07,Indicação,36-45
+C00736,Felipe Cardoso,PME,Salvador,BA,2021-11-22,Mídia Paga,60+
+C00737,Rafael Santos,PME,Salvador,BA,2022-04-02,Indicação,60+
+C00738,Isabela Melo,PME,Salvador,BA,2021-12-06,Mídia Paga,36-45
+C00739,Quezia Melo,Consumidor,Fortaleza,CE,2021-07-23,Mídia Paga,46-60
+C00740,Carla Costa,PME,Manaus,AM,2021-11-21,Mídia Paga,46-60
+C00741,Carla Santos,Consumidor,Belo Horizonte,MG,2022-02-10,Orgânico,18-25
+C00742,Nuno Cardoso,PME,São Paulo,SP,2022-02-05,Parceiro,46-60
+C00743,Gabriela Oliveira,Consumidor,São Paulo,SP,2022-02-07,Orgânico,26-35
+C00744,Sofia Melo,PME,Salvador,BA,2021-07-23,Mídia Paga,46-60
+C00745,Isabela Ferreira,Consumidor,Curitiba,PR,2022-06-10,Indicação,36-45
+C00746,Felipe Cardoso,PME,Belo Horizonte,MG,2021-03-09,Orgânico,26-35
+C00747,Henrique Santos,PME,Belo Horizonte,MG,2022-06-20,Orgânico,36-45
+C00748,Karina Gomes,Consumidor,São Paulo,SP,2021-01-20,Orgânico,46-60
+C00749,Ana Martins,Consumidor,Curitiba,PR,2022-07-31,Parceiro,26-35
+C00750,Karina Ribeiro,Corporativo,Brasília,DF,2021-07-01,Indicação,36-45
+C00751,Elaine Teixeira,Corporativo,Manaus,AM,2021-01-19,Mídia Paga,46-60
+C00752,João Silva,Consumidor,Brasília,DF,2022-08-05,Indicação,26-35
+C00753,Gabriela Teixeira,Consumidor,São Paulo,SP,2021-03-20,Indicação,36-45
+C00754,Marina Costa,Consumidor,Rio de Janeiro,RJ,2021-06-26,Indicação,60+
+C00755,Elaine Rocha,PME,Salvador,BA,2021-10-21,Indicação,36-45
+C00756,Gabriela Barbosa,Consumidor,Brasília,DF,2022-09-04,Mídia Paga,46-60
+C00757,Nuno Pereira,PME,Recife,PE,2020-11-16,Mídia Paga,60+
+C00758,Sofia Martins,Consumidor,Salvador,BA,2022-09-26,Orgânico,46-60
+C00759,Olívia Teixeira,PME,Belo Horizonte,MG,2021-05-12,Mídia Paga,26-35
+C00760,Sofia Ribeiro,Consumidor,Curitiba,PR,2020-07-31,Indicação,46-60
+C00761,João Araújo,Consumidor,Belo Horizonte,MG,2022-03-09,Orgânico,36-45
+C00762,Isabela Araújo,Consumidor,Rio de Janeiro,RJ,2020-10-10,Parceiro,18-25
+C00763,Nuno Almeida,Consumidor,Fortaleza,CE,2021-05-02,Indicação,46-60
+C00764,Isabela Lima,Corporativo,São Paulo,SP,2020-07-20,Indicação,26-35
+C00765,Felipe Souza,Consumidor,Belo Horizonte,MG,2021-12-02,Orgânico,46-60
+C00766,Gabriela Lima,PME,Rio de Janeiro,RJ,2021-06-24,Mídia Paga,60+
+C00767,João Almeida,PME,Salvador,BA,2020-08-08,Mídia Paga,36-45
+C00768,Lucas Araújo,Consumidor,Brasília,DF,2022-02-17,Indicação,26-35
+C00769,Gabriela Cardoso,Consumidor,Porto Alegre,RS,2020-08-03,Indicação,60+
+C00770,Carla Santos,PME,Recife,PE,2021-08-18,Mídia Paga,18-25
+C00771,Olívia Moraes,Consumidor,Salvador,BA,2022-07-13,Indicação,36-45
+C00772,Elaine Ferreira,Consumidor,Belo Horizonte,MG,2020-12-22,Orgânico,26-35
+C00773,Ana Araújo,Consumidor,Rio de Janeiro,RJ,2022-09-14,Mídia Paga,18-25
+C00774,Isabela Souza,Consumidor,Fortaleza,CE,2022-08-03,Orgânico,18-25
+C00775,Sofia Costa,PME,Manaus,AM,2022-05-06,Orgânico,36-45
+C00776,Lucas Lima,Consumidor,Manaus,AM,2021-12-11,Mídia Paga,60+
+C00777,Sofia Silva,Consumidor,Rio de Janeiro,RJ,2020-08-15,Indicação,26-35
+C00778,Quezia Araújo,Corporativo,Rio de Janeiro,RJ,2022-04-27,Indicação,60+
+C00779,Lucas Martins,Consumidor,Rio de Janeiro,RJ,2022-05-31,Indicação,60+
+C00780,Elaine Araújo,Consumidor,Rio de Janeiro,RJ,2021-06-18,Mídia Paga,36-45
+C00781,Diego Martins,Consumidor,Salvador,BA,2021-07-15,Orgânico,60+
+C00782,Nuno Costa,PME,Recife,PE,2022-02-08,Mídia Paga,46-60
+C00783,Paulo Santos,Corporativo,São Paulo,SP,2021-01-11,Indicação,60+
+C00784,Felipe Oliveira,PME,Manaus,AM,2022-08-20,Indicação,26-35
+C00785,Henrique Rocha,Consumidor,Recife,PE,2022-07-30,Mídia Paga,36-45
+C00786,Paulo Moraes,PME,Recife,PE,2021-12-03,Parceiro,46-60
+C00787,Diego Almeida,Consumidor,Fortaleza,CE,2022-08-14,Indicação,26-35
+C00788,Ana Lima,PME,Rio de Janeiro,RJ,2021-07-10,Indicação,36-45
+C00789,Carla Melo,Consumidor,Rio de Janeiro,RJ,2020-10-15,Mídia Paga,46-60
+C00790,Rafael Cardoso,Consumidor,Salvador,BA,2020-08-26,Orgânico,18-25
+C00791,Olívia Carvalho,Corporativo,Rio de Janeiro,RJ,2021-11-05,Mídia Paga,46-60
+C00792,Felipe Araújo,Consumidor,Curitiba,PR,2020-12-09,Indicação,36-45
+C00793,Paulo Cardoso,PME,Rio de Janeiro,RJ,2021-04-29,Mídia Paga,60+
+C00794,Sofia Martins,Consumidor,Curitiba,PR,2021-07-14,Indicação,36-45
+C00795,Sofia Souza,PME,São Paulo,SP,2022-11-04,Orgânico,36-45
+C00796,Diego Rocha,Consumidor,Salvador,BA,2021-11-08,Orgânico,36-45
+C00797,Henrique Ribeiro,Consumidor,Porto Alegre,RS,2022-03-24,Indicação,18-25
+C00798,Nuno Teixeira,PME,São Paulo,SP,2021-08-18,Indicação,46-60
+C00799,Karina Martins,Consumidor,Manaus,AM,2022-11-10,Indicação,36-45
+C00800,Quezia Carvalho,Consumidor,Salvador,BA,2021-07-12,Orgânico,36-45
+C00801,Carla Cardoso,Consumidor,Fortaleza,CE,2021-02-20,Orgânico,36-45
+C00802,Sofia Santos,Consumidor,Rio de Janeiro,RJ,2020-11-28,Indicação,36-45
+C00803,Gabriela Gomes,Consumidor,Fortaleza,CE,2021-09-21,Mídia Paga,36-45
+C00804,Isabela Moraes,Consumidor,Recife,PE,2021-10-17,Indicação,60+
+C00805,Sofia Araújo,Consumidor,Brasília,DF,2022-05-25,Orgânico,46-60
+C00806,Bruno Melo,Consumidor,Recife,PE,2021-05-02,Orgânico,46-60
+C00807,Nuno Rocha,Consumidor,Curitiba,PR,2020-07-21,Orgânico,18-25
+C00808,Tiago Ferreira,PME,Belo Horizonte,MG,2022-03-15,Indicação,18-25
+C00809,Paulo Cardoso,Consumidor,Curitiba,PR,2021-08-14,Parceiro,46-60
+C00810,Isabela Cardoso,PME,Curitiba,PR,2020-09-15,Orgânico,18-25
+C00811,Carla Carvalho,Corporativo,São Paulo,SP,2022-10-07,Indicação,18-25
+C00812,Elaine Ferreira,Corporativo,Rio de Janeiro,RJ,2021-10-22,Orgânico,60+
+C00813,Quezia Almeida,Corporativo,Manaus,AM,2020-09-30,Indicação,18-25
+C00814,Marina Ferreira,Consumidor,Manaus,AM,2020-11-08,Parceiro,26-35
+C00815,Nuno Almeida,Consumidor,Curitiba,PR,2021-09-08,Mídia Paga,18-25
+C00816,Henrique Almeida,Consumidor,Recife,PE,2021-08-03,Mídia Paga,26-35
+C00817,Tiago Souza,Consumidor,Curitiba,PR,2022-11-11,Mídia Paga,18-25
+C00818,Lucas Santos,PME,Curitiba,PR,2021-02-16,Indicação,26-35
+C00819,João Oliveira,PME,Recife,PE,2022-03-16,Parceiro,26-35
+C00820,Nuno Souza,Consumidor,Salvador,BA,2020-08-23,Orgânico,18-25
+C00821,Nuno Carvalho,PME,Fortaleza,CE,2020-11-08,Mídia Paga,18-25
+C00822,Rafael Carvalho,PME,Manaus,AM,2020-11-16,Indicação,18-25
+C00823,Olívia Pereira,PME,Belo Horizonte,MG,2021-02-25,Orgânico,26-35
+C00824,Elaine Moraes,PME,Brasília,DF,2020-12-02,Mídia Paga,36-45
+C00825,Felipe Teixeira,Consumidor,Belo Horizonte,MG,2022-03-11,Mídia Paga,36-45
+C00826,Ana Silva,Consumidor,Manaus,AM,2022-04-17,Parceiro,60+
+C00827,Isabela Lima,PME,Fortaleza,CE,2022-05-13,Orgânico,60+
+C00828,Ana Melo,Consumidor,Manaus,AM,2022-08-04,Indicação,46-60
+C00829,Gabriela Costa,PME,Porto Alegre,RS,2020-12-02,Parceiro,36-45
+C00830,João Costa,Consumidor,Manaus,AM,2022-04-26,Indicação,46-60
+C00831,Tiago Barbosa,PME,Curitiba,PR,2022-04-05,Parceiro,36-45
+C00832,Marina Costa,Consumidor,Salvador,BA,2020-12-23,Mídia Paga,46-60
+C00833,Bruno Souza,PME,Rio de Janeiro,RJ,2021-05-11,Orgânico,26-35
+C00834,Bruno Silva,Consumidor,Manaus,AM,2020-12-06,Orgânico,60+
+C00835,Rafael Souza,Consumidor,Salvador,BA,2022-07-20,Indicação,36-45
+C00836,Quezia Rocha,Consumidor,Rio de Janeiro,RJ,2022-01-12,Orgânico,18-25
+C00837,Isabela Gomes,Consumidor,Fortaleza,CE,2020-07-31,Parceiro,36-45
+C00838,Nuno Lima,Corporativo,Brasília,DF,2022-01-16,Orgânico,46-60
+C00839,Gabriela Pereira,PME,Fortaleza,CE,2022-10-09,Orgânico,26-35
+C00840,Olívia Gomes,Consumidor,Fortaleza,CE,2022-10-22,Parceiro,60+
+C00841,Lucas Oliveira,Consumidor,Belo Horizonte,MG,2022-07-29,Orgânico,36-45
+C00842,Sofia Silva,Consumidor,Manaus,AM,2022-04-29,Indicação,60+
+C00843,Paulo Santos,Consumidor,Porto Alegre,RS,2020-10-07,Mídia Paga,18-25
+C00844,Karina Pereira,Consumidor,Rio de Janeiro,RJ,2020-07-28,Orgânico,46-60
+C00845,Isabela Moraes,PME,Fortaleza,CE,2021-02-27,Mídia Paga,36-45
+C00846,Gabriela Souza,Corporativo,Manaus,AM,2022-07-23,Mídia Paga,36-45
+C00847,Tiago Martins,Consumidor,Rio de Janeiro,RJ,2021-05-21,Orgânico,36-45
+C00848,Marina Martins,Consumidor,Porto Alegre,RS,2022-06-19,Orgânico,26-35
+C00849,João Moraes,Consumidor,Recife,PE,2020-11-09,Orgânico,18-25
+C00850,Sofia Moraes,PME,Fortaleza,CE,2022-03-03,Indicação,46-60
+C00851,Nuno Oliveira,PME,Recife,PE,2021-02-25,Orgânico,36-45
+C00852,Quezia Oliveira,Corporativo,Fortaleza,CE,2021-06-11,Orgânico,46-60
+C00853,Elaine Ribeiro,Consumidor,Curitiba,PR,2022-07-03,Mídia Paga,60+
+C00854,Quezia Rocha,Consumidor,Brasília,DF,2022-08-14,Indicação,46-60
+C00855,Isabela Teixeira,PME,Curitiba,PR,2021-12-04,Orgânico,60+
+C00856,Carla Rocha,Consumidor,Recife,PE,2022-10-17,Mídia Paga,36-45
+C00857,Isabela Carvalho,Consumidor,Fortaleza,CE,2021-03-04,Parceiro,26-35
+C00858,Rafael Silva,Consumidor,Rio de Janeiro,RJ,2021-09-14,Orgânico,18-25
+C00859,Marina Moraes,Consumidor,Fortaleza,CE,2020-12-24,Mídia Paga,36-45
+C00860,João Oliveira,PME,Recife,PE,2020-08-31,Orgânico,18-25
+C00861,Gabriela Araújo,Consumidor,Porto Alegre,RS,2022-11-05,Indicação,26-35
+C00862,Olívia Pereira,Consumidor,Curitiba,PR,2020-10-05,Indicação,18-25
+C00863,Paulo Silva,Consumidor,Fortaleza,CE,2021-07-24,Mídia Paga,60+
+C00864,Diego Rocha,Consumidor,Salvador,BA,2022-11-24,Parceiro,46-60
+C00865,Bruno Araújo,PME,Brasília,DF,2022-02-08,Indicação,60+
+C00866,Bruno Melo,Consumidor,Fortaleza,CE,2022-04-09,Orgânico,60+
+C00867,Diego Araújo,Consumidor,Recife,PE,2021-08-05,Indicação,36-45
+C00868,Olívia Ferreira,Consumidor,Fortaleza,CE,2021-12-15,Indicação,60+
+C00869,Olívia Pereira,Corporativo,Manaus,AM,2020-07-23,Mídia Paga,46-60
+C00870,Felipe Moraes,Corporativo,Fortaleza,CE,2020-09-05,Orgânico,18-25
+C00871,Tiago Araújo,PME,Porto Alegre,RS,2022-06-25,Orgânico,46-60
+C00872,Isabela Gomes,Corporativo,São Paulo,SP,2021-11-30,Mídia Paga,26-35
+C00873,Carla Carvalho,PME,São Paulo,SP,2020-08-28,Indicação,60+
+C00874,Bruno Cardoso,Consumidor,Salvador,BA,2020-10-06,Orgânico,26-35
+C00875,Diego Souza,PME,Manaus,AM,2021-01-16,Parceiro,46-60
+C00876,Diego Cardoso,PME,Manaus,AM,2021-03-18,Orgânico,18-25
+C00877,Felipe Ribeiro,Consumidor,Porto Alegre,RS,2021-11-27,Mídia Paga,60+
+C00878,Gabriela Barbosa,Consumidor,Belo Horizonte,MG,2022-07-30,Parceiro,18-25
+C00879,Quezia Lima,Consumidor,Salvador,BA,2022-02-12,Orgânico,36-45
+C00880,Henrique Pereira,PME,Brasília,DF,2021-09-27,Mídia Paga,46-60
+C00881,Lucas Silva,Corporativo,Brasília,DF,2020-09-10,Indicação,18-25
+C00882,Felipe Rocha,PME,Recife,PE,2020-10-03,Orgânico,18-25
+C00883,Quezia Ribeiro,PME,Manaus,AM,2022-10-04,Indicação,60+
+C00884,Tiago Pereira,PME,Curitiba,PR,2021-06-10,Mídia Paga,46-60
+C00885,Tiago Barbosa,PME,Manaus,AM,2020-09-16,Mídia Paga,46-60
+C00886,Elaine Melo,PME,Recife,PE,2020-11-20,Parceiro,36-45
+C00887,Karina Lima,Consumidor,Curitiba,PR,2021-06-17,Orgânico,60+
+C00888,Bruno Gomes,Consumidor,Brasília,DF,2022-08-11,Orgânico,60+
+C00889,João Teixeira,Consumidor,Rio de Janeiro,RJ,2021-08-30,Mídia Paga,46-60
+C00890,Tiago Ferreira,Consumidor,Brasília,DF,2020-07-21,Indicação,36-45
+C00891,Elaine Martins,PME,Manaus,AM,2021-01-13,Indicação,26-35
+C00892,Elaine Rocha,Consumidor,Fortaleza,CE,2022-08-24,Mídia Paga,18-25
+C00893,Gabriela Barbosa,Consumidor,Belo Horizonte,MG,2021-08-02,Orgânico,60+
+C00894,Nuno Barbosa,Consumidor,Manaus,AM,2021-07-10,Mídia Paga,46-60
+C00895,Quezia Pereira,PME,Belo Horizonte,MG,2022-07-08,Indicação,46-60
+C00896,Paulo Souza,Consumidor,Porto Alegre,RS,2021-08-23,Mídia Paga,60+
+C00897,Diego Santos,Consumidor,Manaus,AM,2021-10-10,Indicação,36-45
+C00898,Paulo Silva,Consumidor,Curitiba,PR,2022-02-04,Mídia Paga,26-35
+C00899,Gabriela Lima,PME,Curitiba,PR,2022-02-15,Mídia Paga,46-60
+C00900,João Teixeira,Consumidor,Fortaleza,CE,2021-04-25,Indicação,36-45
+C00901,Elaine Melo,PME,Manaus,AM,2022-07-20,Indicação,46-60
+C00902,Tiago Rocha,PME,Manaus,AM,2021-01-21,Indicação,46-60
+C00903,Isabela Oliveira,Consumidor,Fortaleza,CE,2020-11-09,Mídia Paga,18-25
+C00904,Rafael Oliveira,Consumidor,Rio de Janeiro,RJ,2021-02-11,Orgânico,60+
+C00905,Gabriela Araújo,Consumidor,Manaus,AM,2021-06-16,Indicação,18-25
+C00906,Sofia Barbosa,Consumidor,Porto Alegre,RS,2022-03-26,Orgânico,60+
+C00907,Ana Carvalho,PME,São Paulo,SP,2021-07-17,Indicação,46-60
+C00908,Felipe Ribeiro,Consumidor,Rio de Janeiro,RJ,2021-05-27,Orgânico,36-45
+C00909,Felipe Souza,PME,Recife,PE,2021-01-07,Indicação,36-45
+C00910,Karina Almeida,Consumidor,Belo Horizonte,MG,2021-10-06,Indicação,18-25
+C00911,Henrique Araújo,Consumidor,Manaus,AM,2021-04-11,Indicação,60+
+C00912,Paulo Silva,Consumidor,Recife,PE,2022-09-26,Indicação,26-35
+C00913,Diego Ferreira,Corporativo,Brasília,DF,2021-04-11,Mídia Paga,26-35
+C00914,Elaine Gomes,Consumidor,Porto Alegre,RS,2020-09-22,Indicação,26-35
+C00915,Olívia Souza,PME,Recife,PE,2021-05-13,Orgânico,46-60
+C00916,Isabela Moraes,Corporativo,São Paulo,SP,2021-07-27,Orgânico,46-60
+C00917,Quezia Ribeiro,Corporativo,Porto Alegre,RS,2021-04-12,Orgânico,60+
+C00918,Rafael Almeida,Consumidor,Belo Horizonte,MG,2020-11-20,Mídia Paga,26-35
+C00919,Karina Almeida,PME,Salvador,BA,2021-01-03,Parceiro,46-60
+C00920,Ana Pereira,Consumidor,Manaus,AM,2021-12-31,Indicação,18-25
+C00921,Felipe Rocha,PME,São Paulo,SP,2021-01-13,Indicação,46-60
+C00922,Ana Barbosa,PME,Rio de Janeiro,RJ,2021-05-30,Mídia Paga,36-45
+C00923,Marina Lima,Corporativo,Manaus,AM,2021-12-01,Mídia Paga,18-25
+C00924,Isabela Gomes,Consumidor,São Paulo,SP,2020-10-17,Orgânico,60+
+C00925,Paulo Gomes,PME,Porto Alegre,RS,2022-04-07,Orgânico,46-60
+C00926,Isabela Teixeira,Corporativo,Recife,PE,2022-08-11,Indicação,26-35
+C00927,Tiago Teixeira,Consumidor,Manaus,AM,2021-01-13,Orgânico,60+
+C00928,Isabela Costa,Consumidor,Porto Alegre,RS,2021-06-15,Mídia Paga,18-25
+C00929,Isabela Cardoso,Corporativo,Brasília,DF,2021-03-13,Mídia Paga,18-25
+C00930,Nuno Almeida,Corporativo,Salvador,BA,2021-09-16,Orgânico,60+
+C00931,Henrique Souza,Consumidor,São Paulo,SP,2020-11-24,Orgânico,46-60
+C00932,Ana Ferreira,Consumidor,Manaus,AM,2020-08-27,Parceiro,46-60
+C00933,Karina Ribeiro,Corporativo,Porto Alegre,RS,2022-06-17,Orgânico,18-25
+C00934,Isabela Ferreira,Consumidor,Salvador,BA,2020-07-25,Orgânico,26-35
+C00935,Henrique Oliveira,Corporativo,Salvador,BA,2021-06-18,Mídia Paga,60+
+C00936,Marina Carvalho,Consumidor,São Paulo,SP,2022-10-29,Mídia Paga,18-25
+C00937,João Moraes,PME,Fortaleza,CE,2022-10-07,Indicação,18-25
+C00938,Tiago Rocha,Consumidor,Recife,PE,2022-08-26,Orgânico,60+
+C00939,Olívia Rocha,PME,Fortaleza,CE,2021-11-04,Mídia Paga,60+
+C00940,Sofia Costa,Consumidor,Brasília,DF,2021-12-31,Orgânico,18-25
+C00941,Elaine Melo,Consumidor,Porto Alegre,RS,2021-04-25,Orgânico,46-60
+C00942,Elaine Ribeiro,Consumidor,São Paulo,SP,2022-10-02,Indicação,60+
+C00943,Rafael Pereira,Corporativo,Curitiba,PR,2021-04-14,Orgânico,36-45
+C00944,Henrique Melo,PME,Belo Horizonte,MG,2022-10-05,Mídia Paga,60+
+C00945,Gabriela Oliveira,PME,Porto Alegre,RS,2022-05-11,Orgânico,46-60
+C00946,Karina Moraes,PME,Manaus,AM,2021-05-02,Orgânico,36-45
+C00947,Henrique Silva,Consumidor,São Paulo,SP,2021-07-13,Indicação,26-35
+C00948,Marina Costa,Consumidor,Salvador,BA,2020-08-28,Indicação,18-25
+C00949,Diego Pereira,Consumidor,São Paulo,SP,2021-05-13,Orgânico,26-35
+C00950,João Lima,PME,Porto Alegre,RS,2022-05-14,Orgânico,36-45
+C00951,Felipe Costa,PME,Brasília,DF,2022-03-26,Orgânico,36-45
+C00952,Gabriela Ribeiro,Corporativo,Rio de Janeiro,RJ,2021-12-21,Indicação,36-45
+C00953,Tiago Rocha,PME,Brasília,DF,2020-09-05,Mídia Paga,18-25
+C00954,Lucas Carvalho,Consumidor,Brasília,DF,2021-11-10,Indicação,26-35
+C00955,Rafael Ribeiro,Corporativo,Manaus,AM,2022-05-23,Mídia Paga,36-45
+C00956,Paulo Costa,Consumidor,Brasília,DF,2021-04-13,Mídia Paga,46-60
+C00957,Marina Melo,PME,Belo Horizonte,MG,2021-06-30,Indicação,60+
+C00958,Isabela Teixeira,Consumidor,Fortaleza,CE,2021-08-04,Indicação,60+
+C00959,Henrique Martins,PME,Porto Alegre,RS,2021-08-27,Orgânico,46-60
+C00960,Elaine Oliveira,PME,Brasília,DF,2022-09-07,Orgânico,60+
+C00961,Tiago Carvalho,Consumidor,Fortaleza,CE,2021-06-26,Indicação,46-60
+C00962,Olívia Ferreira,Consumidor,São Paulo,SP,2022-06-02,Orgânico,18-25
+C00963,Rafael Oliveira,Consumidor,Brasília,DF,2021-06-25,Mídia Paga,26-35
+C00964,Karina Almeida,Consumidor,Porto Alegre,RS,2021-01-10,Orgânico,36-45
+C00965,Rafael Almeida,Consumidor,Belo Horizonte,MG,2020-10-23,Orgânico,36-45
+C00966,Ana Araújo,Consumidor,Manaus,AM,2020-10-18,Mídia Paga,26-35
+C00967,Henrique Melo,PME,Porto Alegre,RS,2021-08-04,Indicação,60+
+C00968,Gabriela Rocha,PME,Salvador,BA,2020-07-19,Mídia Paga,46-60
+C00969,Lucas Pereira,Consumidor,Brasília,DF,2022-11-02,Indicação,26-35
+C00970,Henrique Rocha,Consumidor,Salvador,BA,2021-12-20,Indicação,46-60
+C00971,Sofia Silva,PME,Curitiba,PR,2022-01-03,Indicação,18-25
+C00972,Sofia Martins,Corporativo,Manaus,AM,2021-03-20,Parceiro,26-35
+C00973,Paulo Santos,Corporativo,Recife,PE,2022-05-24,Orgânico,46-60
+C00974,Tiago Araújo,PME,Belo Horizonte,MG,2022-10-31,Orgânico,26-35
+C00975,Henrique Ribeiro,Consumidor,Curitiba,PR,2022-05-06,Mídia Paga,18-25
+C00976,Felipe Santos,Consumidor,Recife,PE,2021-10-28,Orgânico,46-60
+C00977,Gabriela Ribeiro,Consumidor,Porto Alegre,RS,2022-07-22,Indicação,46-60
+C00978,Gabriela Silva,Consumidor,Fortaleza,CE,2022-02-23,Parceiro,46-60
+C00979,Karina Teixeira,Consumidor,Porto Alegre,RS,2021-06-12,Mídia Paga,46-60
+C00980,João Martins,Consumidor,Fortaleza,CE,2021-12-12,Indicação,26-35
+C00981,Nuno Barbosa,Consumidor,Manaus,AM,2020-11-12,Indicação,26-35
+C00982,Rafael Ribeiro,PME,Belo Horizonte,MG,2022-02-25,Mídia Paga,18-25
+C00983,Nuno Cardoso,PME,Porto Alegre,RS,2021-07-15,Orgânico,36-45
+C00984,Isabela Costa,Consumidor,Fortaleza,CE,2022-06-17,Indicação,46-60
+C00985,Karina Martins,Consumidor,Fortaleza,CE,2021-11-07,Mídia Paga,46-60
+C00986,Olívia Oliveira,Consumidor,Fortaleza,CE,2021-07-24,Orgânico,26-35
+C00987,Isabela Lima,PME,Fortaleza,CE,2020-08-14,Orgânico,18-25
+C00988,Ana Almeida,PME,Belo Horizonte,MG,2022-09-14,Orgânico,36-45
+C00989,Olívia Souza,Consumidor,Brasília,DF,2022-04-25,Mídia Paga,60+
+C00990,Bruno Moraes,PME,Curitiba,PR,2021-09-04,Orgânico,46-60
+C00991,Gabriela Oliveira,PME,Salvador,BA,2022-04-02,Orgânico,18-25
+C00992,Felipe Lima,Corporativo,Porto Alegre,RS,2022-08-26,Orgânico,60+
+C00993,Gabriela Moraes,Consumidor,Brasília,DF,2021-03-01,Orgânico,60+
+C00994,Ana Martins,Consumidor,Salvador,BA,2022-06-08,Mídia Paga,18-25
+C00995,Isabela Moraes,Consumidor,Rio de Janeiro,RJ,2021-01-28,Indicação,18-25
+C00996,Rafael Teixeira,PME,Rio de Janeiro,RJ,2020-12-03,Orgânico,18-25
+C00997,Elaine Carvalho,Consumidor,Recife,PE,2021-01-07,Orgânico,36-45
+C00998,Marina Melo,Corporativo,Manaus,AM,2021-08-30,Indicação,26-35
+C00999,Ana Moraes,Consumidor,São Paulo,SP,2022-04-08,Mídia Paga,18-25
+C01000,Lucas Araújo,Consumidor,São Paulo,SP,2022-07-15,Orgânico,26-35
+C01001,Tiago Barbosa,Consumidor,Porto Alegre,RS,2020-11-20,Mídia Paga,36-45
+C01002,João Silva,Consumidor,Recife,PE,2021-02-07,Orgânico,36-45
+C01003,Henrique Ferreira,Consumidor,São Paulo,SP,2021-01-21,Indicação,46-60
+C01004,Gabriela Souza,Consumidor,Fortaleza,CE,2022-09-22,Indicação,26-35
+C01005,Rafael Costa,Corporativo,Belo Horizonte,MG,2021-04-05,Orgânico,18-25
+C01006,Tiago Ferreira,Consumidor,Recife,PE,2022-06-05,Orgânico,60+
+C01007,Paulo Oliveira,Consumidor,Curitiba,PR,2020-09-23,Parceiro,36-45
+C01008,Elaine Araújo,Consumidor,Recife,PE,2020-10-15,Orgânico,46-60
+C01009,Rafael Pereira,Consumidor,Curitiba,PR,2021-04-02,Indicação,26-35
+C01010,Carla Carvalho,Consumidor,Manaus,AM,2021-07-28,Orgânico,46-60
+C01011,Quezia Gomes,Consumidor,São Paulo,SP,2022-11-19,Indicação,46-60
+C01012,Nuno Souza,Corporativo,Manaus,AM,2022-09-21,Parceiro,18-25
+C01013,Nuno Almeida,Consumidor,Porto Alegre,RS,2020-10-12,Mídia Paga,36-45
+C01014,Henrique Ferreira,Consumidor,Recife,PE,2021-09-24,Indicação,36-45
+C01015,Tiago Barbosa,PME,Belo Horizonte,MG,2022-03-10,Parceiro,26-35
+C01016,Carla Martins,Consumidor,São Paulo,SP,2022-08-05,Indicação,60+
+C01017,Felipe Rocha,Corporativo,Porto Alegre,RS,2021-09-25,Orgânico,36-45
+C01018,Carla Santos,Consumidor,Recife,PE,2020-10-23,Indicação,36-45
+C01019,Marina Ribeiro,PME,Porto Alegre,RS,2020-10-27,Orgânico,26-35
+C01020,João Rocha,PME,Brasília,DF,2021-10-02,Orgânico,36-45
+C01021,Quezia Santos,Consumidor,Fortaleza,CE,2022-05-30,Indicação,26-35
+C01022,Olívia Moraes,Consumidor,Curitiba,PR,2021-10-10,Orgânico,26-35
+C01023,Carla Carvalho,Consumidor,Rio de Janeiro,RJ,2022-02-22,Orgânico,26-35
+C01024,Sofia Souza,Consumidor,São Paulo,SP,2021-01-20,Orgânico,60+
+C01025,Isabela Araújo,PME,Brasília,DF,2020-10-14,Indicação,36-45
+C01026,Henrique Gomes,PME,Salvador,BA,2020-08-18,Mídia Paga,46-60
+C01027,Diego Silva,PME,Salvador,BA,2020-08-29,Indicação,46-60
+C01028,Henrique Gomes,PME,Brasília,DF,2022-02-19,Indicação,46-60
+C01029,Karina Silva,Consumidor,São Paulo,SP,2021-02-17,Indicação,18-25
+C01030,Tiago Oliveira,Corporativo,Fortaleza,CE,2021-10-19,Orgânico,46-60
+C01031,Marina Ribeiro,Corporativo,Rio de Janeiro,RJ,2020-11-11,Indicação,26-35
+C01032,Paulo Oliveira,PME,São Paulo,SP,2022-07-25,Orgânico,60+
+C01033,Paulo Cardoso,Corporativo,Fortaleza,CE,2022-08-06,Orgânico,26-35
+C01034,Karina Martins,Consumidor,São Paulo,SP,2022-06-21,Mídia Paga,26-35
+C01035,Elaine Cardoso,PME,Rio de Janeiro,RJ,2021-01-20,Indicação,46-60
+C01036,Karina Martins,Consumidor,Manaus,AM,2022-09-27,Parceiro,46-60
+C01037,Henrique Ferreira,PME,Recife,PE,2020-08-27,Orgânico,36-45
+C01038,Lucas Pereira,Consumidor,Rio de Janeiro,RJ,2021-04-25,Mídia Paga,46-60
+C01039,Rafael Costa,Consumidor,São Paulo,SP,2021-04-07,Mídia Paga,46-60
+C01040,Tiago Teixeira,Consumidor,Brasília,DF,2021-01-22,Orgânico,46-60
+C01041,João Ferreira,Consumidor,Salvador,BA,2022-07-07,Indicação,46-60
+C01042,Karina Ribeiro,Consumidor,São Paulo,SP,2021-03-29,Indicação,18-25
+C01043,Gabriela Araújo,Consumidor,Manaus,AM,2021-07-31,Orgânico,46-60
+C01044,Bruno Lima,Consumidor,Porto Alegre,RS,2020-12-15,Mídia Paga,46-60
+C01045,Rafael Martins,Consumidor,Belo Horizonte,MG,2022-11-10,Orgânico,46-60
+C01046,Gabriela Cardoso,Corporativo,Curitiba,PR,2022-02-16,Indicação,26-35
+C01047,João Barbosa,Consumidor,São Paulo,SP,2020-07-15,Mídia Paga,60+
+C01048,Gabriela Silva,Consumidor,Porto Alegre,RS,2020-08-31,Indicação,60+
+C01049,Nuno Lima,Consumidor,Belo Horizonte,MG,2021-11-12,Parceiro,18-25
+C01050,Karina Teixeira,Consumidor,Brasília,DF,2021-02-05,Indicação,26-35
+C01051,Henrique Martins,PME,São Paulo,SP,2022-08-03,Indicação,60+
+C01052,Olívia Martins,Corporativo,Rio de Janeiro,RJ,2020-09-27,Orgânico,46-60
+C01053,Paulo Melo,Consumidor,Rio de Janeiro,RJ,2022-07-31,Orgânico,60+
+C01054,Marina Araújo,Consumidor,Manaus,AM,2022-05-31,Parceiro,46-60
+C01055,Rafael Lima,Consumidor,Salvador,BA,2022-09-28,Indicação,18-25
+C01056,Sofia Cardoso,Consumidor,Rio de Janeiro,RJ,2021-06-19,Mídia Paga,18-25
+C01057,Tiago Lima,PME,Rio de Janeiro,RJ,2022-05-31,Orgânico,46-60
+C01058,Rafael Almeida,PME,Belo Horizonte,MG,2022-09-04,Mídia Paga,18-25
+C01059,Rafael Lima,Consumidor,Curitiba,PR,2021-11-25,Indicação,18-25
+C01060,Rafael Barbosa,Consumidor,Curitiba,PR,2021-01-27,Orgânico,46-60
+C01061,Rafael Melo,PME,Salvador,BA,2021-03-22,Orgânico,18-25
+C01062,Tiago Cardoso,PME,Porto Alegre,RS,2022-07-18,Orgânico,36-45
+C01063,Rafael Almeida,Consumidor,Recife,PE,2022-09-17,Orgânico,26-35
+C01064,Gabriela Oliveira,Consumidor,Belo Horizonte,MG,2021-06-02,Indicação,36-45
+C01065,Lucas Teixeira,Corporativo,Porto Alegre,RS,2020-12-01,Mídia Paga,60+
+C01066,Ana Moraes,PME,Recife,PE,2021-11-09,Orgânico,36-45
+C01067,Carla Carvalho,Consumidor,Brasília,DF,2021-10-12,Indicação,36-45
+C01068,Diego Martins,Corporativo,Curitiba,PR,2022-11-22,Parceiro,26-35
+C01069,Quezia Ribeiro,Consumidor,Rio de Janeiro,RJ,2022-06-06,Indicação,46-60
+C01070,Diego Souza,Consumidor,Curitiba,PR,2021-03-20,Orgânico,46-60
+C01071,Tiago Martins,Consumidor,Brasília,DF,2021-05-17,Indicação,26-35
+C01072,Sofia Almeida,Consumidor,Belo Horizonte,MG,2021-11-10,Orgânico,36-45
+C01073,Olívia Lima,PME,Manaus,AM,2021-09-30,Indicação,36-45
+C01074,Carla Ribeiro,PME,Porto Alegre,RS,2022-01-24,Indicação,36-45
+C01075,Henrique Oliveira,PME,Rio de Janeiro,RJ,2020-11-15,Orgânico,18-25
+C01076,Quezia Pereira,Consumidor,São Paulo,SP,2021-09-24,Indicação,60+
+C01077,Diego Martins,PME,Brasília,DF,2020-12-18,Orgânico,26-35
+C01078,Quezia Moraes,Corporativo,Salvador,BA,2022-03-27,Orgânico,46-60
+C01079,Felipe Oliveira,Corporativo,Brasília,DF,2022-04-16,Indicação,26-35
+C01080,Karina Ferreira,Consumidor,Salvador,BA,2022-08-09,Mídia Paga,18-25
+C01081,Ana Teixeira,Consumidor,Curitiba,PR,2022-04-28,Indicação,36-45
+C01082,Paulo Souza,Corporativo,Fortaleza,CE,2021-03-10,Indicação,60+
+C01083,Lucas Lima,Consumidor,Rio de Janeiro,RJ,2022-11-27,Indicação,18-25
+C01084,Diego Araújo,Consumidor,Belo Horizonte,MG,2021-10-08,Orgânico,36-45
+C01085,Nuno Lima,Consumidor,Curitiba,PR,2021-11-24,Indicação,36-45
+C01086,Nuno Silva,Consumidor,Salvador,BA,2020-10-28,Indicação,26-35
+C01087,Nuno Carvalho,Consumidor,Belo Horizonte,MG,2021-10-24,Parceiro,26-35
+C01088,Paulo Cardoso,PME,Rio de Janeiro,RJ,2021-09-27,Indicação,26-35
+C01089,Marina Pereira,Consumidor,Recife,PE,2021-07-07,Orgânico,18-25
+C01090,Karina Rocha,PME,Porto Alegre,RS,2022-10-10,Parceiro,18-25
+C01091,Nuno Ferreira,Consumidor,Fortaleza,CE,2022-09-09,Indicação,60+
+C01092,Nuno Costa,Consumidor,Porto Alegre,RS,2021-01-19,Indicação,18-25
+C01093,Sofia Pereira,PME,Belo Horizonte,MG,2022-05-23,Orgânico,26-35
+C01094,Gabriela Oliveira,Consumidor,São Paulo,SP,2021-03-11,Mídia Paga,46-60
+C01095,Karina Rocha,Consumidor,Porto Alegre,RS,2022-04-19,Indicação,60+
+C01096,Nuno Ferreira,Consumidor,Salvador,BA,2020-12-04,Orgânico,18-25
+C01097,João Araújo,Consumidor,Salvador,BA,2022-04-29,Orgânico,60+
+C01098,Diego Silva,Consumidor,Curitiba,PR,2022-08-10,Mídia Paga,26-35
+C01099,Sofia Melo,Consumidor,Salvador,BA,2020-11-02,Indicação,26-35
+C01100,Tiago Santos,PME,Belo Horizonte,MG,2021-02-26,Orgânico,26-35
+C01101,Rafael Moraes,Consumidor,Rio de Janeiro,RJ,2022-09-17,Orgânico,46-60
+C01102,Rafael Almeida,Corporativo,Porto Alegre,RS,2021-09-30,Mídia Paga,60+
+C01103,Diego Rocha,Corporativo,Fortaleza,CE,2021-02-26,Orgânico,46-60
+C01104,Elaine Ribeiro,Consumidor,Curitiba,PR,2020-12-19,Orgânico,60+
+C01105,Marina Araújo,Consumidor,Porto Alegre,RS,2020-11-04,Mídia Paga,60+
+C01106,Tiago Almeida,Corporativo,Recife,PE,2021-10-18,Orgânico,18-25
+C01107,Quezia Barbosa,Consumidor,São Paulo,SP,2020-09-14,Indicação,60+
+C01108,Henrique Souza,Consumidor,Rio de Janeiro,RJ,2022-06-10,Indicação,36-45
+C01109,Isabela Souza,Consumidor,Curitiba,PR,2022-07-19,Indicação,26-35
+C01110,Karina Oliveira,Corporativo,Manaus,AM,2021-11-20,Parceiro,60+
+C01111,Karina Souza,Consumidor,Manaus,AM,2022-02-04,Indicação,18-25
+C01112,Sofia Santos,PME,São Paulo,SP,2021-05-31,Mídia Paga,46-60
+C01113,Gabriela Barbosa,Corporativo,Manaus,AM,2021-05-17,Orgânico,36-45
+C01114,Nuno Gomes,Consumidor,Fortaleza,CE,2022-04-09,Orgânico,46-60
+C01115,Felipe Costa,Consumidor,Belo Horizonte,MG,2020-08-19,Indicação,26-35
+C01116,Tiago Costa,PME,Recife,PE,2020-12-29,Orgânico,18-25
+C01117,Quezia Pereira,Consumidor,Recife,PE,2022-08-22,Mídia Paga,18-25
+C01118,Henrique Oliveira,PME,São Paulo,SP,2022-07-20,Orgânico,60+
+C01119,Karina Oliveira,Consumidor,Rio de Janeiro,RJ,2021-05-26,Orgânico,46-60
+C01120,Henrique Souza,PME,Fortaleza,CE,2022-06-27,Indicação,36-45
+C01121,Rafael Ribeiro,PME,São Paulo,SP,2022-08-19,Orgânico,46-60
+C01122,João Ferreira,Consumidor,Belo Horizonte,MG,2021-12-06,Parceiro,46-60
+C01123,Felipe Santos,PME,Rio de Janeiro,RJ,2021-07-17,Orgânico,36-45
+C01124,Tiago Pereira,Consumidor,Rio de Janeiro,RJ,2022-10-19,Orgânico,60+
+C01125,João Moraes,Consumidor,Recife,PE,2022-07-02,Mídia Paga,36-45
+C01126,Carla Silva,PME,Curitiba,PR,2020-08-24,Mídia Paga,26-35
+C01127,Olívia Araújo,PME,Belo Horizonte,MG,2021-10-29,Mídia Paga,18-25
+C01128,Marina Gomes,Consumidor,Belo Horizonte,MG,2022-05-30,Orgânico,46-60
+C01129,Karina Pereira,Consumidor,Manaus,AM,2020-09-11,Mídia Paga,26-35
+C01130,Henrique Martins,Consumidor,Brasília,DF,2020-08-13,Orgânico,46-60
+C01131,Carla Ferreira,Consumidor,Porto Alegre,RS,2020-12-13,Indicação,26-35
+C01132,Lucas Gomes,Corporativo,Rio de Janeiro,RJ,2022-10-02,Mídia Paga,26-35
+C01133,Henrique Costa,Consumidor,Brasília,DF,2021-09-27,Mídia Paga,18-25
+C01134,Nuno Gomes,PME,São Paulo,SP,2020-12-20,Orgânico,18-25
+C01135,Ana Pereira,PME,Manaus,AM,2022-06-24,Indicação,18-25
+C01136,Elaine Melo,Consumidor,Belo Horizonte,MG,2021-08-08,Mídia Paga,36-45
+C01137,Ana Ribeiro,Consumidor,Fortaleza,CE,2020-09-23,Orgânico,18-25
+C01138,Nuno Barbosa,PME,São Paulo,SP,2021-10-23,Indicação,36-45
+C01139,Felipe Almeida,Corporativo,Porto Alegre,RS,2021-09-25,Parceiro,60+
+C01140,Marina Lima,Consumidor,São Paulo,SP,2022-04-22,Mídia Paga,60+
+C01141,Karina Martins,PME,Fortaleza,CE,2021-08-01,Mídia Paga,26-35
+C01142,Lucas Moraes,Consumidor,Rio de Janeiro,RJ,2022-09-14,Mídia Paga,36-45
+C01143,Carla Costa,Consumidor,Brasília,DF,2022-08-15,Indicação,36-45
+C01144,Sofia Souza,Consumidor,Rio de Janeiro,RJ,2021-04-28,Indicação,46-60
+C01145,Lucas Ribeiro,Consumidor,Curitiba,PR,2022-11-24,Parceiro,60+
+C01146,Nuno Melo,Consumidor,Rio de Janeiro,RJ,2021-12-28,Orgânico,26-35
+C01147,Bruno Ribeiro,Consumidor,Fortaleza,CE,2021-04-11,Orgânico,46-60
+C01148,Elaine Lima,Consumidor,Porto Alegre,RS,2020-08-28,Parceiro,60+
+C01149,Karina Barbosa,Consumidor,Brasília,DF,2020-10-06,Mídia Paga,36-45
+C01150,Gabriela Moraes,Consumidor,Recife,PE,2022-04-02,Indicação,26-35
+C01151,Ana Pereira,Consumidor,Rio de Janeiro,RJ,2020-08-30,Mídia Paga,36-45
+C01152,Karina Lima,Consumidor,Rio de Janeiro,RJ,2021-08-24,Parceiro,26-35
+C01153,Carla Lima,Consumidor,Salvador,BA,2022-09-02,Mídia Paga,46-60
+C01154,Sofia Araújo,Consumidor,Belo Horizonte,MG,2022-07-29,Orgânico,36-45
+C01155,Lucas Melo,Consumidor,Belo Horizonte,MG,2021-09-07,Mídia Paga,36-45
+C01156,Bruno Ferreira,Consumidor,São Paulo,SP,2021-03-07,Mídia Paga,60+
+C01157,Felipe Teixeira,Consumidor,Curitiba,PR,2021-11-13,Indicação,18-25
+C01158,Rafael Barbosa,Consumidor,Fortaleza,CE,2021-02-13,Orgânico,26-35
+C01159,Nuno Costa,PME,Recife,PE,2020-10-07,Indicação,18-25
+C01160,Isabela Barbosa,Consumidor,Fortaleza,CE,2022-08-07,Orgânico,26-35
+C01161,Sofia Souza,Corporativo,Porto Alegre,RS,2022-01-09,Parceiro,46-60
+C01162,Gabriela Silva,Consumidor,Porto Alegre,RS,2022-10-08,Parceiro,46-60
+C01163,Carla Almeida,Consumidor,Rio de Janeiro,RJ,2022-07-10,Indicação,36-45
+C01164,Bruno Oliveira,PME,Curitiba,PR,2022-05-28,Mídia Paga,46-60
+C01165,Lucas Rocha,Consumidor,Belo Horizonte,MG,2022-05-13,Indicação,60+
+C01166,Ana Cardoso,PME,Manaus,AM,2021-10-30,Mídia Paga,60+
+C01167,Elaine Carvalho,Consumidor,Manaus,AM,2021-03-11,Mídia Paga,36-45
+C01168,Nuno Almeida,Consumidor,Salvador,BA,2022-08-08,Indicação,18-25
+C01169,Olívia Teixeira,Corporativo,Belo Horizonte,MG,2021-02-21,Orgânico,26-35
+C01170,Gabriela Gomes,PME,Manaus,AM,2021-11-11,Orgânico,26-35
+C01171,Lucas Silva,Corporativo,São Paulo,SP,2021-11-18,Orgânico,36-45
+C01172,Nuno Gomes,Consumidor,Fortaleza,CE,2021-10-05,Indicação,60+
+C01173,Felipe Barbosa,Consumidor,Salvador,BA,2022-08-08,Indicação,26-35
+C01174,João Moraes,Consumidor,Recife,PE,2021-02-21,Parceiro,18-25
+C01175,Ana Moraes,Corporativo,Rio de Janeiro,RJ,2022-09-02,Parceiro,18-25
+C01176,Sofia Souza,Consumidor,Fortaleza,CE,2021-07-05,Mídia Paga,46-60
+C01177,Diego Costa,Consumidor,Brasília,DF,2021-11-07,Mídia Paga,18-25
+C01178,Lucas Ferreira,Consumidor,Recife,PE,2022-11-25,Indicação,36-45
+C01179,Henrique Silva,PME,Recife,PE,2021-01-12,Parceiro,46-60
+C01180,Tiago Carvalho,Consumidor,Brasília,DF,2020-08-15,Orgânico,60+
+C01181,Tiago Martins,Corporativo,Recife,PE,2022-05-19,Mídia Paga,60+
+C01182,Quezia Lima,Consumidor,Recife,PE,2022-01-11,Indicação,18-25
+C01183,Sofia Martins,PME,Rio de Janeiro,RJ,2021-02-24,Mídia Paga,36-45
+C01184,Ana Teixeira,PME,São Paulo,SP,2021-09-11,Orgânico,60+
+C01185,Marina Silva,PME,Rio de Janeiro,RJ,2021-04-26,Mídia Paga,26-35
+C01186,Gabriela Cardoso,Corporativo,Porto Alegre,RS,2022-02-01,Mídia Paga,46-60
+C01187,Elaine Silva,PME,Curitiba,PR,2022-09-09,Indicação,60+
+C01188,Isabela Lima,PME,Belo Horizonte,MG,2022-02-16,Orgânico,46-60
+C01189,Diego Araújo,PME,Porto Alegre,RS,2021-10-28,Mídia Paga,46-60
+C01190,Olívia Lima,Consumidor,Recife,PE,2022-01-15,Orgânico,18-25
+C01191,Diego Carvalho,Corporativo,Manaus,AM,2022-10-31,Parceiro,46-60
+C01192,Gabriela Moraes,Corporativo,Curitiba,PR,2022-07-31,Orgânico,18-25
+C01193,Diego Costa,Consumidor,Porto Alegre,RS,2021-11-24,Orgânico,26-35
+C01194,Carla Gomes,Consumidor,Fortaleza,CE,2022-05-12,Mídia Paga,36-45
+C01195,Marina Costa,Consumidor,Recife,PE,2021-06-26,Orgânico,26-35
+C01196,Sofia Ribeiro,PME,Manaus,AM,2020-09-11,Orgânico,26-35
+C01197,Tiago Almeida,Corporativo,Fortaleza,CE,2021-09-25,Mídia Paga,60+
+C01198,Felipe Souza,Consumidor,Rio de Janeiro,RJ,2021-08-29,Parceiro,36-45
+C01199,Marina Silva,Consumidor,Brasília,DF,2021-12-07,Orgânico,36-45
+C01200,Elaine Carvalho,Consumidor,Salvador,BA,2021-11-17,Orgânico,36-45
+C01201,Sofia Carvalho,PME,Porto Alegre,RS,2021-08-13,Mídia Paga,60+
+C01202,Tiago Oliveira,Consumidor,Brasília,DF,2022-02-21,Indicação,46-60
+C01203,Gabriela Souza,PME,Salvador,BA,2022-05-14,Mídia Paga,46-60
+C01204,Sofia Martins,Consumidor,Manaus,AM,2022-01-02,Orgânico,18-25
+C01205,Olívia Ribeiro,Consumidor,Manaus,AM,2022-11-28,Orgânico,46-60
+C01206,Paulo Santos,Consumidor,São Paulo,SP,2022-09-22,Mídia Paga,46-60
+C01207,Carla Cardoso,PME,Salvador,BA,2021-10-19,Mídia Paga,46-60
+C01208,Lucas Moraes,PME,Rio de Janeiro,RJ,2020-07-22,Orgânico,26-35
+C01209,Nuno Ferreira,Consumidor,Rio de Janeiro,RJ,2022-01-06,Orgânico,26-35
+C01210,Bruno Almeida,PME,São Paulo,SP,2020-12-28,Mídia Paga,18-25
+C01211,Karina Moraes,Consumidor,Rio de Janeiro,RJ,2022-03-07,Mídia Paga,46-60
+C01212,Elaine Teixeira,Consumidor,Belo Horizonte,MG,2022-01-10,Mídia Paga,46-60
+C01213,Henrique Teixeira,PME,Brasília,DF,2021-06-10,Indicação,46-60
+C01214,João Oliveira,Corporativo,Curitiba,PR,2020-10-09,Indicação,26-35
+C01215,Carla Oliveira,PME,Porto Alegre,RS,2020-12-21,Parceiro,18-25
+C01216,Karina Costa,Consumidor,Fortaleza,CE,2022-08-17,Mídia Paga,60+
+C01217,Olívia Pereira,Consumidor,Curitiba,PR,2020-12-07,Mídia Paga,18-25
+C01218,Gabriela Martins,Corporativo,Manaus,AM,2021-06-25,Orgânico,36-45
+C01219,Diego Pereira,Consumidor,Manaus,AM,2021-02-07,Indicação,18-25
+C01220,Quezia Barbosa,PME,São Paulo,SP,2021-08-02,Indicação,18-25
+C01221,Elaine Martins,Corporativo,Recife,PE,2022-04-29,Indicação,60+
+C01222,Nuno Costa,Consumidor,Recife,PE,2020-11-13,Orgânico,46-60
+C01223,Quezia Rocha,Consumidor,Manaus,AM,2021-07-15,Orgânico,18-25
+C01224,Isabela Ferreira,PME,São Paulo,SP,2021-04-22,Orgânico,18-25
+C01225,Marina Santos,Consumidor,Recife,PE,2021-10-27,Orgânico,36-45
+C01226,Ana Santos,Consumidor,Manaus,AM,2022-02-11,Orgânico,60+
+C01227,Karina Oliveira,Consumidor,Porto Alegre,RS,2022-06-11,Orgânico,36-45
+C01228,Felipe Almeida,PME,Salvador,BA,2022-11-11,Mídia Paga,26-35
+C01229,Paulo Teixeira,PME,Manaus,AM,2021-12-07,Orgânico,26-35
+C01230,Henrique Melo,Consumidor,Curitiba,PR,2020-07-30,Indicação,26-35
+C01231,Paulo Gomes,PME,Salvador,BA,2021-08-26,Parceiro,36-45
+C01232,Karina Melo,PME,Curitiba,PR,2020-12-05,Mídia Paga,60+
+C01233,Ana Pereira,Consumidor,Brasília,DF,2020-11-17,Parceiro,26-35
+C01234,Gabriela Oliveira,PME,Recife,PE,2021-11-29,Orgânico,46-60
+C01235,Quezia Lima,PME,Brasília,DF,2021-08-29,Orgânico,36-45
+C01236,Bruno Teixeira,PME,Curitiba,PR,2022-05-21,Indicação,36-45
+C01237,Lucas Ribeiro,PME,Fortaleza,CE,2021-05-01,Orgânico,18-25
+C01238,Rafael Lima,Consumidor,Curitiba,PR,2021-03-04,Orgânico,36-45
+C01239,Gabriela Ribeiro,Consumidor,Fortaleza,CE,2022-10-22,Mídia Paga,18-25
+C01240,Isabela Pereira,Consumidor,São Paulo,SP,2022-10-12,Indicação,36-45
+C01241,Carla Almeida,PME,Brasília,DF,2022-06-27,Orgânico,26-35
+C01242,Marina Rocha,Consumidor,Salvador,BA,2022-03-23,Indicação,18-25
+C01243,Felipe Teixeira,PME,Manaus,AM,2022-01-18,Indicação,36-45
+C01244,Gabriela Ribeiro,PME,Recife,PE,2021-05-14,Orgânico,36-45
+C01245,Marina Rocha,Consumidor,Brasília,DF,2022-05-29,Orgânico,60+
+C01246,Nuno Barbosa,Consumidor,Fortaleza,CE,2021-12-05,Indicação,46-60
+C01247,Nuno Oliveira,Consumidor,São Paulo,SP,2020-10-08,Mídia Paga,60+
+C01248,Sofia Ribeiro,Corporativo,Manaus,AM,2021-05-25,Orgânico,46-60
+C01249,Quezia Barbosa,Consumidor,Fortaleza,CE,2020-08-28,Mídia Paga,18-25
+C01250,João Teixeira,Consumidor,Rio de Janeiro,RJ,2020-08-13,Indicação,36-45
+C01251,Quezia Souza,PME,Manaus,AM,2021-01-11,Mídia Paga,60+
+C01252,João Silva,Consumidor,Belo Horizonte,MG,2022-01-28,Mídia Paga,60+
+C01253,Tiago Santos,PME,São Paulo,SP,2022-06-29,Indicação,26-35
+C01254,João Martins,Consumidor,São Paulo,SP,2022-07-31,Indicação,26-35
+C01255,Tiago Barbosa,PME,Brasília,DF,2022-03-11,Mídia Paga,60+
+C01256,Quezia Cardoso,Consumidor,Porto Alegre,RS,2022-06-11,Orgânico,46-60
+C01257,Lucas Almeida,Consumidor,Manaus,AM,2021-07-16,Indicação,18-25
+C01258,Marina Silva,Consumidor,Rio de Janeiro,RJ,2021-05-04,Indicação,18-25
+C01259,Bruno Gomes,PME,Manaus,AM,2021-09-03,Parceiro,46-60
+C01260,Gabriela Gomes,PME,Brasília,DF,2021-07-05,Parceiro,60+
+C01261,Sofia Carvalho,Consumidor,Belo Horizonte,MG,2021-12-07,Indicação,26-35
+C01262,Paulo Moraes,Consumidor,Fortaleza,CE,2021-11-12,Mídia Paga,60+
+C01263,Elaine Carvalho,PME,Brasília,DF,2022-03-12,Indicação,60+
+C01264,Diego Santos,Consumidor,Belo Horizonte,MG,2022-04-09,Indicação,46-60
+C01265,Felipe Martins,Consumidor,Porto Alegre,RS,2022-08-17,Mídia Paga,46-60
+C01266,Lucas Moraes,Corporativo,Rio de Janeiro,RJ,2021-09-06,Indicação,18-25
+C01267,Elaine Teixeira,Corporativo,Fortaleza,CE,2021-11-11,Indicação,26-35
+C01268,Quezia Costa,Consumidor,Belo Horizonte,MG,2021-09-14,Orgânico,18-25
+C01269,Elaine Silva,PME,Porto Alegre,RS,2022-10-29,Indicação,46-60
+C01270,Gabriela Costa,Consumidor,Brasília,DF,2021-07-12,Indicação,46-60
+C01271,Carla Barbosa,Consumidor,Brasília,DF,2022-07-14,Indicação,46-60
+C01272,Paulo Ferreira,PME,Rio de Janeiro,RJ,2022-08-04,Orgânico,60+
+C01273,Isabela Martins,Consumidor,Curitiba,PR,2020-08-06,Mídia Paga,18-25
+C01274,Tiago Melo,PME,Porto Alegre,RS,2021-06-20,Orgânico,60+
+C01275,Paulo Almeida,Consumidor,Rio de Janeiro,RJ,2021-04-15,Mídia Paga,18-25
+C01276,Rafael Carvalho,Consumidor,Belo Horizonte,MG,2022-05-07,Parceiro,18-25
+C01277,Bruno Gomes,Consumidor,Manaus,AM,2021-03-18,Parceiro,46-60
+C01278,Bruno Santos,Consumidor,Belo Horizonte,MG,2022-02-28,Orgânico,60+
+C01279,Henrique Silva,Consumidor,Fortaleza,CE,2022-01-26,Parceiro,18-25
+C01280,Paulo Souza,PME,São Paulo,SP,2021-05-16,Indicação,46-60
+C01281,Elaine Santos,PME,Recife,PE,2021-05-19,Indicação,60+
+C01282,Henrique Oliveira,Corporativo,São Paulo,SP,2022-04-03,Indicação,26-35
+C01283,Bruno Silva,Consumidor,Brasília,DF,2021-04-30,Mídia Paga,26-35
+C01284,Lucas Moraes,PME,São Paulo,SP,2022-01-15,Mídia Paga,26-35
+C01285,Diego Oliveira,Corporativo,Recife,PE,2021-07-30,Orgânico,60+
+C01286,João Gomes,Consumidor,Porto Alegre,RS,2021-09-04,Mídia Paga,36-45
+C01287,Rafael Melo,PME,Curitiba,PR,2022-01-10,Orgânico,36-45
+C01288,Quezia Ferreira,Corporativo,Porto Alegre,RS,2022-07-15,Orgânico,60+
+C01289,Henrique Barbosa,Consumidor,Belo Horizonte,MG,2022-10-27,Indicação,46-60
+C01290,João Oliveira,Corporativo,Manaus,AM,2021-11-04,Orgânico,60+
+C01291,Olívia Souza,Consumidor,Recife,PE,2021-11-04,Orgânico,46-60
+C01292,Lucas Silva,Consumidor,Brasília,DF,2020-10-12,Parceiro,36-45
+C01293,Ana Carvalho,Corporativo,Manaus,AM,2022-04-25,Mídia Paga,60+
+C01294,Diego Cardoso,Consumidor,São Paulo,SP,2020-08-28,Indicação,36-45
+C01295,Sofia Teixeira,PME,Fortaleza,CE,2021-09-24,Mídia Paga,36-45
+C01296,Isabela Almeida,Consumidor,Belo Horizonte,MG,2022-11-17,Orgânico,26-35
+C01297,Bruno Moraes,PME,Manaus,AM,2021-10-24,Orgânico,36-45
+C01298,Sofia Carvalho,PME,Rio de Janeiro,RJ,2022-01-22,Mídia Paga,26-35
+C01299,Bruno Gomes,Consumidor,São Paulo,SP,2021-08-12,Indicação,60+
+C01300,Karina Oliveira,Consumidor,Manaus,AM,2021-05-17,Indicação,36-45
+C01301,Henrique Lima,PME,Fortaleza,CE,2022-07-25,Orgânico,60+
+C01302,Sofia Carvalho,PME,Brasília,DF,2021-09-08,Orgânico,26-35
+C01303,Ana Gomes,Consumidor,Curitiba,PR,2022-03-14,Indicação,18-25
+C01304,Henrique Costa,PME,Brasília,DF,2022-09-14,Orgânico,36-45
+C01305,Nuno Ribeiro,PME,Rio de Janeiro,RJ,2021-02-13,Orgânico,36-45
+C01306,João Moraes,PME,Salvador,BA,2021-08-08,Orgânico,36-45
+C01307,Diego Moraes,Consumidor,Manaus,AM,2022-11-06,Orgânico,36-45
+C01308,Marina Teixeira,Consumidor,Salvador,BA,2022-04-26,Orgânico,26-35
+C01309,Henrique Teixeira,Consumidor,Rio de Janeiro,RJ,2022-09-14,Indicação,60+
+C01310,Bruno Moraes,PME,Brasília,DF,2020-09-06,Indicação,60+
+C01311,Sofia Ribeiro,Consumidor,Porto Alegre,RS,2020-07-29,Parceiro,36-45
+C01312,Henrique Barbosa,Consumidor,Rio de Janeiro,RJ,2020-12-23,Mídia Paga,46-60
+C01313,Lucas Araújo,Consumidor,Brasília,DF,2022-09-15,Indicação,46-60
+C01314,Nuno Teixeira,PME,Brasília,DF,2022-03-27,Mídia Paga,60+
+C01315,Carla Rocha,Consumidor,Salvador,BA,2022-08-04,Indicação,26-35
+C01316,Felipe Santos,Consumidor,Fortaleza,CE,2022-11-17,Indicação,60+
+C01317,Bruno Rocha,PME,Rio de Janeiro,RJ,2022-07-26,Orgânico,26-35
+C01318,Elaine Martins,Corporativo,Recife,PE,2021-12-05,Mídia Paga,26-35
+C01319,Tiago Moraes,PME,Salvador,BA,2021-04-06,Orgânico,18-25
+C01320,Nuno Ribeiro,Consumidor,Fortaleza,CE,2020-11-04,Mídia Paga,26-35
+C01321,Quezia Oliveira,PME,Manaus,AM,2020-08-15,Orgânico,18-25
+C01322,Quezia Teixeira,Consumidor,Fortaleza,CE,2022-06-05,Orgânico,18-25
+C01323,Quezia Melo,Consumidor,São Paulo,SP,2021-05-04,Indicação,46-60
+C01324,Gabriela Rocha,Consumidor,São Paulo,SP,2020-08-21,Indicação,60+
+C01325,Felipe Santos,PME,Salvador,BA,2022-02-14,Orgânico,46-60
+C01326,Diego Ferreira,Consumidor,Manaus,AM,2020-10-22,Mídia Paga,26-35
+C01327,Felipe Silva,Consumidor,Brasília,DF,2020-10-21,Indicação,18-25
+C01328,Gabriela Ribeiro,Corporativo,São Paulo,SP,2021-11-19,Parceiro,60+
+C01329,Olívia Ribeiro,Consumidor,Belo Horizonte,MG,2020-08-04,Parceiro,18-25
+C01330,Diego Gomes,Consumidor,Curitiba,PR,2020-11-13,Mídia Paga,26-35
+C01331,Isabela Barbosa,PME,Brasília,DF,2021-12-24,Indicação,60+
+C01332,Diego Melo,PME,São Paulo,SP,2021-09-15,Orgânico,60+
+C01333,Ana Ferreira,PME,São Paulo,SP,2021-02-21,Orgânico,46-60
+C01334,Felipe Araújo,PME,Fortaleza,CE,2020-08-21,Orgânico,26-35
+C01335,Gabriela Silva,PME,Brasília,DF,2020-11-22,Indicação,46-60
+C01336,Marina Teixeira,Consumidor,Curitiba,PR,2021-03-14,Orgânico,36-45
+C01337,Henrique Ribeiro,Consumidor,Belo Horizonte,MG,2022-01-29,Mídia Paga,46-60
+C01338,Diego Ribeiro,PME,Rio de Janeiro,RJ,2022-04-22,Indicação,46-60
+C01339,Olívia Carvalho,Consumidor,Rio de Janeiro,RJ,2022-06-05,Mídia Paga,36-45
+C01340,Nuno Ferreira,PME,Fortaleza,CE,2021-03-27,Orgânico,36-45
+C01341,Rafael Carvalho,Consumidor,Recife,PE,2022-10-01,Orgânico,36-45
+C01342,Paulo Ferreira,Consumidor,São Paulo,SP,2022-03-03,Orgânico,18-25
+C01343,Rafael Costa,Consumidor,Manaus,AM,2022-06-15,Mídia Paga,18-25
+C01344,Ana Martins,Corporativo,São Paulo,SP,2020-11-23,Orgânico,36-45
+C01345,Bruno Melo,Corporativo,Brasília,DF,2022-09-29,Orgânico,60+
+C01346,Felipe Gomes,Consumidor,Porto Alegre,RS,2022-02-08,Orgânico,26-35
+C01347,Ana Melo,Consumidor,São Paulo,SP,2022-10-27,Orgânico,46-60
+C01348,Isabela Santos,PME,Porto Alegre,RS,2022-10-29,Mídia Paga,46-60
+C01349,Carla Oliveira,PME,Curitiba,PR,2022-09-07,Indicação,46-60
+C01350,Sofia Martins,Consumidor,Rio de Janeiro,RJ,2020-11-09,Orgânico,60+
+C01351,Ana Ribeiro,PME,Recife,PE,2021-06-26,Orgânico,26-35
+C01352,Henrique Rocha,Consumidor,Recife,PE,2022-08-29,Indicação,46-60
+C01353,Marina Silva,Consumidor,Brasília,DF,2022-03-27,Parceiro,46-60
+C01354,Marina Ferreira,Corporativo,Manaus,AM,2022-11-07,Indicação,46-60
+C01355,Carla Santos,Consumidor,Salvador,BA,2022-07-08,Indicação,26-35
+C01356,Paulo Melo,PME,Manaus,AM,2020-07-27,Mídia Paga,60+
+C01357,Nuno Ribeiro,PME,Fortaleza,CE,2022-03-19,Mídia Paga,26-35
+C01358,Gabriela Cardoso,Consumidor,Curitiba,PR,2020-12-26,Mídia Paga,60+
+C01359,Olívia Araújo,Consumidor,Porto Alegre,RS,2022-01-07,Indicação,18-25
+C01360,Quezia Santos,Corporativo,São Paulo,SP,2022-06-20,Orgânico,46-60
+C01361,Felipe Melo,PME,Recife,PE,2021-07-13,Indicação,60+
+C01362,Karina Moraes,Consumidor,Curitiba,PR,2021-06-15,Mídia Paga,60+
+C01363,Gabriela Moraes,PME,Brasília,DF,2020-12-31,Parceiro,36-45
+C01364,Quezia Araújo,Consumidor,Belo Horizonte,MG,2022-06-17,Orgânico,46-60
+C01365,Gabriela Costa,Consumidor,São Paulo,SP,2022-01-17,Mídia Paga,60+
+C01366,Rafael Ferreira,Consumidor,Rio de Janeiro,RJ,2021-12-09,Orgânico,18-25
+C01367,João Gomes,Corporativo,Recife,PE,2021-04-13,Indicação,46-60
+C01368,Diego Costa,Corporativo,Manaus,AM,2022-06-29,Orgânico,36-45
+C01369,Marina Carvalho,Consumidor,Brasília,DF,2021-04-10,Indicação,60+
+C01370,Felipe Silva,PME,Fortaleza,CE,2022-05-02,Mídia Paga,26-35
+C01371,Felipe Araújo,Consumidor,Belo Horizonte,MG,2022-07-09,Mídia Paga,36-45
+C01372,Paulo Carvalho,Consumidor,Recife,PE,2021-01-21,Orgânico,18-25
+C01373,Paulo Gomes,Consumidor,Recife,PE,2020-12-09,Orgânico,60+
+C01374,Isabela Pereira,Consumidor,Belo Horizonte,MG,2021-02-22,Mídia Paga,60+
+C01375,Diego Cardoso,Consumidor,Curitiba,PR,2020-12-31,Mídia Paga,36-45
+C01376,Nuno Costa,Consumidor,Salvador,BA,2020-11-17,Indicação,26-35
+C01377,Olívia Gomes,Consumidor,São Paulo,SP,2022-05-16,Indicação,18-25
+C01378,Tiago Almeida,Consumidor,Brasília,DF,2022-11-19,Orgânico,36-45
+C01379,Bruno Teixeira,PME,Curitiba,PR,2022-02-25,Mídia Paga,46-60
+C01380,Diego Souza,Corporativo,Brasília,DF,2020-08-28,Indicação,60+
+C01381,Carla Rocha,PME,Belo Horizonte,MG,2022-07-21,Mídia Paga,18-25
+C01382,Gabriela Moraes,Consumidor,Brasília,DF,2022-02-21,Mídia Paga,36-45
+C01383,Felipe Teixeira,PME,Salvador,BA,2020-12-06,Mídia Paga,36-45
+C01384,Gabriela Melo,Consumidor,São Paulo,SP,2022-09-27,Orgânico,36-45
+C01385,Gabriela Melo,Consumidor,Curitiba,PR,2021-03-19,Indicação,18-25
+C01386,Olívia Oliveira,Consumidor,Rio de Janeiro,RJ,2021-05-02,Orgânico,18-25
+C01387,Ana Lima,Consumidor,Salvador,BA,2021-04-06,Mídia Paga,26-35
+C01388,Gabriela Pereira,PME,Curitiba,PR,2020-07-28,Orgânico,46-60
+C01389,Karina Rocha,PME,Belo Horizonte,MG,2021-05-03,Orgânico,26-35
+C01390,Carla Araújo,Consumidor,Fortaleza,CE,2022-03-07,Indicação,36-45
+C01391,Felipe Souza,Consumidor,Fortaleza,CE,2020-08-05,Parceiro,60+
+C01392,João Costa,Consumidor,Salvador,BA,2021-02-09,Orgânico,60+
+C01393,Quezia Costa,Consumidor,Curitiba,PR,2022-09-01,Orgânico,46-60
+C01394,Olívia Teixeira,Consumidor,Fortaleza,CE,2022-07-12,Orgânico,60+
+C01395,Diego Gomes,Consumidor,São Paulo,SP,2022-01-06,Mídia Paga,18-25
+C01396,João Lima,Consumidor,Belo Horizonte,MG,2021-12-01,Indicação,26-35
+C01397,Sofia Teixeira,PME,Manaus,AM,2021-08-22,Mídia Paga,46-60
+C01398,Marina Ribeiro,Consumidor,Fortaleza,CE,2021-01-07,Orgânico,26-35
+C01399,Nuno Rocha,PME,Brasília,DF,2022-08-14,Mídia Paga,60+
+C01400,Quezia Costa,Consumidor,Manaus,AM,2020-12-18,Parceiro,60+
+C01401,Bruno Oliveira,PME,Salvador,BA,2020-09-16,Orgânico,26-35
+C01402,Felipe Ribeiro,PME,Belo Horizonte,MG,2022-05-11,Orgânico,26-35
+C01403,Henrique Pereira,Consumidor,Rio de Janeiro,RJ,2020-11-21,Mídia Paga,36-45
+C01404,Gabriela Araújo,Consumidor,Recife,PE,2020-12-17,Mídia Paga,46-60
+C01405,Elaine Carvalho,PME,Rio de Janeiro,RJ,2021-11-01,Mídia Paga,26-35
+C01406,Marina Cardoso,Consumidor,Recife,PE,2021-03-31,Orgânico,46-60
+C01407,Tiago Lima,PME,São Paulo,SP,2022-04-19,Mídia Paga,36-45
+C01408,Henrique Pereira,Consumidor,Recife,PE,2022-09-14,Indicação,18-25
+C01409,Felipe Rocha,Consumidor,Salvador,BA,2021-11-04,Orgânico,36-45
+C01410,Felipe Martins,Consumidor,Recife,PE,2022-06-02,Mídia Paga,18-25
+C01411,Marina Silva,Consumidor,Rio de Janeiro,RJ,2021-01-30,Orgânico,26-35
+C01412,Bruno Ribeiro,Consumidor,Recife,PE,2021-09-26,Indicação,18-25
+C01413,Lucas Araújo,PME,Fortaleza,CE,2021-07-06,Mídia Paga,60+
+C01414,Carla Pereira,Corporativo,Recife,PE,2021-01-11,Orgânico,60+
+C01415,Olívia Rocha,Consumidor,Manaus,AM,2020-11-17,Orgânico,36-45
+C01416,Lucas Almeida,Consumidor,Manaus,AM,2020-12-30,Indicação,36-45
+C01417,João Gomes,PME,Curitiba,PR,2022-06-02,Indicação,46-60
+C01418,Marina Ferreira,Consumidor,São Paulo,SP,2021-06-06,Orgânico,60+
+C01419,Isabela Gomes,Consumidor,Fortaleza,CE,2021-09-17,Parceiro,60+
+C01420,Olívia Souza,Consumidor,Brasília,DF,2021-04-29,Orgânico,36-45
+C01421,Quezia Oliveira,Consumidor,Rio de Janeiro,RJ,2021-11-06,Orgânico,36-45
+C01422,Nuno Santos,Consumidor,Rio de Janeiro,RJ,2020-07-29,Mídia Paga,60+
+C01423,Henrique Souza,Consumidor,Brasília,DF,2021-05-29,Indicação,46-60
+C01424,Quezia Souza,Consumidor,Belo Horizonte,MG,2022-02-22,Indicação,26-35
+C01425,Ana Rocha,PME,Recife,PE,2022-05-04,Mídia Paga,36-45
+C01426,Ana Carvalho,Consumidor,Porto Alegre,RS,2022-04-16,Orgânico,60+
+C01427,Nuno Moraes,Consumidor,Fortaleza,CE,2021-04-09,Orgânico,46-60
+C01428,Olívia Araújo,Consumidor,Fortaleza,CE,2022-06-30,Orgânico,26-35
+C01429,Sofia Oliveira,PME,São Paulo,SP,2021-01-25,Indicação,60+
+C01430,Karina Barbosa,Corporativo,Curitiba,PR,2022-02-07,Mídia Paga,18-25
+C01431,Sofia Rocha,Consumidor,Manaus,AM,2021-12-07,Indicação,18-25
+C01432,Elaine Martins,PME,Recife,PE,2021-05-31,Indicação,18-25
+C01433,João Lima,Consumidor,Rio de Janeiro,RJ,2021-04-27,Mídia Paga,46-60
+C01434,Lucas Santos,Consumidor,Curitiba,PR,2022-01-09,Mídia Paga,36-45
+C01435,Paulo Barbosa,Consumidor,Porto Alegre,RS,2021-10-15,Orgânico,46-60
+C01436,Olívia Lima,Consumidor,Salvador,BA,2020-10-12,Mídia Paga,18-25
+C01437,Gabriela Silva,Consumidor,Recife,PE,2021-10-08,Indicação,26-35
+C01438,Karina Moraes,PME,Recife,PE,2022-11-09,Orgânico,60+
+C01439,Tiago Martins,PME,Salvador,BA,2022-11-09,Indicação,26-35
+C01440,Gabriela Carvalho,PME,Belo Horizonte,MG,2021-08-06,Orgânico,18-25
+C01441,Henrique Moraes,PME,Fortaleza,CE,2021-08-19,Indicação,26-35
+C01442,Karina Lima,PME,Manaus,AM,2020-07-28,Orgânico,18-25
+C01443,Paulo Martins,Consumidor,Recife,PE,2021-06-18,Orgânico,46-60
+C01444,Rafael Silva,Corporativo,Manaus,AM,2021-02-08,Indicação,18-25
+C01445,Marina Melo,Consumidor,São Paulo,SP,2021-11-25,Indicação,46-60
+C01446,Diego Lima,Consumidor,Manaus,AM,2020-10-22,Indicação,36-45
+C01447,Isabela Santos,Consumidor,Fortaleza,CE,2022-05-01,Orgânico,18-25
+C01448,Olívia Carvalho,Consumidor,Salvador,BA,2022-02-03,Mídia Paga,36-45
+C01449,Quezia Ribeiro,Consumidor,Belo Horizonte,MG,2022-07-04,Orgânico,36-45
+C01450,João Araújo,Consumidor,Manaus,AM,2021-02-21,Mídia Paga,36-45
+C01451,Tiago Ribeiro,Consumidor,Belo Horizonte,MG,2022-07-05,Mídia Paga,36-45
+C01452,Isabela Gomes,PME,Manaus,AM,2022-11-20,Mídia Paga,60+
+C01453,Elaine Teixeira,Consumidor,Belo Horizonte,MG,2021-12-15,Mídia Paga,36-45
+C01454,Felipe Araújo,Consumidor,Brasília,DF,2021-07-27,Mídia Paga,18-25
+C01455,Gabriela Ferreira,PME,Porto Alegre,RS,2022-01-20,Orgânico,60+
+C01456,Ana Melo,PME,Fortaleza,CE,2021-04-28,Mídia Paga,26-35
+C01457,Quezia Oliveira,Consumidor,Rio de Janeiro,RJ,2021-12-30,Orgânico,60+
+C01458,Quezia Ferreira,PME,Fortaleza,CE,2021-05-01,Orgânico,26-35
+C01459,Olívia Lima,PME,Porto Alegre,RS,2022-04-13,Orgânico,60+
+C01460,Quezia Ribeiro,Consumidor,Rio de Janeiro,RJ,2022-07-20,Orgânico,26-35
+C01461,Diego Cardoso,Consumidor,Fortaleza,CE,2021-08-14,Mídia Paga,18-25
+C01462,Gabriela Santos,Consumidor,Rio de Janeiro,RJ,2021-08-02,Indicação,26-35
+C01463,Nuno Santos,Consumidor,São Paulo,SP,2021-04-16,Mídia Paga,46-60
+C01464,Isabela Rocha,PME,Fortaleza,CE,2022-12-02,Indicação,46-60
+C01465,João Ribeiro,PME,Fortaleza,CE,2021-06-24,Orgânico,60+
+C01466,Felipe Araújo,Consumidor,Fortaleza,CE,2022-08-10,Orgânico,60+
+C01467,Nuno Ribeiro,Consumidor,Rio de Janeiro,RJ,2020-10-15,Orgânico,46-60
+C01468,Henrique Costa,Consumidor,Rio de Janeiro,RJ,2020-10-12,Orgânico,36-45
+C01469,João Moraes,Consumidor,Rio de Janeiro,RJ,2020-12-31,Orgânico,26-35
+C01470,Felipe Carvalho,Consumidor,Belo Horizonte,MG,2021-03-18,Parceiro,46-60
+C01471,Isabela Araújo,PME,Curitiba,PR,2022-04-12,Parceiro,36-45
+C01472,João Rocha,Consumidor,Salvador,BA,2021-08-29,Indicação,46-60
+C01473,Lucas Pereira,Consumidor,São Paulo,SP,2021-10-10,Parceiro,36-45
+C01474,Lucas Silva,Consumidor,Curitiba,PR,2020-08-02,Orgânico,46-60
+C01475,Gabriela Moraes,Consumidor,Porto Alegre,RS,2020-09-07,Indicação,36-45
+C01476,Bruno Martins,Consumidor,Manaus,AM,2021-08-08,Mídia Paga,46-60
+C01477,Bruno Santos,Consumidor,Manaus,AM,2021-11-13,Orgânico,36-45
+C01478,Carla Carvalho,Consumidor,Belo Horizonte,MG,2020-10-26,Parceiro,46-60
+C01479,Sofia Costa,PME,Manaus,AM,2022-01-30,Indicação,46-60
+C01480,João Silva,Consumidor,Brasília,DF,2020-08-18,Orgânico,18-25
+C01481,Olívia Costa,PME,Salvador,BA,2021-11-28,Orgânico,46-60
+C01482,Tiago Silva,Consumidor,Curitiba,PR,2022-03-16,Orgânico,46-60
+C01483,Quezia Souza,Consumidor,São Paulo,SP,2020-08-03,Parceiro,60+
+C01484,Rafael Araújo,Consumidor,Salvador,BA,2020-09-14,Orgânico,36-45
+C01485,Rafael Santos,PME,Manaus,AM,2022-08-30,Indicação,60+
+C01486,Carla Rocha,PME,Porto Alegre,RS,2020-10-24,Mídia Paga,46-60
+C01487,Karina Oliveira,Consumidor,Belo Horizonte,MG,2021-02-04,Orgânico,60+
+C01488,Marina Teixeira,Consumidor,Recife,PE,2022-11-11,Orgânico,60+
+C01489,Nuno Pereira,PME,Porto Alegre,RS,2022-01-06,Orgânico,26-35
+C01490,Sofia Gomes,Consumidor,Porto Alegre,RS,2020-10-05,Mídia Paga,60+
+C01491,Felipe Santos,Consumidor,Porto Alegre,RS,2022-01-21,Orgânico,60+
+C01492,Karina Ferreira,Corporativo,Rio de Janeiro,RJ,2022-01-01,Mídia Paga,26-35
+C01493,Gabriela Gomes,Consumidor,Curitiba,PR,2022-04-08,Orgânico,46-60
+C01494,Bruno Barbosa,Consumidor,Porto Alegre,RS,2021-11-08,Indicação,26-35
+C01495,Felipe Melo,Consumidor,Rio de Janeiro,RJ,2022-08-29,Parceiro,60+
+C01496,Karina Rocha,Consumidor,Manaus,AM,2021-12-01,Orgânico,18-25
+C01497,Diego Barbosa,PME,Curitiba,PR,2021-06-30,Orgânico,46-60
+C01498,Carla Rocha,PME,Curitiba,PR,2020-07-29,Parceiro,36-45
+C01499,Ana Almeida,Consumidor,Recife,PE,2021-08-07,Mídia Paga,36-45
+C01500,Elaine Araújo,Consumidor,Brasília,DF,2022-06-26,Mídia Paga,18-25
+C01501,Tiago Rocha,Consumidor,Curitiba,PR,2021-11-17,Mídia Paga,46-60
+C01502,Diego Lima,Consumidor,Belo Horizonte,MG,2021-11-24,Orgânico,26-35
+C01503,Karina Silva,Consumidor,Curitiba,PR,2021-03-06,Mídia Paga,36-45
+C01504,Rafael Martins,Consumidor,Recife,PE,2022-10-16,Mídia Paga,60+
+C01505,Carla Rocha,Consumidor,Salvador,BA,2022-04-18,Parceiro,18-25
+C01506,Tiago Silva,Corporativo,Fortaleza,CE,2022-07-18,Orgânico,46-60
+C01507,Rafael Gomes,PME,Salvador,BA,2021-01-29,Parceiro,18-25
+C01508,Elaine Pereira,Consumidor,Porto Alegre,RS,2021-06-23,Orgânico,18-25
+C01509,Diego Ferreira,PME,Curitiba,PR,2021-03-13,Orgânico,26-35
+C01510,Quezia Teixeira,PME,Manaus,AM,2021-06-18,Parceiro,36-45
+C01511,Elaine Teixeira,PME,Recife,PE,2021-11-14,Mídia Paga,18-25
+C01512,Elaine Souza,PME,Belo Horizonte,MG,2022-11-18,Mídia Paga,26-35
+C01513,Paulo Gomes,Consumidor,Manaus,AM,2021-07-28,Orgânico,60+
+C01514,Isabela Melo,Consumidor,Fortaleza,CE,2022-08-04,Parceiro,36-45
+C01515,Paulo Cardoso,Corporativo,Salvador,BA,2020-08-28,Indicação,18-25
+C01516,Ana Cardoso,PME,Salvador,BA,2021-09-22,Orgânico,26-35
+C01517,João Pereira,Corporativo,Rio de Janeiro,RJ,2021-05-18,Mídia Paga,36-45
+C01518,Marina Melo,Consumidor,Brasília,DF,2022-05-30,Orgânico,26-35
+C01519,Tiago Pereira,PME,Salvador,BA,2021-06-12,Indicação,60+
+C01520,Lucas Lima,Consumidor,Brasília,DF,2022-06-15,Orgânico,26-35
+C01521,Elaine Cardoso,PME,Porto Alegre,RS,2020-07-22,Parceiro,60+
+C01522,Marina Melo,Consumidor,Recife,PE,2022-02-02,Parceiro,46-60
+C01523,Carla Almeida,Consumidor,Curitiba,PR,2022-12-02,Mídia Paga,36-45
+C01524,Elaine Araújo,Consumidor,Recife,PE,2022-07-12,Mídia Paga,26-35
+C01525,Sofia Costa,Consumidor,Recife,PE,2021-10-28,Orgânico,36-45
+C01526,Sofia Pereira,Consumidor,Rio de Janeiro,RJ,2020-11-19,Orgânico,26-35
+C01527,Diego Melo,PME,São Paulo,SP,2021-02-18,Orgânico,18-25
+C01528,Tiago Barbosa,PME,Rio de Janeiro,RJ,2021-05-27,Orgânico,36-45
+C01529,Isabela Santos,PME,São Paulo,SP,2021-11-07,Indicação,46-60
+C01530,Quezia Santos,Consumidor,Curitiba,PR,2022-04-16,Orgânico,60+
+C01531,Paulo Rocha,Corporativo,Porto Alegre,RS,2020-07-15,Indicação,18-25
+C01532,Quezia Carvalho,PME,Curitiba,PR,2021-02-15,Indicação,36-45
+C01533,Paulo Ferreira,Corporativo,Rio de Janeiro,RJ,2020-12-02,Indicação,26-35
+C01534,Tiago Teixeira,Consumidor,Fortaleza,CE,2021-05-07,Indicação,60+
+C01535,Diego Teixeira,PME,São Paulo,SP,2021-03-26,Mídia Paga,18-25
+C01536,Marina Souza,Consumidor,Manaus,AM,2021-09-27,Orgânico,46-60
+C01537,Marina Rocha,PME,Brasília,DF,2022-10-25,Mídia Paga,18-25
+C01538,Ana Barbosa,Consumidor,Curitiba,PR,2021-10-06,Mídia Paga,36-45
+C01539,Isabela Barbosa,Consumidor,Salvador,BA,2022-03-23,Mídia Paga,36-45
+C01540,Rafael Carvalho,Consumidor,Porto Alegre,RS,2021-05-10,Mídia Paga,36-45
+C01541,Karina Gomes,PME,Fortaleza,CE,2022-09-02,Indicação,26-35
+C01542,Tiago Araújo,Consumidor,Recife,PE,2022-01-16,Indicação,46-60
+C01543,Karina Barbosa,Consumidor,Fortaleza,CE,2021-12-08,Mídia Paga,26-35
+C01544,Rafael Ribeiro,Corporativo,Brasília,DF,2020-12-15,Mídia Paga,60+
+C01545,Carla Oliveira,Consumidor,Rio de Janeiro,RJ,2022-05-13,Mídia Paga,46-60
+C01546,Diego Ribeiro,PME,Belo Horizonte,MG,2021-11-03,Indicação,18-25
+C01547,Rafael Pereira,Consumidor,São Paulo,SP,2022-03-26,Mídia Paga,36-45
+C01548,Gabriela Pereira,Consumidor,Porto Alegre,RS,2021-09-08,Orgânico,26-35
+C01549,Olívia Rocha,Corporativo,Fortaleza,CE,2020-07-27,Indicação,60+
+C01550,Isabela Gomes,Consumidor,Manaus,AM,2021-11-01,Mídia Paga,36-45
+C01551,Rafael Gomes,Consumidor,Porto Alegre,RS,2022-01-09,Orgânico,26-35
+C01552,Diego Melo,Consumidor,Manaus,AM,2022-07-24,Mídia Paga,60+
+C01553,Lucas Cardoso,Consumidor,Manaus,AM,2022-04-13,Mídia Paga,26-35
+C01554,Nuno Oliveira,Consumidor,Fortaleza,CE,2021-04-06,Parceiro,26-35
+C01555,Paulo Pereira,Consumidor,São Paulo,SP,2021-12-12,Orgânico,36-45
+C01556,Tiago Araújo,Consumidor,São Paulo,SP,2020-12-02,Indicação,26-35
+C01557,Rafael Ribeiro,Corporativo,Fortaleza,CE,2022-01-19,Orgânico,60+
+C01558,Ana Moraes,PME,Manaus,AM,2022-01-14,Orgânico,36-45
+C01559,Carla Melo,Consumidor,Rio de Janeiro,RJ,2021-03-14,Indicação,26-35
+C01560,Felipe Silva,PME,Belo Horizonte,MG,2020-07-30,Indicação,46-60
+C01561,Sofia Martins,PME,Rio de Janeiro,RJ,2021-10-15,Mídia Paga,46-60
+C01562,Nuno Almeida,PME,Salvador,BA,2022-06-04,Indicação,26-35
+C01563,Carla Carvalho,Consumidor,Salvador,BA,2021-02-08,Indicação,18-25
+C01564,Lucas Santos,Consumidor,São Paulo,SP,2021-01-02,Orgânico,60+
+C01565,Sofia Teixeira,Consumidor,Curitiba,PR,2022-11-04,Indicação,18-25
+C01566,Diego Pereira,Corporativo,Porto Alegre,RS,2021-12-14,Indicação,60+
+C01567,Elaine Barbosa,Consumidor,Belo Horizonte,MG,2021-07-01,Orgânico,18-25
+C01568,Diego Gomes,Corporativo,Curitiba,PR,2022-02-07,Mídia Paga,60+
+C01569,Tiago Pereira,Consumidor,Fortaleza,CE,2022-05-19,Parceiro,36-45
+C01570,Rafael Oliveira,Corporativo,Fortaleza,CE,2022-08-05,Orgânico,36-45
+C01571,Marina Souza,Consumidor,Fortaleza,CE,2022-05-24,Indicação,46-60
+C01572,Quezia Oliveira,PME,Rio de Janeiro,RJ,2020-07-17,Mídia Paga,36-45
+C01573,Marina Cardoso,Corporativo,Brasília,DF,2021-06-16,Indicação,36-45
+C01574,Nuno Martins,Consumidor,Recife,PE,2021-10-15,Orgânico,18-25
+C01575,Marina Ribeiro,Consumidor,Fortaleza,CE,2021-03-18,Indicação,36-45
+C01576,Sofia Teixeira,PME,Rio de Janeiro,RJ,2022-01-22,Indicação,36-45
+C01577,Marina Costa,PME,São Paulo,SP,2022-01-26,Indicação,60+
+C01578,Felipe Melo,Consumidor,Brasília,DF,2020-07-16,Indicação,18-25
+C01579,Karina Oliveira,Corporativo,Belo Horizonte,MG,2022-04-20,Mídia Paga,46-60
+C01580,Diego Ribeiro,Consumidor,Porto Alegre,RS,2020-12-27,Orgânico,26-35
+C01581,Marina Ferreira,PME,Salvador,BA,2022-06-04,Indicação,46-60
+C01582,Sofia Ribeiro,Consumidor,Recife,PE,2021-01-05,Orgânico,36-45
+C01583,Isabela Costa,Consumidor,Recife,PE,2021-11-11,Mídia Paga,46-60
+C01584,Henrique Oliveira,Consumidor,Fortaleza,CE,2022-07-24,Indicação,18-25
+C01585,Rafael Carvalho,Consumidor,Rio de Janeiro,RJ,2022-05-29,Orgânico,36-45
+C01586,Sofia Almeida,Corporativo,Curitiba,PR,2022-02-14,Orgânico,18-25
+C01587,Rafael Araújo,Consumidor,Porto Alegre,RS,2022-09-05,Orgânico,60+
+C01588,Carla Oliveira,Corporativo,Recife,PE,2022-05-28,Orgânico,60+
+C01589,Bruno Melo,Consumidor,Fortaleza,CE,2021-03-31,Mídia Paga,26-35
+C01590,Isabela Lima,PME,Belo Horizonte,MG,2021-12-18,Indicação,26-35
+C01591,João Melo,Corporativo,Recife,PE,2022-06-29,Orgânico,26-35
+C01592,Henrique Moraes,PME,Fortaleza,CE,2022-09-22,Indicação,60+
+C01593,Diego Oliveira,Consumidor,Salvador,BA,2022-10-05,Indicação,60+
+C01594,Diego Ferreira,Consumidor,São Paulo,SP,2022-07-09,Orgânico,18-25
+C01595,Henrique Souza,Consumidor,Manaus,AM,2022-08-02,Indicação,18-25
+C01596,Tiago Martins,Consumidor,Recife,PE,2022-02-16,Indicação,26-35
+C01597,Olívia Araújo,PME,Salvador,BA,2021-02-19,Parceiro,26-35
+C01598,Isabela Lima,Consumidor,Belo Horizonte,MG,2021-10-31,Indicação,18-25
+C01599,Nuno Cardoso,Consumidor,São Paulo,SP,2021-08-19,Mídia Paga,46-60
+C01600,Olívia Barbosa,Consumidor,Recife,PE,2021-08-18,Parceiro,46-60
+C01601,Quezia Costa,Consumidor,Recife,PE,2022-07-19,Orgânico,26-35
+C01602,Rafael Rocha,Consumidor,Salvador,BA,2021-08-15,Indicação,36-45
+C01603,Olívia Ribeiro,Consumidor,Rio de Janeiro,RJ,2021-05-26,Parceiro,60+
+C01604,Nuno Lima,Consumidor,Recife,PE,2021-06-21,Parceiro,18-25
+C01605,Sofia Pereira,PME,Belo Horizonte,MG,2022-02-26,Indicação,60+
+C01606,Paulo Carvalho,PME,Belo Horizonte,MG,2020-10-13,Indicação,60+
+C01607,Diego Oliveira,Consumidor,São Paulo,SP,2021-01-09,Orgânico,18-25
+C01608,Elaine Costa,Corporativo,Salvador,BA,2022-05-09,Orgânico,18-25
+C01609,Olívia Araújo,Consumidor,Manaus,AM,2020-08-06,Orgânico,26-35
+C01610,Nuno Santos,Consumidor,Belo Horizonte,MG,2022-06-18,Indicação,60+
+C01611,Isabela Ferreira,Consumidor,Fortaleza,CE,2020-12-16,Parceiro,26-35
+C01612,Paulo Lima,Corporativo,Fortaleza,CE,2021-11-09,Mídia Paga,60+
+C01613,Sofia Lima,PME,Fortaleza,CE,2021-04-13,Indicação,18-25
+C01614,Carla Lima,Corporativo,Rio de Janeiro,RJ,2021-11-19,Orgânico,36-45
+C01615,Gabriela Carvalho,PME,Rio de Janeiro,RJ,2020-09-14,Orgânico,18-25
+C01616,Felipe Gomes,Consumidor,Manaus,AM,2021-10-01,Mídia Paga,26-35
+C01617,Karina Lima,Consumidor,São Paulo,SP,2021-07-19,Orgânico,26-35
+C01618,Olívia Oliveira,PME,Curitiba,PR,2020-10-26,Orgânico,18-25
+C01619,Sofia Silva,Consumidor,Manaus,AM,2022-11-22,Orgânico,26-35
+C01620,Lucas Melo,Corporativo,Recife,PE,2021-12-24,Mídia Paga,46-60
+C01621,Isabela Cardoso,Consumidor,Salvador,BA,2020-11-26,Orgânico,36-45
+C01622,Diego Silva,Consumidor,Salvador,BA,2021-06-29,Mídia Paga,18-25
+C01623,Sofia Ferreira,Consumidor,Rio de Janeiro,RJ,2022-06-28,Mídia Paga,18-25
+C01624,Elaine Teixeira,Consumidor,Manaus,AM,2022-09-21,Indicação,46-60
+C01625,Diego Souza,PME,Rio de Janeiro,RJ,2021-03-15,Mídia Paga,26-35
+C01626,Nuno Ferreira,Corporativo,Rio de Janeiro,RJ,2022-11-29,Orgânico,18-25
+C01627,Gabriela Araújo,Consumidor,Porto Alegre,RS,2021-08-02,Indicação,26-35
+C01628,Quezia Silva,Consumidor,Fortaleza,CE,2022-05-27,Orgânico,26-35
+C01629,Diego Oliveira,Consumidor,Manaus,AM,2022-05-23,Orgânico,36-45
+C01630,Nuno Melo,PME,Curitiba,PR,2021-03-27,Indicação,26-35
+C01631,Ana Almeida,Consumidor,Porto Alegre,RS,2021-06-07,Orgânico,26-35
+C01632,Nuno Oliveira,Consumidor,Manaus,AM,2020-10-20,Mídia Paga,46-60
+C01633,Sofia Gomes,Consumidor,Rio de Janeiro,RJ,2022-01-10,Mídia Paga,60+
+C01634,Paulo Gomes,PME,Fortaleza,CE,2021-12-01,Indicação,46-60
+C01635,Sofia Lima,Consumidor,Porto Alegre,RS,2022-04-13,Orgânico,36-45
+C01636,Olívia Barbosa,Consumidor,Recife,PE,2021-08-15,Orgânico,46-60
+C01637,Karina Martins,Consumidor,Belo Horizonte,MG,2020-09-16,Parceiro,26-35
+C01638,Sofia Lima,Consumidor,Belo Horizonte,MG,2022-07-01,Orgânico,18-25
+C01639,Ana Araújo,Consumidor,Salvador,BA,2022-05-14,Indicação,36-45
+C01640,Paulo Rocha,PME,Manaus,AM,2020-11-21,Indicação,26-35
+C01641,Carla Carvalho,Consumidor,Salvador,BA,2022-08-16,Mídia Paga,60+
+C01642,Ana Ribeiro,Consumidor,Recife,PE,2021-07-18,Indicação,36-45
+C01643,Diego Moraes,PME,Recife,PE,2021-03-16,Orgânico,36-45
+C01644,Carla Silva,Consumidor,Manaus,AM,2021-08-05,Indicação,46-60
+C01645,Paulo Almeida,Consumidor,Porto Alegre,RS,2022-01-16,Indicação,60+
+C01646,Sofia Moraes,PME,Manaus,AM,2022-04-12,Orgânico,26-35
+C01647,Quezia Santos,Consumidor,São Paulo,SP,2022-01-16,Indicação,26-35
+C01648,Olívia Martins,PME,Curitiba,PR,2022-09-25,Mídia Paga,36-45
+C01649,Henrique Ferreira,PME,São Paulo,SP,2021-08-04,Indicação,36-45
+C01650,Karina Moraes,Consumidor,Salvador,BA,2021-07-24,Mídia Paga,26-35
+C01651,Diego Ribeiro,PME,Manaus,AM,2021-03-23,Mídia Paga,26-35
+C01652,Isabela Costa,Consumidor,São Paulo,SP,2022-01-31,Orgânico,18-25
+C01653,Lucas Barbosa,Consumidor,Recife,PE,2022-09-13,Mídia Paga,26-35
+C01654,Isabela Barbosa,Consumidor,Salvador,BA,2022-08-14,Orgânico,60+
+C01655,Ana Santos,Consumidor,Belo Horizonte,MG,2022-01-06,Orgânico,36-45
+C01656,Nuno Carvalho,Consumidor,Brasília,DF,2022-11-06,Indicação,36-45
+C01657,Sofia Teixeira,PME,Curitiba,PR,2022-01-05,Orgânico,60+
+C01658,Elaine Santos,Consumidor,Rio de Janeiro,RJ,2022-07-12,Indicação,26-35
+C01659,Carla Rocha,Consumidor,Salvador,BA,2021-12-21,Orgânico,18-25
+C01660,Elaine Cardoso,Consumidor,Recife,PE,2020-12-21,Mídia Paga,26-35
+C01661,Henrique Souza,Consumidor,Curitiba,PR,2022-04-14,Indicação,60+
+C01662,Henrique Pereira,Consumidor,São Paulo,SP,2022-04-22,Parceiro,26-35
+C01663,Quezia Ribeiro,Consumidor,Recife,PE,2022-11-13,Indicação,46-60
+C01664,Ana Gomes,Consumidor,Manaus,AM,2021-07-17,Mídia Paga,60+
+C01665,Gabriela Pereira,PME,Belo Horizonte,MG,2021-10-22,Indicação,60+
+C01666,Tiago Almeida,Consumidor,Porto Alegre,RS,2020-10-21,Orgânico,36-45
+C01667,Ana Barbosa,PME,Curitiba,PR,2021-08-27,Indicação,60+
+C01668,Gabriela Costa,PME,Rio de Janeiro,RJ,2020-11-02,Mídia Paga,36-45
+C01669,João Gomes,PME,Manaus,AM,2020-08-17,Indicação,26-35
+C01670,Gabriela Lima,Consumidor,Curitiba,PR,2022-11-20,Mídia Paga,26-35
+C01671,Marina Moraes,Consumidor,Salvador,BA,2021-08-21,Mídia Paga,46-60
+C01672,Tiago Santos,Consumidor,Porto Alegre,RS,2022-09-14,Mídia Paga,18-25
+C01673,João Barbosa,PME,Curitiba,PR,2022-12-02,Indicação,60+
+C01674,Lucas Oliveira,Corporativo,Recife,PE,2020-11-03,Orgânico,18-25
+C01675,Elaine Almeida,Consumidor,Rio de Janeiro,RJ,2022-01-27,Indicação,26-35
+C01676,Ana Santos,Consumidor,Fortaleza,CE,2022-06-07,Orgânico,26-35
+C01677,Isabela Silva,Consumidor,Brasília,DF,2022-02-26,Mídia Paga,46-60
+C01678,Bruno Araújo,Consumidor,Recife,PE,2022-11-02,Indicação,46-60
+C01679,Carla Almeida,Consumidor,Manaus,AM,2022-10-18,Mídia Paga,46-60
+C01680,Olívia Silva,Consumidor,Porto Alegre,RS,2022-04-06,Parceiro,18-25
+C01681,Paulo Ferreira,PME,Recife,PE,2021-05-09,Mídia Paga,18-25
+C01682,Lucas Gomes,Consumidor,Brasília,DF,2022-06-18,Mídia Paga,60+
+C01683,Felipe Teixeira,Consumidor,Salvador,BA,2021-10-12,Indicação,46-60
+C01684,Rafael Rocha,Corporativo,Fortaleza,CE,2021-01-10,Indicação,46-60
+C01685,Lucas Barbosa,Consumidor,Belo Horizonte,MG,2021-12-27,Indicação,60+
+C01686,Karina Cardoso,PME,Belo Horizonte,MG,2021-03-29,Indicação,26-35
+C01687,Marina Oliveira,PME,Porto Alegre,RS,2020-08-10,Mídia Paga,18-25
+C01688,Felipe Ferreira,Corporativo,Curitiba,PR,2021-05-18,Mídia Paga,36-45
+C01689,Marina Melo,Consumidor,Salvador,BA,2021-05-20,Mídia Paga,46-60
+C01690,Olívia Pereira,Consumidor,Rio de Janeiro,RJ,2022-04-15,Mídia Paga,26-35
+C01691,Diego Araújo,PME,Brasília,DF,2020-09-04,Orgânico,18-25
+C01692,Diego Costa,PME,Porto Alegre,RS,2021-05-27,Orgânico,18-25
+C01693,Isabela Barbosa,Consumidor,Rio de Janeiro,RJ,2022-09-25,Parceiro,46-60
+C01694,Lucas Costa,Corporativo,Salvador,BA,2021-10-31,Orgânico,60+
+C01695,Bruno Araújo,Consumidor,Manaus,AM,2021-04-04,Parceiro,46-60
+C01696,Rafael Santos,Consumidor,Recife,PE,2020-10-23,Indicação,60+
+C01697,Marina Souza,PME,Fortaleza,CE,2022-11-05,Parceiro,18-25
+C01698,Marina Carvalho,Consumidor,Rio de Janeiro,RJ,2021-08-24,Orgânico,46-60
+C01699,Tiago Rocha,Consumidor,Fortaleza,CE,2022-04-25,Orgânico,26-35
+C01700,Felipe Barbosa,Consumidor,Rio de Janeiro,RJ,2021-07-06,Orgânico,60+
+C01701,Sofia Santos,Consumidor,São Paulo,SP,2022-03-18,Mídia Paga,46-60
+C01702,Nuno Santos,Consumidor,Manaus,AM,2021-12-28,Mídia Paga,18-25
+C01703,Felipe Martins,Consumidor,São Paulo,SP,2021-11-01,Orgânico,26-35
+C01704,Diego Santos,Consumidor,Fortaleza,CE,2020-08-27,Orgânico,26-35
+C01705,Olívia Araújo,PME,Manaus,AM,2022-11-08,Indicação,46-60
+C01706,Paulo Souza,Consumidor,Rio de Janeiro,RJ,2021-09-30,Orgânico,60+
+C01707,Lucas Araújo,PME,Rio de Janeiro,RJ,2022-03-08,Indicação,26-35
+C01708,Gabriela Barbosa,Corporativo,Manaus,AM,2022-05-25,Mídia Paga,60+
+C01709,Felipe Teixeira,Consumidor,Rio de Janeiro,RJ,2020-09-15,Indicação,60+
+C01710,Lucas Souza,Consumidor,Recife,PE,2022-11-21,Indicação,18-25
+C01711,Ana Ribeiro,Consumidor,Manaus,AM,2021-06-07,Mídia Paga,26-35
+C01712,Paulo Costa,Consumidor,Fortaleza,CE,2021-07-31,Orgânico,46-60
+C01713,Elaine Melo,Consumidor,Rio de Janeiro,RJ,2022-07-06,Orgânico,18-25
+C01714,Lucas Ferreira,Consumidor,Recife,PE,2020-07-26,Mídia Paga,46-60
+C01715,Marina Silva,Consumidor,Salvador,BA,2020-09-24,Orgânico,36-45
+C01716,Tiago Melo,Consumidor,Belo Horizonte,MG,2021-07-30,Mídia Paga,26-35
+C01717,Carla Rocha,Consumidor,Fortaleza,CE,2020-10-02,Indicação,46-60
+C01718,Isabela Martins,Consumidor,São Paulo,SP,2021-11-19,Orgânico,36-45
+C01719,Paulo Melo,Consumidor,Salvador,BA,2022-01-21,Indicação,60+
+C01720,Paulo Carvalho,PME,Manaus,AM,2022-07-15,Orgânico,46-60
+C01721,Carla Almeida,Corporativo,Manaus,AM,2021-02-24,Indicação,36-45
+C01722,Sofia Costa,PME,Salvador,BA,2022-04-01,Orgânico,36-45
+C01723,Isabela Moraes,Consumidor,Recife,PE,2022-02-20,Indicação,26-35
+C01724,Lucas Cardoso,PME,Curitiba,PR,2022-05-22,Indicação,26-35
+C01725,João Ferreira,PME,Belo Horizonte,MG,2022-08-04,Orgânico,36-45
+C01726,Isabela Teixeira,Consumidor,Fortaleza,CE,2020-11-28,Indicação,36-45
+C01727,Marina Cardoso,Consumidor,Curitiba,PR,2022-07-28,Parceiro,18-25
+C01728,Isabela Melo,Consumidor,Brasília,DF,2021-04-14,Indicação,26-35
+C01729,Diego Araújo,Consumidor,Fortaleza,CE,2021-04-02,Indicação,36-45
+C01730,Carla Almeida,Consumidor,São Paulo,SP,2022-10-21,Orgânico,60+
+C01731,Bruno Teixeira,Consumidor,Recife,PE,2022-05-07,Orgânico,18-25
+C01732,Tiago Moraes,Consumidor,Porto Alegre,RS,2022-04-21,Indicação,36-45
+C01733,Ana Cardoso,Corporativo,Porto Alegre,RS,2022-06-30,Indicação,26-35
+C01734,Carla Teixeira,Consumidor,São Paulo,SP,2022-06-21,Mídia Paga,36-45
+C01735,Nuno Ferreira,PME,Porto Alegre,RS,2020-07-20,Orgânico,60+
+C01736,João Rocha,Consumidor,Porto Alegre,RS,2021-01-14,Indicação,60+
+C01737,Carla Rocha,PME,Porto Alegre,RS,2022-08-22,Mídia Paga,46-60
+C01738,Isabela Costa,Consumidor,São Paulo,SP,2021-05-27,Mídia Paga,46-60
+C01739,Ana Araújo,Consumidor,Salvador,BA,2022-01-07,Indicação,46-60
+C01740,Marina Lima,PME,Manaus,AM,2020-07-28,Mídia Paga,26-35
+C01741,João Ferreira,Consumidor,Curitiba,PR,2022-03-23,Indicação,46-60
+C01742,Ana Martins,Corporativo,Rio de Janeiro,RJ,2021-08-26,Indicação,36-45
+C01743,Carla Rocha,Consumidor,Fortaleza,CE,2021-09-24,Orgânico,26-35
+C01744,Quezia Moraes,Consumidor,Porto Alegre,RS,2021-04-12,Indicação,26-35
+C01745,Henrique Oliveira,PME,Salvador,BA,2022-10-14,Mídia Paga,26-35
+C01746,Elaine Ribeiro,Consumidor,Curitiba,PR,2021-08-26,Orgânico,46-60
+C01747,João Lima,Consumidor,Porto Alegre,RS,2021-10-09,Indicação,26-35
+C01748,Rafael Araújo,PME,Belo Horizonte,MG,2022-02-10,Parceiro,26-35
+C01749,Carla Oliveira,Consumidor,Porto Alegre,RS,2021-03-25,Mídia Paga,36-45
+C01750,Felipe Pereira,PME,Salvador,BA,2020-11-22,Indicação,26-35
+C01751,Isabela Melo,Consumidor,Belo Horizonte,MG,2020-10-09,Mídia Paga,60+
+C01752,Elaine Ferreira,Consumidor,Belo Horizonte,MG,2020-07-19,Mídia Paga,36-45
+C01753,Felipe Santos,Consumidor,Porto Alegre,RS,2021-08-24,Mídia Paga,26-35
+C01754,Olívia Melo,PME,São Paulo,SP,2022-02-11,Mídia Paga,46-60
+C01755,Quezia Gomes,Consumidor,Brasília,DF,2021-08-12,Mídia Paga,60+
+C01756,Quezia Araújo,PME,Recife,PE,2022-06-15,Orgânico,18-25
+C01757,João Santos,Consumidor,Salvador,BA,2020-07-23,Indicação,46-60
+C01758,Nuno Pereira,Consumidor,São Paulo,SP,2022-04-26,Indicação,60+
+C01759,Henrique Pereira,PME,Curitiba,PR,2021-10-23,Orgânico,26-35
+C01760,Olívia Pereira,Corporativo,Salvador,BA,2022-05-07,Indicação,18-25
+C01761,Lucas Souza,Consumidor,Rio de Janeiro,RJ,2022-02-03,Indicação,46-60
+C01762,Paulo Souza,PME,Brasília,DF,2021-05-17,Parceiro,46-60
+C01763,Felipe Silva,Consumidor,Curitiba,PR,2021-07-02,Parceiro,26-35
+C01764,Ana Barbosa,PME,Brasília,DF,2021-11-17,Indicação,60+
+C01765,Bruno Melo,Consumidor,Curitiba,PR,2021-11-21,Indicação,46-60
+C01766,Sofia Melo,PME,Brasília,DF,2020-11-16,Orgânico,26-35
+C01767,Isabela Pereira,Corporativo,Fortaleza,CE,2020-11-13,Orgânico,26-35
+C01768,Elaine Costa,Consumidor,Curitiba,PR,2022-11-20,Indicação,26-35
+C01769,Rafael Teixeira,Consumidor,Belo Horizonte,MG,2021-09-21,Orgânico,26-35
+C01770,Carla Ferreira,Consumidor,Fortaleza,CE,2020-09-18,Indicação,26-35
+C01771,Olívia Carvalho,Corporativo,Rio de Janeiro,RJ,2021-01-16,Indicação,36-45
+C01772,Karina Melo,PME,Salvador,BA,2021-02-24,Orgânico,60+
+C01773,Henrique Ferreira,Consumidor,Manaus,AM,2020-09-27,Mídia Paga,46-60
+C01774,Sofia Ribeiro,Consumidor,Recife,PE,2022-10-11,Mídia Paga,36-45
+C01775,Henrique Ferreira,Consumidor,Porto Alegre,RS,2020-07-21,Indicação,26-35
+C01776,Sofia Carvalho,Corporativo,Recife,PE,2021-09-29,Orgânico,26-35
+C01777,Karina Souza,Consumidor,Rio de Janeiro,RJ,2020-09-30,Indicação,46-60
+C01778,Henrique Araújo,Consumidor,Rio de Janeiro,RJ,2022-01-21,Mídia Paga,46-60
+C01779,Nuno Ferreira,Corporativo,Porto Alegre,RS,2021-10-13,Orgânico,60+
+C01780,Carla Oliveira,PME,Rio de Janeiro,RJ,2022-08-21,Mídia Paga,18-25
+C01781,Elaine Souza,Consumidor,Rio de Janeiro,RJ,2020-09-11,Orgânico,26-35
+C01782,Sofia Oliveira,Consumidor,Salvador,BA,2021-01-19,Orgânico,36-45
+C01783,Bruno Moraes,Consumidor,Manaus,AM,2022-09-09,Orgânico,26-35
+C01784,João Moraes,PME,Curitiba,PR,2021-04-04,Mídia Paga,18-25
+C01785,Tiago Almeida,PME,Rio de Janeiro,RJ,2021-08-16,Orgânico,60+
+C01786,Felipe Araújo,Consumidor,Salvador,BA,2021-01-21,Mídia Paga,36-45
+C01787,Henrique Ribeiro,Corporativo,Recife,PE,2021-09-30,Mídia Paga,26-35
+C01788,Elaine Santos,Consumidor,Manaus,AM,2022-08-04,Parceiro,26-35
+C01789,Karina Teixeira,Consumidor,Salvador,BA,2020-12-28,Orgânico,46-60
+C01790,Sofia Ribeiro,Consumidor,Brasília,DF,2020-11-16,Parceiro,26-35
+C01791,Marina Costa,PME,Salvador,BA,2022-06-25,Orgânico,18-25
+C01792,Marina Carvalho,Consumidor,Fortaleza,CE,2021-08-15,Indicação,36-45
+C01793,Sofia Lima,PME,Salvador,BA,2020-10-24,Orgânico,26-35
+C01794,Elaine Ferreira,Corporativo,Belo Horizonte,MG,2022-10-20,Indicação,46-60
+C01795,Bruno Silva,Corporativo,Belo Horizonte,MG,2021-10-01,Indicação,36-45
+C01796,Gabriela Pereira,PME,Brasília,DF,2022-05-10,Orgânico,60+
+C01797,Tiago Moraes,Consumidor,Brasília,DF,2021-04-07,Orgânico,18-25
+C01798,João Carvalho,Consumidor,Fortaleza,CE,2022-10-18,Orgânico,60+
+C01799,Nuno Barbosa,PME,Fortaleza,CE,2020-08-05,Parceiro,60+
+C01800,Bruno Ferreira,Consumidor,Curitiba,PR,2022-01-29,Mídia Paga,60+
+C01801,Bruno Ferreira,Consumidor,Brasília,DF,2022-04-12,Parceiro,46-60
+C01802,Rafael Rocha,Consumidor,Curitiba,PR,2021-06-02,Orgânico,36-45
+C01803,Gabriela Cardoso,PME,Fortaleza,CE,2021-04-17,Mídia Paga,36-45
+C01804,Rafael Costa,PME,Salvador,BA,2022-06-04,Orgânico,46-60
+C01805,Diego Pereira,Consumidor,Fortaleza,CE,2022-11-11,Parceiro,36-45
+C01806,Felipe Gomes,Consumidor,Recife,PE,2022-05-08,Orgânico,36-45
+C01807,Carla Oliveira,Consumidor,Brasília,DF,2021-02-16,Parceiro,18-25
+C01808,Diego Barbosa,PME,Curitiba,PR,2022-06-02,Orgânico,60+
+C01809,Diego Araújo,PME,Fortaleza,CE,2021-06-27,Mídia Paga,36-45
+C01810,Isabela Silva,PME,Porto Alegre,RS,2021-05-23,Parceiro,60+
+C01811,Felipe Pereira,PME,Rio de Janeiro,RJ,2022-09-29,Orgânico,60+
+C01812,Karina Martins,PME,Salvador,BA,2022-11-02,Mídia Paga,46-60
+C01813,Felipe Costa,Consumidor,Recife,PE,2022-04-29,Indicação,46-60
+C01814,Paulo Cardoso,PME,Porto Alegre,RS,2020-07-31,Mídia Paga,46-60
+C01815,Olívia Costa,Consumidor,São Paulo,SP,2022-10-26,Orgânico,36-45
+C01816,Olívia Oliveira,Consumidor,São Paulo,SP,2022-01-14,Orgânico,18-25
+C01817,Elaine Araújo,Consumidor,Rio de Janeiro,RJ,2021-04-04,Indicação,60+
+C01818,João Cardoso,PME,Salvador,BA,2022-03-26,Mídia Paga,36-45
+C01819,Elaine Almeida,Consumidor,Curitiba,PR,2021-01-21,Mídia Paga,26-35
+C01820,Paulo Ribeiro,Consumidor,Salvador,BA,2022-09-17,Mídia Paga,46-60
+C01821,Carla Pereira,Consumidor,Salvador,BA,2022-05-27,Parceiro,60+
+C01822,Diego Lima,Consumidor,Salvador,BA,2022-01-11,Indicação,60+
+C01823,Rafael Cardoso,PME,Curitiba,PR,2022-01-18,Parceiro,18-25
+C01824,João Santos,PME,Curitiba,PR,2021-05-16,Mídia Paga,18-25
+C01825,Karina Almeida,Consumidor,Rio de Janeiro,RJ,2021-01-28,Mídia Paga,26-35
+C01826,Paulo Gomes,Consumidor,Fortaleza,CE,2022-10-20,Indicação,18-25
+C01827,Henrique Oliveira,Consumidor,Brasília,DF,2020-09-10,Orgânico,26-35
+C01828,Gabriela Pereira,PME,São Paulo,SP,2021-08-08,Orgânico,60+
+C01829,Sofia Costa,Consumidor,Brasília,DF,2022-02-26,Indicação,26-35
+C01830,Lucas Pereira,Consumidor,Brasília,DF,2022-02-06,Indicação,60+
+C01831,Tiago Santos,Consumidor,Curitiba,PR,2022-03-22,Mídia Paga,36-45
+C01832,Isabela Pereira,PME,Porto Alegre,RS,2020-10-29,Indicação,60+
+C01833,Bruno Ferreira,Consumidor,Belo Horizonte,MG,2020-12-04,Parceiro,18-25
+C01834,Ana Costa,PME,Rio de Janeiro,RJ,2021-04-23,Mídia Paga,18-25
+C01835,Elaine Santos,Consumidor,Fortaleza,CE,2022-07-08,Mídia Paga,36-45
+C01836,Elaine Costa,Corporativo,Porto Alegre,RS,2021-02-20,Indicação,26-35
+C01837,Paulo Almeida,PME,Porto Alegre,RS,2021-07-19,Indicação,36-45
+C01838,Olívia Melo,Consumidor,São Paulo,SP,2020-10-27,Orgânico,46-60
+C01839,Felipe Rocha,Consumidor,Curitiba,PR,2022-02-19,Mídia Paga,46-60
+C01840,Gabriela Almeida,PME,Porto Alegre,RS,2021-08-29,Mídia Paga,46-60
+C01841,Ana Ferreira,Consumidor,Fortaleza,CE,2022-07-19,Indicação,46-60
+C01842,Lucas Melo,Consumidor,Rio de Janeiro,RJ,2022-03-03,Orgânico,18-25
+C01843,Marina Silva,Consumidor,Curitiba,PR,2020-10-29,Orgânico,18-25
+C01844,Sofia Melo,Consumidor,Brasília,DF,2021-03-14,Parceiro,46-60
+C01845,Rafael Rocha,Corporativo,São Paulo,SP,2022-01-01,Indicação,18-25
+C01846,Isabela Teixeira,Consumidor,Recife,PE,2022-03-20,Orgânico,46-60
+C01847,Lucas Santos,PME,Manaus,AM,2021-05-04,Indicação,60+
+C01848,Henrique Cardoso,Consumidor,Fortaleza,CE,2020-10-16,Orgânico,26-35
+C01849,Sofia Pereira,Consumidor,Rio de Janeiro,RJ,2022-08-19,Orgânico,18-25
+C01850,Elaine Ferreira,Consumidor,Brasília,DF,2021-09-07,Mídia Paga,26-35
+C01851,Nuno Santos,Consumidor,São Paulo,SP,2021-04-10,Parceiro,60+
+C01852,Carla Almeida,PME,Manaus,AM,2022-08-03,Mídia Paga,60+
+C01853,Paulo Almeida,PME,Porto Alegre,RS,2022-10-18,Indicação,18-25
+C01854,Carla Melo,Corporativo,Salvador,BA,2022-08-22,Indicação,60+
+C01855,Olívia Cardoso,Consumidor,Salvador,BA,2021-12-02,Mídia Paga,18-25
+C01856,Felipe Ferreira,PME,Porto Alegre,RS,2022-06-09,Mídia Paga,26-35
+C01857,Olívia Souza,Consumidor,Belo Horizonte,MG,2022-02-03,Mídia Paga,26-35
+C01858,João Rocha,PME,Salvador,BA,2021-02-28,Orgânico,18-25
+C01859,Felipe Gomes,PME,Recife,PE,2022-11-25,Orgânico,26-35
+C01860,Elaine Rocha,PME,Porto Alegre,RS,2022-09-19,Orgânico,26-35
+C01861,Rafael Melo,PME,Brasília,DF,2020-12-02,Parceiro,60+
+C01862,Tiago Cardoso,PME,Belo Horizonte,MG,2020-08-06,Mídia Paga,26-35
+C01863,Olívia Almeida,Corporativo,Manaus,AM,2020-07-29,Orgânico,60+
+C01864,Marina Cardoso,Consumidor,Recife,PE,2022-02-03,Indicação,18-25
+C01865,Henrique Cardoso,PME,Belo Horizonte,MG,2022-10-08,Parceiro,18-25
+C01866,Quezia Lima,Consumidor,Belo Horizonte,MG,2022-10-09,Indicação,26-35
+C01867,Tiago Cardoso,PME,São Paulo,SP,2021-06-30,Mídia Paga,26-35
+C01868,Rafael Pereira,Consumidor,Curitiba,PR,2021-12-27,Mídia Paga,18-25
+C01869,Henrique Oliveira,Consumidor,Porto Alegre,RS,2022-07-12,Indicação,60+
+C01870,Felipe Almeida,Consumidor,Salvador,BA,2021-08-18,Parceiro,36-45
+C01871,Ana Silva,Consumidor,São Paulo,SP,2020-09-30,Orgânico,26-35
+C01872,Diego Barbosa,PME,Porto Alegre,RS,2021-07-28,Mídia Paga,60+
+C01873,Elaine Gomes,PME,Manaus,AM,2022-11-06,Orgânico,18-25
+C01874,Rafael Pereira,PME,Belo Horizonte,MG,2022-09-06,Indicação,60+
+C01875,Carla Pereira,Consumidor,Brasília,DF,2020-10-07,Orgânico,36-45
+C01876,Olívia Silva,Consumidor,Brasília,DF,2021-09-13,Orgânico,18-25
+C01877,Lucas Carvalho,Consumidor,Porto Alegre,RS,2021-11-11,Orgânico,60+
+C01878,Isabela Melo,Consumidor,Recife,PE,2022-07-03,Orgânico,36-45
+C01879,Felipe Teixeira,Consumidor,Curitiba,PR,2020-08-13,Indicação,18-25
+C01880,Tiago Moraes,Consumidor,Porto Alegre,RS,2021-10-08,Indicação,60+
+C01881,Quezia Lima,Consumidor,Manaus,AM,2020-09-26,Orgânico,18-25
+C01882,Rafael Melo,Consumidor,Brasília,DF,2022-07-28,Mídia Paga,36-45
+C01883,Paulo Araújo,PME,Belo Horizonte,MG,2021-05-21,Mídia Paga,26-35
+C01884,Isabela Ferreira,Consumidor,Rio de Janeiro,RJ,2021-10-19,Orgânico,18-25
+C01885,Felipe Melo,Consumidor,Curitiba,PR,2020-11-19,Indicação,36-45
+C01886,Quezia Rocha,Consumidor,Belo Horizonte,MG,2021-11-20,Orgânico,36-45
+C01887,Marina Ribeiro,Corporativo,Fortaleza,CE,2022-10-22,Parceiro,46-60
+C01888,Marina Ferreira,Consumidor,São Paulo,SP,2022-05-25,Mídia Paga,36-45
+C01889,Ana Oliveira,Consumidor,Curitiba,PR,2022-05-20,Indicação,36-45
+C01890,Ana Ferreira,Consumidor,Brasília,DF,2021-07-03,Mídia Paga,36-45
+C01891,Isabela Carvalho,Consumidor,Brasília,DF,2022-06-03,Mídia Paga,26-35
+C01892,Bruno Ribeiro,Consumidor,São Paulo,SP,2022-02-09,Orgânico,26-35
+C01893,Quezia Almeida,Consumidor,Salvador,BA,2022-05-18,Indicação,18-25
+C01894,Tiago Barbosa,Consumidor,Rio de Janeiro,RJ,2020-12-04,Indicação,18-25
+C01895,Sofia Oliveira,Consumidor,Porto Alegre,RS,2022-03-31,Indicação,26-35
+C01896,Bruno Oliveira,Consumidor,São Paulo,SP,2021-10-12,Parceiro,60+
+C01897,Diego Barbosa,PME,Salvador,BA,2021-10-30,Parceiro,46-60
+C01898,Ana Silva,PME,Belo Horizonte,MG,2022-05-03,Indicação,36-45
+C01899,Tiago Melo,PME,Belo Horizonte,MG,2020-07-28,Parceiro,26-35
+C01900,Tiago Santos,PME,Curitiba,PR,2020-08-12,Parceiro,46-60
+C01901,Lucas Moraes,Corporativo,Porto Alegre,RS,2021-10-27,Mídia Paga,26-35
+C01902,Sofia Ribeiro,PME,Brasília,DF,2021-02-16,Orgânico,36-45
+C01903,Ana Teixeira,Consumidor,Fortaleza,CE,2021-12-16,Orgânico,46-60
+C01904,Elaine Oliveira,Consumidor,Manaus,AM,2021-07-03,Orgânico,36-45
+C01905,Bruno Ribeiro,Consumidor,Rio de Janeiro,RJ,2022-03-16,Orgânico,60+
+C01906,Paulo Martins,Consumidor,Salvador,BA,2022-04-03,Indicação,18-25
+C01907,Ana Souza,Consumidor,Belo Horizonte,MG,2021-09-22,Parceiro,18-25
+C01908,Ana Martins,Consumidor,Rio de Janeiro,RJ,2020-08-17,Orgânico,46-60
+C01909,Felipe Costa,Consumidor,Porto Alegre,RS,2022-08-22,Orgânico,36-45
+C01910,Paulo Araújo,Consumidor,Manaus,AM,2022-08-13,Indicação,60+
+C01911,Isabela Ribeiro,PME,Porto Alegre,RS,2021-06-13,Mídia Paga,18-25
+C01912,Gabriela Carvalho,Consumidor,Fortaleza,CE,2020-09-25,Orgânico,46-60
+C01913,Nuno Souza,PME,Brasília,DF,2022-07-16,Orgânico,36-45
+C01914,Bruno Melo,PME,São Paulo,SP,2021-03-22,Indicação,60+
+C01915,Sofia Lima,Consumidor,Curitiba,PR,2022-02-13,Parceiro,46-60
+C01916,Nuno Moraes,Corporativo,Manaus,AM,2021-03-04,Indicação,46-60
+C01917,Tiago Moraes,PME,Brasília,DF,2021-02-13,Mídia Paga,46-60
+C01918,Sofia Ferreira,Consumidor,Manaus,AM,2021-11-04,Orgânico,60+
+C01919,Sofia Moraes,Consumidor,Brasília,DF,2022-01-19,Mídia Paga,26-35
+C01920,Elaine Rocha,Corporativo,Porto Alegre,RS,2022-02-04,Indicação,60+
+C01921,Ana Cardoso,Corporativo,Manaus,AM,2020-12-16,Indicação,46-60
+C01922,Gabriela Ribeiro,PME,Fortaleza,CE,2022-06-07,Indicação,26-35
+C01923,Henrique Melo,Consumidor,Manaus,AM,2021-11-27,Orgânico,60+
+C01924,Diego Pereira,PME,Salvador,BA,2021-10-11,Parceiro,60+
+C01925,Elaine Martins,PME,Brasília,DF,2020-08-31,Indicação,36-45
+C01926,Sofia Martins,Consumidor,Brasília,DF,2021-11-06,Orgânico,18-25
+C01927,Nuno Santos,Corporativo,Brasília,DF,2021-07-27,Mídia Paga,26-35
+C01928,Gabriela Almeida,PME,Rio de Janeiro,RJ,2022-03-20,Indicação,26-35
+C01929,Quezia Almeida,Consumidor,Curitiba,PR,2020-07-15,Indicação,18-25
+C01930,Quezia Rocha,PME,São Paulo,SP,2022-11-26,Indicação,46-60
+C01931,Gabriela Oliveira,Consumidor,Recife,PE,2021-07-05,Orgânico,26-35
+C01932,Marina Melo,PME,São Paulo,SP,2022-09-26,Orgânico,36-45
+C01933,Karina Souza,Consumidor,Rio de Janeiro,RJ,2020-11-07,Indicação,26-35
+C01934,Elaine Souza,PME,Recife,PE,2021-02-28,Mídia Paga,26-35
+C01935,Olívia Moraes,PME,Fortaleza,CE,2021-09-07,Orgânico,26-35
+C01936,Elaine Moraes,Consumidor,Recife,PE,2021-01-14,Orgânico,18-25
+C01937,Paulo Martins,Consumidor,Fortaleza,CE,2020-11-20,Parceiro,26-35
+C01938,Quezia Cardoso,Consumidor,São Paulo,SP,2021-10-22,Orgânico,26-35
+C01939,Karina Gomes,Consumidor,Rio de Janeiro,RJ,2022-07-20,Mídia Paga,26-35
+C01940,Ana Costa,Consumidor,Rio de Janeiro,RJ,2021-08-14,Mídia Paga,26-35
+C01941,Marina Santos,PME,Belo Horizonte,MG,2022-12-02,Orgânico,46-60
+C01942,Sofia Gomes,Consumidor,Fortaleza,CE,2021-05-22,Indicação,26-35
+C01943,João Almeida,Consumidor,Brasília,DF,2022-02-02,Indicação,26-35
+C01944,Diego Rocha,PME,Brasília,DF,2022-10-19,Orgânico,18-25
+C01945,Diego Martins,Consumidor,Curitiba,PR,2020-08-03,Indicação,18-25
+C01946,Felipe Oliveira,Corporativo,Brasília,DF,2022-06-11,Orgânico,26-35
+C01947,Felipe Santos,PME,Manaus,AM,2021-06-01,Indicação,36-45
+C01948,Tiago Barbosa,Consumidor,Fortaleza,CE,2020-09-20,Orgânico,46-60
+C01949,Diego Melo,PME,Brasília,DF,2022-03-29,Orgânico,36-45
+C01950,Sofia Cardoso,Consumidor,São Paulo,SP,2021-07-16,Mídia Paga,46-60
+C01951,Paulo Souza,Consumidor,Rio de Janeiro,RJ,2021-08-25,Indicação,46-60
+C01952,Ana Martins,Consumidor,São Paulo,SP,2021-11-24,Indicação,18-25
+C01953,Lucas Carvalho,PME,Porto Alegre,RS,2021-02-26,Mídia Paga,18-25
+C01954,Olívia Santos,Corporativo,Salvador,BA,2021-05-29,Mídia Paga,46-60
+C01955,Felipe Oliveira,Consumidor,Brasília,DF,2021-02-04,Parceiro,26-35
+C01956,Sofia Cardoso,Consumidor,São Paulo,SP,2021-05-11,Mídia Paga,36-45
+C01957,Rafael Silva,Consumidor,Brasília,DF,2022-02-10,Parceiro,26-35
+C01958,Henrique Cardoso,PME,Manaus,AM,2020-12-24,Indicação,60+
+C01959,Elaine Ribeiro,PME,Curitiba,PR,2021-02-07,Mídia Paga,36-45
+C01960,Lucas Barbosa,PME,Rio de Janeiro,RJ,2022-02-15,Indicação,60+
+C01961,Olívia Oliveira,Consumidor,São Paulo,SP,2020-12-21,Indicação,26-35
+C01962,Felipe Silva,Consumidor,Brasília,DF,2020-10-06,Parceiro,46-60
+C01963,Olívia Araújo,Consumidor,Manaus,AM,2022-09-28,Indicação,46-60
+C01964,Elaine Pereira,Consumidor,Brasília,DF,2021-07-11,Orgânico,60+
+C01965,Rafael Carvalho,Consumidor,São Paulo,SP,2020-09-14,Mídia Paga,18-25
+C01966,Isabela Silva,Consumidor,São Paulo,SP,2020-12-20,Mídia Paga,36-45
+C01967,Olívia Teixeira,PME,Manaus,AM,2021-12-28,Orgânico,18-25
+C01968,Isabela Lima,Consumidor,Salvador,BA,2022-03-03,Parceiro,46-60
+C01969,Tiago Ribeiro,Consumidor,Belo Horizonte,MG,2021-12-06,Orgânico,26-35
+C01970,Marina Ferreira,PME,Curitiba,PR,2020-09-15,Mídia Paga,26-35
+C01971,Karina Martins,Consumidor,Manaus,AM,2022-08-19,Orgânico,18-25
+C01972,Karina Martins,PME,Fortaleza,CE,2022-06-03,Orgânico,60+
+C01973,Henrique Carvalho,Consumidor,Porto Alegre,RS,2020-12-21,Indicação,36-45
+C01974,Lucas Silva,Consumidor,Recife,PE,2021-11-19,Parceiro,46-60
+C01975,Ana Moraes,Consumidor,Brasília,DF,2022-01-04,Orgânico,46-60
+C01976,Tiago Santos,PME,Curitiba,PR,2021-02-27,Mídia Paga,60+
+C01977,Tiago Araújo,PME,Rio de Janeiro,RJ,2021-07-28,Orgânico,26-35
+C01978,Lucas Costa,Consumidor,São Paulo,SP,2022-09-05,Indicação,18-25
+C01979,Karina Costa,Consumidor,Salvador,BA,2020-08-07,Orgânico,26-35
+C01980,Henrique Rocha,Consumidor,Brasília,DF,2022-08-25,Indicação,36-45
+C01981,Elaine Santos,Consumidor,Curitiba,PR,2020-07-19,Orgânico,18-25
+C01982,Sofia Melo,Consumidor,Rio de Janeiro,RJ,2020-12-20,Indicação,18-25
+C01983,Isabela Gomes,PME,Fortaleza,CE,2022-11-26,Orgânico,60+
+C01984,Rafael Rocha,Consumidor,Belo Horizonte,MG,2021-12-29,Indicação,36-45
+C01985,Olívia Cardoso,PME,Recife,PE,2020-09-12,Indicação,36-45
+C01986,Karina Teixeira,PME,Curitiba,PR,2021-05-27,Indicação,36-45
+C01987,Felipe Melo,PME,Manaus,AM,2022-02-11,Orgânico,60+
+C01988,Elaine Silva,Corporativo,Salvador,BA,2022-11-06,Mídia Paga,18-25
+C01989,Henrique Oliveira,Consumidor,Porto Alegre,RS,2021-04-11,Parceiro,26-35
+C01990,Carla Costa,PME,Salvador,BA,2022-01-12,Orgânico,36-45
+C01991,Felipe Santos,Consumidor,Recife,PE,2021-05-13,Orgânico,36-45
+C01992,Paulo Ferreira,PME,Fortaleza,CE,2022-07-08,Indicação,46-60
+C01993,Ana Pereira,PME,Recife,PE,2022-07-02,Indicação,60+
+C01994,Gabriela Lima,Corporativo,Rio de Janeiro,RJ,2021-06-12,Mídia Paga,18-25
+C01995,Gabriela Moraes,PME,Rio de Janeiro,RJ,2022-07-26,Orgânico,18-25
+C01996,Henrique Rocha,PME,Rio de Janeiro,RJ,2021-06-18,Orgânico,26-35
+C01997,Rafael Lima,Consumidor,Salvador,BA,2022-11-08,Mídia Paga,46-60
+C01998,Olívia Carvalho,Consumidor,Salvador,BA,2021-07-29,Orgânico,36-45
+C01999,Elaine Teixeira,Consumidor,Belo Horizonte,MG,2021-11-09,Parceiro,36-45
