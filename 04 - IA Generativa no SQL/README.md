@@ -88,37 +88,6 @@ Resultado esperado (últimos 100), podendo variar 1–2 por ser IA:
 
 > O texto livre virou um indicador contável, e você gerou a consulta só descrevendo o que queria
 
-### 1c. Sentimento com um modelo específico: `ai_query`
-1. Copie a consulta abaixo
-2. Troque o 1º argumento do `ai_query` por um destes modelos:
-    - `databricks-claude-haiku-4-5` (Claude)
-    - `databricks-meta-llama-3-3-70b-instruct` (Llama)
-    - `databricks-gpt-oss-120b` (OpenAI)
-3. Rode a consulta
-```sql
-WITH amostra AS (
-    (SELECT texto_reclamacao, csat FROM dbacademy.churn.fato_ticket_suporte WHERE csat = 5 ORDER BY id_ticket LIMIT 2)
-    UNION ALL
-    (SELECT texto_reclamacao, csat FROM dbacademy.churn.fato_ticket_suporte WHERE csat = 3 ORDER BY id_ticket LIMIT 2)
-    UNION ALL
-    (SELECT texto_reclamacao, csat FROM dbacademy.churn.fato_ticket_suporte WHERE csat = 1 ORDER BY id_ticket LIMIT 2)
-)
-SELECT
-    csat,
-    LEFT(texto_reclamacao, 60) AS trecho,
-    ai_query(
-        'databricks-meta-llama-3-3-70b-instruct',
-        'Classifique o sentimento como positive, neutral ou negative. Responda apenas com a palavra. Comentário: ' || texto_reclamacao
-    ) AS sentimento
-FROM amostra
-ORDER BY csat DESC;
-```
-Resultado (Claude):
-- `csat 5 → Positive`
-- `csat 3 → Neutral`
-- `csat 1 → Negative`
-
-As funções dos passos anteriores usam o modelo padrão do Databricks. Com `ai_query` você escolhe qual modelo usar.
 
 ## Passo 2: Classificação
 
@@ -140,35 +109,6 @@ ORDER BY csat DESC;
 ```
 A IA lê o texto livre e escolhe uma das categorias que você definiu (ex.: elogio → `Elogio`, "já pedi cancelamento…" → `Cancelamento`).
 
-### 2b. Classificação com um modelo específico: `ai_query`
-Mesma ideia da 1c, agora classificando o assunto:
-1. Copie a consulta abaixo
-2. Troque o 1º argumento do `ai_query` por um dos modelos da 1c
-3. Rode a consulta
-```sql
-WITH amostra AS (
-    (SELECT texto_reclamacao, csat FROM dbacademy.churn.fato_ticket_suporte WHERE csat = 5 ORDER BY id_ticket LIMIT 2)
-    UNION ALL
-    (SELECT texto_reclamacao, csat FROM dbacademy.churn.fato_ticket_suporte WHERE csat = 3 ORDER BY id_ticket LIMIT 2)
-    UNION ALL
-    (SELECT texto_reclamacao, csat FROM dbacademy.churn.fato_ticket_suporte WHERE csat = 1 ORDER BY id_ticket LIMIT 2)
-)
-SELECT
-    csat,
-    LEFT(texto_reclamacao, 60) AS trecho,
-    ai_query(
-        'databricks-gpt-oss-120b',
-        'Classifique o assunto em uma destas categorias: Cobrança, Técnico, Cancelamento, Elogio, Dúvida. Responda apenas com a categoria. Comentário: ' || texto_reclamacao
-    ) AS categoria
-FROM amostra
-ORDER BY csat DESC;
-```
-Resultado (GPT-OSS):
-- `csat 5 → Elogio`
-- `csat 3 → Dúvida`
-- `csat 1 → Cancelamento`
-
-> Um dos tickets de csat 1 diz *"Já pedi cancelamento e continuam cobrando"*. Ele fala de cancelamento **e** de cobrança, então o modelo pode classificá-lo como **Cobrança**. As duas respostas são defensáveis: é por isso que vale escolher bem as categorias (e o modelo) para o seu caso.
 
 ## Passo 3: Mascaramento de PII com `ai_mask`
 ```sql
@@ -220,7 +160,7 @@ Você está recebendo muitos comentários negativos e isso está impactando a re
 
 **Dica:** Genie Code + AI Functions 😉
 
-Esperado: uma consulta que seleciona 50 comentários com `ai_analyze_sentiment(...) = 'negative'` (use `LIMIT 50`) e aplica `ai_query` em cada um para redigir uma resposta de atendimento. O resultado traz, por linha, o comentário original e a resposta sugerida, pronta para revisão.
+Esperado: uma consulta que seleciona 50 comentários com `ai_analyze_sentiment(...) = 'negative'` (use `LIMIT 50`) e redige uma resposta de atendimento. O resultado traz, por linha, o comentário original e a resposta sugerida, pronta para revisão.
 
 ## Explore
-As AI Functions transformam texto livre em dados estruturados: sentimento e categoria viram colunas que você pode agregar, filtrar e cruzar com churn. Esse "sinal" da voz do cliente será usado adiante no modelo (Ex. 6) e nos agentes.
+As AI Functions transformam texto livre em dados estruturados: sentimento e categoria viram colunas que você pode agregar, filtrar e cruzar com churn.
